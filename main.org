@@ -1,9 +1,24 @@
 #+title: titolo
 #+Author: Lorenzo Macelloni
 
+Ricerca:
+- ((Gender dysphoria) OR (gender incongruence) OR (AMAB) OR (AFAB) OR (gender-affirming hormone treatment)) AND ((BIA) OR (Bioelectrical impedance analysis))
 
 
 
-* Indice
+* Abstract
 
-*
+* Introduzione
+
+
+
+
+* Obiettivi  (?)
+
+* Materiali e Metodi
+
+* Risultati
+
+* Discussione
+
+* Conclusioni
