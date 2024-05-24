@@ -1,17 +1,39 @@
 #+title: titolo
 #+Author: Lorenzo Macelloni
-
-Ricerca:
-- ((Gender dysphoria) OR (gender incongruence) OR (AMAB) OR (AFAB) OR (gender-affirming hormone treatment)) AND ((BIA) OR (Bioelectrical impedance analysis))
+#+BIBLIOGRAPHY: biblio.bib
 
 
 
 * Abstract
 
 * Introduzione
+*** termini - genere, sesso, disforia e incongruenza
+Nella discussione di una condizione come l'Incongruenza di Genere (IG) è opportuno prendere familiarità con una determinata terminologia.
+Spesso infatti alcuni termini come "sesso" e "genere" vengono utilizzati in maniera interscambiabile nel linguaggio comune, considerando quindi inevitabilmente correlate quelle che sono le caratteristiche socioculturali e biologiche che contraddistinguono uomo e donna.
+
+**** Sesso Biologico
+caratteristiche biologiche e antomiche che contraddistinguono un maschio, una femmina o una persona intersessuale
+
+**** Identità di Genere
+
+
+**** Orientamento Sessuale
+**** Varianza o Non Conformità di Genere
+**** Disforia di Genere
+**** Transessuale
+**** Transgender
+**** Intersessuale
 
 
 
+
+*** definizione di incongruenza di genere
+*** epidemiologia (o simili)
+*** eziologia
+*** diagnosi e criteri diagnostici
+*** volendo comorbidità psichiatriche?
+*** clinica
+*** terapia
 
 * Obiettivi  (?)
 
@@ -22,3 +44,5 @@ Ricerca:
 * Discussione
 
 * Conclusioni
+
+
