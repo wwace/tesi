@@ -1,39 +1,136 @@
 #+title: titolo
 #+Author: Lorenzo Macelloni
-#+BIBLIOGRAPHY: biblio.bib
-
+#+bibliography: biblio.bib
+#+latex_header: \usepackage[scaled]{inter} \renewcommand\familydefault{\sfdefault}
 
 
 * Abstract
 
 * Introduzione
-*** termini - genere, sesso, disforia e incongruenza
-Nella discussione di una condizione come l'Incongruenza di Genere (IG) è opportuno prendere familiarità con una determinata terminologia.
-Spesso infatti alcuni termini come "sesso" e "genere" vengono utilizzati in maniera interscambiabile nel linguaggio comune, considerando quindi inevitabilmente correlate quelle che sono le caratteristiche socioculturali e biologiche che contraddistinguono uomo e donna.
+*** Terminologia - sesso, genere, identità di genere, orientamento sessuale
+Nella discussione di una condizione come l'Incongruenza di Genere (IG) è
+opportuno prendere familiarità con una determinata terminologia. Spesso infatti
+alcuni termini come "sesso" e "genere" vengono utilizzati in maniera
+interscambiabile nel linguaggio comune, considerando quindi inevitabilmente
+correlate quelle che sono le caratteristiche socioculturali e biologiche che
+contraddistinguono uomo e donna.
+
+# con gli studi di genere non è più così in breve → aggiungere questo
+Vediamo quindi quelle che sono le definizioni date dall'NIH per questi concetti
+[cite:@noauthor_sex_2022] [cite:@noauthor_sex_nodate]
+# non so se è redundant citare il secondo che è citato dal primo
 
 **** Sesso Biologico
-caratteristiche biologiche e antomiche che contraddistinguono un maschio, una femmina o una persona intersessuale
+Costrutto biologico utilizato per descrivere caratteristiche ormonali, genetiche, anatomiche e biologiche basilari.
+Tipicamente è dicotomico, distingue le categorie maschio e femmina.
+Tuttavia, esistono anche stati intersessuali, in cui i caratteri ed i cromosomi sessuali non sono definibili all'interno di una sola di queste categorie.
+# Tra le condizioni più comuni che determinano questo stato si possono citare la Sd di Klinefelter e la Sd di Morris
 
-**** Identità di Genere
+**** Genere (gender)
+Costrutto multidimensionale sociale e culturale; comprende ruoli, attività, comportamenti ed espressioni, che sono tipicamente identificati all'interno di una determinata società come propriamente maschili o femminili.
+
+Sulla base del genere si definisce l'*identità di genere*.
+Questa è la sensazione individuale di sentirsi parte di una determinata categoria di genere, che può essere maschile, femminile, o stati alternativi e non-binari.
+L'identità di genere è quindi auto-definita, può cambiare nel corso della vita e non corrisponde necessariamente a quelle che sono le aspettative sociali nei confronti del sesso dell'individuo.
+# questa roba dell'identità poi ovviamente l'approfondisco nella parte sulla storia dell'IG no? cioé mi sembra inutile stare a fare troppa intro in questa parte solo di terminologia.
+Queste costituiscono infatti il *ruolo di genere*, ovvero ciò che viene percepito all'interno di una determinata società come proprio di un certo genere, in termini di norme, comportamenti ed espressioni.
+L'*espressione di genere* è quindi la modalità in cui l'individuo decide di mostrare la propra identità di genere attraverso carattersitiche esterne come il proprio abbigliamento, l'utilizzo di determinati pronomni...
+
+**** Orientamento Sessuale [cite:@NAP26424]
+# qua se ho un po'parlato della cosa in vari punti dove dovrei metterla la citazione? all'inizio? in un punto a caso?
+
+L'orientamento sessuale è anch'esso un costrutto complesso che comprende l'attrazione romantica, emotiva e sessuale.
+Fa riferimento quindi agli elementi esterni capaci di indurre una risposta nell'individuo.
+È quindi definito solitamente sulla base del genere delle persone verso cui un indviduo prova attrazione sessuale o romantica, in rapporto al genere dell'individuo stesso.
+# decisamente troppo convuluta sta frase
+
+I termini più comuni che identificano l'orientamento sessuale di basano su una visione binaria del genere e distinguono quindi persone /eterosessuali/, /omosessuali/ e /bisessuali/.
+In tempi relativamente recenti sono stati aggiunti termini che prendono in considerazione una visione più moderna e fluida del genere, come /pansessuale/ che indica un'attrazione verso gli altri che non dipende dal genere.
+
+L'orientamento sessuale, inoltre, così come il genere, non è binario, ma costituisce uno spettro.
+Il primo a prendere in considerazione questa caratteristica fluida della sessualità fu Alfred Kinsey, nel suo libro /Sexual Behavior in the Human Male/ del 1948, dove introduce la Scala di Kinsey [cite:@noauthor_kinsey_2024].
+Questa definisce l'orientamento sessuale secondo un gradiente da 0, esclusiva eterossessualità, a 6, esclusiva omosessualità.
+
+L'orientamento sessuale inoltre viene considerato fluido anche nel tempo, infatti questo può cambiare durante la vita di una persona anche in funzione delle circostanze dell'individuo.
+# se ha senso aggiungere di più devo trovare un qualcosa di sensato da citare
+
+# valutare se aggiungere la parte che divide l'orientamento in attrazione/identità/comportamento, a me sembra un po'overkill
 
 
-**** Orientamento Sessuale
-**** Varianza o Non Conformità di Genere
+**** Transgender and Gender Diverse - TGD
+# maybe da spostare sotto? comunque da qualche parte bene metterlo ed è descritto bene in [cite:@coleman_standards_2022]
+
+
+
+*** definizione di incongruenza di genere, cenni storici di medicina di genere
+**** Varianza` o Non Conformità di Genere
 **** Disforia di Genere
 **** Transessuale
 **** Transgender
 **** Intersessuale
 
 
+*** Epidemiologia
+Nella discussione epidemiologica dei dati che riguardano la popolazione TGD è preferibile evitare i termini "incidenza" e "prevalenza", questi infatti potrebbero sottointendere in maniera impropria una condizione patologica. Oltretutto, il termine "incidenza" non è utilizzabile anche perché sottointende la presenza di un chiaro momento di comparsa dello status TGD, il quale è raramente individuabile.
+Si preferiscono quindi i termini "numero" e "proporzione" per riferirsi alla dimensione assoluta e relativa della popolazione TGD. [cite:@coleman_standards_2022]
 
 
-*** definizione di incongruenza di genere
-*** epidemiologia (o simili)
+Nonostante un'interesse crescente da parte della ricerca nei confronti della salute di questa popolazione, ci sono ancora molti dati epidemiologici anche basilari sui quali si ha poca certezza.
+Le stime riportate in vari studi sono infatti fortemente dipendenti dal tipo di metodologia utilizzata per l'indagine e da una diversa definizione del termine transgender.
+
+# non mi piace per niente questo paragrafo → voglio fare un paragrafo che elabora il discorso di prima ma non mi piace farlo così
+Diverse pubblicazioni prendono in considerazione solamente coloro che hanno richiesto o intrapreso un percorso chirurgico di riassegnazione del sesso, altri prendono in considerazione le diagnosi di disforia di genere, mentre diversi studi svolti tramite sondaggio nella popolazione generale prendono in considerazione l'autoidentificazione come transgender.
+[cite:@collin_prevalence_2016]
+
+
+
+# articolo`` zhang → review del 2020 con vari dati, anche questo prende in considerazione il problema di definizione e anche i cambiamenti storici negli utlimi anni sulle modalità di studio
+Prendendo in considerazione i sondaggi condotti nella popolazione che utilizzano definizioni simili i risultati sono consistenti.
+Questionari che indagavano nello specifico il termine transgender rilevano una stima che va tra lo 0,3% e lo 0,5% tra gli adulti e tra l'1,2% e il 2,7% tra bambini ed adolescenti.
+Utilizzando una definizione più ampia che include termini come "incongruenza di genere" o "ambivalenza di genere" la percentuale aumenta a 0,5-4,5% tra gli adulti e 2,5-8,4% tra i bambini.
+[cite:@zhang_epidemiological_2020]
+
+La dimensione di questa popolazione è inoltre in aumento, su questo concordano sostanzialmente tutte le pubblicazioni che prendono in considerazione l'evoluzione del trend negli anni, indipendentemente da area geografica e modalità di indagine.
+[cite:@goodman_size_2019]
+
+Per quanto riguarda nello specifico la diagnosi clinica di disforia di genere, il DSMV riporta una prevalenza tra il 0,005-0,014% per le persone AMAB e tra il 0,002% e 0,003% per le AFAB, già puntualizzando però come reputi il dato verosimilmente sottostimato.
+# in questo caso è possibile utilizzare il termine prevalenza dato che si fa riferimento ad un'effettiva condizione patologica riconosciuta
+[cite:@noauthor_gender_2022]
+Difatti in questo caso la stima prende in considerazione solamente la parte della popolazione TGD che ha ricevuto a tutti gli effetti una diagnosi, per cui appare evidente come questo numero sia sottostimato di diversi ordini di grandezza rispetto ai sondaggi nella popolazione, i quali utilizzano criteri più generici.
+
+
+
+
+
+
+
+
+
+# altri potenzialmente interessanti:
+- https://www.publish.csiro.au/sh/sh17067 (zuker → mi sembra di averlo visto citato)
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299373 (questo me lo ha dato GPT però sembra carino)
+
+
+# articolo castellini (lol) → studio italiano
+Per quanto riguarda l'Italia, uno studio del 2023 condotto tramite un sondaggio online diffuso attraverso vari social media, riporta che su 19572 partecipanti il 7,7% riporta un'identità di genere diversa dal sesso assegnato alla nascita. [cite:@fisher_estimate_2024]
+Si è anche valutato come i partecipanti TGD avessero un'età media significativamente inferiore rispetto a quelli cisgender.
+Inoltre è interessante notare come tra le persone TGD solamente il 41,6% riportavano un'identita di genere binaria, mentre il 58,4% si identificavano come non-binari.
+# volendo aggiungere il fatto che i non binari tendenzialmente hanno meno bisogno di interventi, cambio di nome etc..?
+
+# dopo la parte su TGD parte poi sulla disforia proprio
+
+
+
+
+
+
 *** eziologia
+
 *** diagnosi e criteri diagnostici
 *** volendo comorbidità psichiatriche?
 *** clinica
 *** terapia
+
 
 * Obiettivi  (?)
 
@@ -46,3 +143,7 @@ caratteristiche biologiche e antomiche che contraddistinguono un maschio, una fe
 * Conclusioni
 
 
+* Bibliografia
+
+#+cite_export: csl sources/american-medical-association.csl
+#+print_bibliography:
