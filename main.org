@@ -1,6 +1,7 @@
 #+title: titolo
 #+Author: Lorenzo Macelloni
 #+bibliography: biblio.bib
+#+LATEX_CLASS: article
 #+latex_header: \usepackage[scaled]{inter} \renewcommand\familydefault{\sfdefault}
 
 
@@ -19,6 +20,7 @@ contraddistinguono uomo e donna.
 Vediamo quindi quelle che sono le definizioni date dall'NIH per questi concetti
 [cite:@noauthor_sex_2022] [cite:@noauthor_sex_nodate]
 # non so se è redundant citare il secondo che è citato dal primo
+# also forse dovrei sostituire con le definizioni dell'APA (che penso siano le stesse)
 
 **** Sesso Biologico
 Costrutto biologico utilizato per descrivere caratteristiche ormonali, genetiche, anatomiche e biologiche basilari.
@@ -72,65 +74,104 @@ L'orientamento sessuale inoltre viene considerato fluido anche nel tempo, infatt
 
 *** Epidemiologia
 Nella discussione epidemiologica dei dati che riguardano la popolazione TGD è preferibile evitare i termini "incidenza" e "prevalenza", questi infatti potrebbero sottointendere in maniera impropria una condizione patologica. Oltretutto, il termine "incidenza" non è utilizzabile anche perché sottointende la presenza di un chiaro momento di comparsa dello status TGD, il quale è raramente individuabile.
-Si preferiscono quindi i termini "numero" e "proporzione" per riferirsi alla dimensione assoluta e relativa della popolazione TGD. [cite:@coleman_standards_2022]
+Si preferiscono quindi i termini "numero" e "proporzione", per riferirsi alla dimensione assoluta e relativa della popolazione TGD. [cite:@coleman_standards_2022]
 
 
 Nonostante un'interesse crescente da parte della ricerca nei confronti della salute di questa popolazione, ci sono ancora molti dati epidemiologici anche basilari sui quali si ha poca certezza.
-Le stime riportate in vari studi sono infatti fortemente dipendenti dal tipo di metodologia utilizzata per l'indagine e da una diversa definizione del termine transgender.
-
-# non mi piace per niente questo paragrafo → voglio fare un paragrafo che elabora il discorso di prima ma non mi piace farlo così
-Diverse pubblicazioni prendono in considerazione solamente coloro che hanno richiesto o intrapreso un percorso chirurgico di riassegnazione del sesso, altri prendono in considerazione le diagnosi di disforia di genere, mentre diversi studi svolti tramite sondaggio nella popolazione generale prendono in considerazione l'autoidentificazione come transgender.
+Le stime riportate in vari studi sono infatti fortemente dipendenti dal tipo di metodologia utilizzata per l'indagine e dalla definizione data del termine transgender.
+A seconda delle pubblicazioni vengono presi in considerazione certe volte solamente color che hanno richiesto o intrapreso un percorso chirurgico di riassegnazione del sesso, altri prendono in considerazione le diagnosi di disforia di genere, mentre diversi studi svolti tramite sondaggio nella popolazione generale prendono in considerazione l'autoidentificazione come transgender.
 [cite:@collin_prevalence_2016]
 
+Per quanto riguarda nello specifico la diagnosi clinica di disforia di genere, il DSMV riporta una prevalenza tra il 0,005-0,014% per le persone AMAB e tra il 0,002% e 0,003% per le AFAB, già puntualizzando però come reputi il dato verosimilmente sottostimato.
+# in questo caso è possibile utilizzare il termine prevalenza dato che si fa riferimento ad un'effettiva condizione patologica riconosciuta
 
+[cite:@noauthor_gender_2022]
+Questa stima infatti prende in considerazione solamente la parte della popolazione TGD che ha ricevuto a tutti gli effetti una diagnosi, per cui appare evidente come questo numero sia sottostimato di diversi ordini di grandezza rispetto ai sondaggi nella popolazione, i quali utilizzano criteri più generici.
 
-# articolo`` zhang → review del 2020 con vari dati, anche questo prende in considerazione il problema di definizione e anche i cambiamenti storici negli utlimi anni sulle modalità di studio
-Prendendo in considerazione i sondaggi condotti nella popolazione che utilizzano definizioni simili i risultati sono consistenti.
-Questionari che indagavano nello specifico il termine transgender rilevano una stima che va tra lo 0,3% e lo 0,5% tra gli adulti e tra l'1,2% e il 2,7% tra bambini ed adolescenti.
-Utilizzando una definizione più ampia che include termini come "incongruenza di genere" o "ambivalenza di genere" la percentuale aumenta a 0,5-4,5% tra gli adulti e 2,5-8,4% tra i bambini.
+# volendo mettere qua un altro studio esempio, quello nella tesi di alessio è un po'vecchio
+
+Prendendo in considerazione i sondaggi condotti nella popolazione che utilizzano definizioni simili, i risultati sono consistenti.
+Questionari che indagavano nello specifico il termine "transgender" rilevavano una stima che va tra lo 0,3% e lo 0,5% tra gli adulti e tra l'1,2% e il 2,7% tra bambini ed adolescenti.
+Utilizzando una definizione più ampia che include termini come "incongruenza di genere" o "ambivalenza di genere" la percentuale aumenta a 0,5-4,5% tra gli adulti e 2,5-8,4% nella popolazione adolescente e pediatrica.
 [cite:@zhang_epidemiological_2020]
 
 La dimensione di questa popolazione è inoltre in aumento, su questo concordano sostanzialmente tutte le pubblicazioni che prendono in considerazione l'evoluzione del trend negli anni, indipendentemente da area geografica e modalità di indagine.
 [cite:@goodman_size_2019]
 
-Per quanto riguarda nello specifico la diagnosi clinica di disforia di genere, il DSMV riporta una prevalenza tra il 0,005-0,014% per le persone AMAB e tra il 0,002% e 0,003% per le AFAB, già puntualizzando però come reputi il dato verosimilmente sottostimato.
-# in questo caso è possibile utilizzare il termine prevalenza dato che si fa riferimento ad un'effettiva condizione patologica riconosciuta
-[cite:@noauthor_gender_2022]
-Difatti in questo caso la stima prende in considerazione solamente la parte della popolazione TGD che ha ricevuto a tutti gli effetti una diagnosi, per cui appare evidente come questo numero sia sottostimato di diversi ordini di grandezza rispetto ai sondaggi nella popolazione, i quali utilizzano criteri più generici.
 
+# altri potenzialmente interessanti: - https://www.publish.csiro.au/sh/sh17067 (zuker → mi sembra di averlo visto citato) - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299373 (questo me lo ha dato GPT però sembra carino)
 
-
-
-
-..
-
-
-
-# altri potenzialmente interessanti:
-- https://www.publish.csiro.au/sh/sh17067 (zuker → mi sembra di averlo visto citato)
-- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299373 (questo me lo ha dato GPT però sembra carino)
-
-
-# articolo castellini (lol) → studio italiano
 Per quanto riguarda l'Italia, uno studio del 2023 condotto tramite un sondaggio online diffuso attraverso vari social media, riporta che su 19572 partecipanti il 7,7% riporta un'identità di genere diversa dal sesso assegnato alla nascita. [cite:@fisher_estimate_2024]
 Si è anche valutato come i partecipanti TGD avessero un'età media significativamente inferiore rispetto a quelli cisgender.
 Inoltre è interessante notare come tra le persone TGD solamente il 41,6% riportavano un'identita di genere binaria, mentre il 58,4% si identificavano come non-binari.
 # volendo aggiungere il fatto che i non binari tendenzialmente hanno meno bisogno di interventi, cambio di nome etc..?
 
-# dopo la parte su TGD parte poi sulla disforia proprio
+# maybe aggiungere dopo una parte più specifica sull'epidemiologia della disforia di genere come diagnosi clinica che ne parlo un po'poco
 
 
 
 
 
 
-*** eziologia
+*** Eziologia
+
+Attualmente non sono ancora stati identificati dei chiari fattori eziologici determinanti nell'insorgenza di una incongruenza di genere.
+Come molte altre patologie, l'ipotesi più attuale comprende l'interazione tra molteplici fattori di tipo biologico, genetico e psicosociale.
+
+**** Fattori Neurologici
+Il coinvolgimento neurologico si basa sull'ipotesi che i soggetti transgender abbiano delle differenze nello sviluppo dei circuiti cerebrali, rispetto ai cisgender, e che questo sia determinante nell'insorgenza dell'incongruenza di genere.
+La base biologica di questa teoria è la differenza già nota tra cervello maschile e femminile nei soggetti cisgender; questa si presenta sia in un leggero vantaggio dell'uno o l'altro sesso in alcuni task cognitivi, sia in una vera e propria differenza anatomica di trofismo di alcune zone cerebrali piuttosto che altre. [cite:@miller_new_2014]
+
+Sono diversi i fattori che intervengono nel determinare queste differenze e non tutti sono conosciuti; sicuramente è presente un'influenza ambientale, com'è reso evidente dal fatto che queste differenze tra maschi e femmine sono diverse in diverse aree geografiche, è molto probabile anche un ruolo degli ormoni sessuali durante sviluppo, difatti le differenze di trofismo sono state associate ad aree con diversa quantità di recettori estrogenici e androgenici nelle varie aree cerebrali. [cite:@goldstein_normal_2001]
+
+Per quanto riguarda la popolazione TGD, seppur siano state dimostrate alcune differenze strutturali e funzionali nel cervello degli individui TGD, non è ancora stato indiviuato in letteratura un pattern preciso che si possa associare chiaramente a determinati cambiamenti strutturali.
+Alcuni studi dimostrano come la morfologia cervello di individui con incongruenza di genere sia complessivamente più simile ad individui cisgender del sesso assegnato alla nascita rispetto a individui cisgender dell'identità di genere scelta [cite:@frigerio_structural_2021].
+Tuttavia esiste anche evidenza discordante, ad esempio gli studi riguardanti la struttura della materia bianca tedono a concordare sull'esistenza di un fenotipo intermedio negli individui transgender, differente da quello di entrambi maschi e femmine cisgender[cite:@mueller_transgender_2017] [cite:@guillamon_review_2016][cite:@manzouri_possible_2019].
+
+# volendo aggiungere? https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7750413/
+
+Complessivamente è difficile giungere a conclusioni chiare, gli studi infatti sono limitati dall'uso di metodiche di imaging non invasive e popolazioni di piccole dimenioni; oltretutto molti prendono in considerazione sia l'identità di genere che l'orientamento sessuale, rendendo difficile differenziare chiaramente l'influenza delle due variabili.
+
+
+
+**** Fattori Genetici
+Diversi studi ipotizzano la presenza di una componente genetica nella costruzione dell'identità di genere quindi dell'incongruenza, tuttavia al momento non sono stati trovati geni specifici direttamente coinvolti.
+
+Diversi studi sono stati condotti su gemelli monozigoti, mettendo in evidenaza come questi abbiano un tasso di concordanza maggiore sia per quanto riguarda l'identità sia per l'incongruenza di genere. [cite:@kauffman_concordance_2022] [cite:@diamond_transsexuality_2013]
+
+Uno studio ha studiato invece il potenziale ruolo dei geni coinvolti nel /signaling/ degli ormoni sessuali, mettendo in evidenza come alcune varianti genetiche siano correlate all'incongruenza di genere in alcuni pazienti AMAB, facendo anche valutazioni ed ipotesi sul meccanismo di azione degli specifici polimorfismi. [cite:@foreman_genetic_2019]
+
+# volendo c'è un articolo di fi che cita i cromosomi sessuali, però sostanzialmente dice che quelli con la Klinefelter hanno più GD, ma più perché sono autistici che perché sono klinefelter quindi boh mi sembra misleading mettere questo discorso qua come l'ha messo alessioMarrucci [cite:@fisher_hypersexuality_2015]
+# volendo questo articolo rivede un po' la cosa https://link.springer.com/article/10.1007/s10519-018-9889-z#Sec13
+
+
+**** Fattori Endocrini
+???
+# qualcosa nella tesi di alessio marrucci ma non mi piace come è fatto perché sono sostanzialmente fattori genetici, o lo includo in quelli oppure devo trovare altro da dire
+
+
+**** Fattori Psicologici e Sociali
+
+La maggior parte degli studi prendono in considerazione il probabile intervento di vari fattori psicologici nella genesi dell'identità di genere e quindi dell'incongruenza, diverse teorie psicologiche identificano elementi differenti che potrebbero agire in diverse fasi della vita dell'individuo.
+
+La teoria più primitiva è quella /psicodinamica/, che si rifa addirittura alla teoria Freudiana dell'identificazione, ipotizzando un intervento importante dell'esperienza infantile nella determinazione dell'identità di genere. Secondo la "teoria dell'identificazione" di Freud il bambino tende ad identificarsi con il genitore del sesso opposto in quello che è il complesso di Edipo. [cite:@benjamin_father_1991]
+Nonostante ancora non venga espresso chiaramente il concetto di incongruenza di genere, è chiaro come questi concetti sottointendano l'ipotesi di una certa variabilità e fluidità nell'identità di genere.
+
+La successiva teoria /psicosociale/ prende invece in considerazione l'intervento di fattori ambientali e culturali nella determinazione dell'identità di genere.
+# fino qua ho preso praticamente la tesi di lorenzo auricchio, poi lui inizia a citare paper a caso quindi ho cercato di rivedere un po'
+
+L'apprendimento del comportamento e ruolo di genere avvengono tramite l'osservazione e l'imitazione nel contesto sociale, andando a replicare quelli che sono i comportamenti considerati adeguati al proprio sesso, in un procedimento graduale che si sviluppa negli anni [cite:@steensma_gender_2013].
+Nella popolazione TGD verosimilmente lo sviluppo della propria identità di genere avviene in modo anologo, con simili fattori determinanti,[cite:@mehrtens_transgender_2023] tuttavia, uno studio sulla popolazione pediatrica ha individuato un possibile rallentamento nell'acquisizione di un'identità di genere stabile in bambini che riconoscono un'identità di genere non corrispondente al proprio sesso biologico[cite:@zucker_gender_1999].
+Un ruolo importante è anche attribuito alla presenza nell'ambiente familiare e sociale di una pressione sul bambino a comportarsi in maniera conforme al proprio sesso biologico. Questa insistenza si riflette negativamente sull'adattamento psicologico del bambino, motivo per cui si reputa al contrario ottimale un ambiente in cui il bambino possa sentirsi libero sia di confermare la propria appartenenza al sesso biologico, sia gli venga data la possibilità di esplorare identità di genere alternative. [cite:@egan_gender_2001]
+
+
+#+latex: % nella tesi di lorenzo auricchio c'è una parte sul trauma però io non ho trovato niente di articoli, nemmeno quelli citati da lui ne parlano (non dicono quello che c'è scritto...)
+
 
 *** diagnosi e criteri diagnostici
-*** volendo comorbidità psichiatriche?
 *** clinica
 *** terapia
-
+*** BIA ??
 
 * Obiettivi  (?)
 
