@@ -3,6 +3,12 @@
 #+bibliography: biblio.bib
 #+LATEX_CLASS: article
 #+latex_header: \usepackage[scaled]{inter} \renewcommand\familydefault{\sfdefault}
+#+latex_header: \usepackage{setspace} \onehalfspacing
+#+latex_header: \usepackage{geometry} \geometry{a4paper, top=2.5cm, bottom=2.5cm, left=3.5cm, right=2.5cm }
+
+# #+SETUPFILE: jake-standard-latex-export.org
+
+
 
 
 * Abstract
@@ -64,7 +70,7 @@ L'orientamento sessuale inoltre viene considerato fluido anche nel tempo, infatt
 
 
 
-*** definizione di incongruenza di genere, cenni storici di medicina di genere
+*** Definizione di incongruenza di genere, cenni storici di medicina di genere
 **** Varianza` o Non Conformità di Genere
 **** Disforia di Genere
 **** Transessuale
@@ -168,12 +174,86 @@ Un ruolo importante è anche attribuito alla presenza nell'ambiente familiare e 
 #+latex: % nella tesi di lorenzo auricchio c'è una parte sul trauma però io non ho trovato niente di articoli, nemmeno quelli citati da lui ne parlano (non dicono quello che c'è scritto...)
 
 
-*** diagnosi e criteri diagnostici
+*** Criteri Diagnostici - DSM-5-TR e ICD-11
+# :addCitations:checkTranslations:
+
+Nel discutere i criteri diagnostici nella popolazione TGD è bene rimarcare la differenza tra i termini incongruenza di genere e disforia di genere.
+# presumo di aver già detto qualcosa su questo nella sezione prima per quello rimarcare
+
+L'*incongruenza di genere* è il termine utilizzato dalla International Classification of Diseases (ICD-11), questa è caratterizzata dalla presenza di una incongruenza tra l'esperienza di genere ed il sesso assegnato alla nascita. L'incongruenza di genere abbraccia in maniera più ampia la popolazione TGD e non indica una condizione patologica o disturbo psichiatrico.[cite:@noauthor_icd-11_nodate]
+
+La *disforia di genere* invece viene diagnosticata secondo i criteri del Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR), in questo caso quindi viene identificata una condizione patolgica di sofferenza, determinata dall'incongruenza tra il genere esperito ed il sesso biologico. [cite:@noauthor_diagnostic_nodate]
+
+Data l'evoluzione di entrambe queste condizioni nella vita di un individuo, entrambe queste pubblicazioni utilizzano criteri diversi per i bambini e per adolescenti e adulti.
+
+# quante volte devo citare il DSM e l'ICD qua? cioé è ovvio che sto prendendo tutto da questi
+
+**** Criteri Diagnostici nei Bambini
+
+# AGGIUNGERE CITAZIONE → non capisco come citare sottosezioni dell'ICD o DSM quindi poi dopo devo sistemare citazioni a tutto questo
+
+La definizione dell'ICD-11 dell'incongruenza di genere nei bambini:
+# copiato da alessio marrucci
+#+BEGIN_QUOTE
+Marcata discrepanza tra il  genere sperimentato/espresso da un individuo e il sesso assegnato nei bambini prepuberali.  Questo include un forte desiderio di essere di un genere diverso rispetto al sesso assegnato; una  forte avversione da parte del bambino verso la sua anatomia sessuale o le caratteristiche sessuali  secondarie anticipate e/o un forte desiderio che le caratteristiche sessuali primarie e/o secondarie  anticipate che corrispondano al genere sperimentato; giochi, giocattoli, attività e compagni di  gioco fittizi o fantasiosi tipici del genere sperimentato piuttosto che del sesso assegnato. La discrepanza deve persistere per circa 2 anni.
+#+END_QUOTE
+
+
+# Gender incongruence of childhood is characterised by a marked incongruence between an individual’s experienced/expressed gender and the assigned sex in pre-pubertal children. It includes a strong desire to be a different gender than the assigned sex; a strong dislike on the child’s part of his or her sexual anatomy or anticipated secondary sex characteristics and/or a strong desire for the primary and/or anticipated secondary sex characteristics that match the experienced gender; and make-believe or fantasy play, toys, games, or activities and playmates that are typical of the experienced gender rather than the assigned sex. The incongruence must have persisted for about 2 years. Gender variant behaviour and preferences alone are not a basis for assigning the diagnosis.
+
+
+I criteri diagnostici nel DSM-5 per la disforia di genere nei bambini:
+A. Una marcata incongruenza tra il genere esperito/espresso da un individuo e  le caratteristiche sessuali e il genere assegnato, della durata di almeno 6 mesi, che si  manifesta attraverso almeno sei dei seguenti criteri:
+   1. Un forte desiderio di appartenere al genere opposto o insistenza sul fatto di  appartenere al genere opposto (o un genere alternativo diverso dal genere  assegnato).
+   2. Nei bambini, una forte preferenza per il travestimento con abbigliamento tipico  del genere opposto o per la simulazione dell’abbigliamento femminile; nelle  bambine, una forte preferenza per l’indossare esclusivamente abbigliamento  tipicamente maschile e una forte resistenza a indossare abbigliamento  tipicamente femminile.
+   3. Una forte preferenza per i ruoli tipicamente legati al genere opposto nei giochi  del “far finta” o di fantasia.
+   4. Una forte preferenza per giocattoli, giochi o attività stereotipicamente utilizzati o  praticati dal genere opposto.
+   5. Una forte preferenza per compagni di gioco del genere opposto.
+   6. Nei bambini, un forte rifiuto per giocattoli, giochi e attività tipicamente maschili, e  un forte evitamento dei giochi in cui ci si azzuffa; nelle bambine, un forte rifiuto di  giocattoli, giochi e attività tipicamente femminili.
+   7. Una forte avversione per la propria anatomia sessuale.
+   8. Un forte desiderio per le caratteristiche sessuali primarie e/o secondarie  corrispondenti al genere esperito.
+B. La condizione è associata a sofferenza clinicamente significativa o a  compromissione del funzionamento in ambito sociale, scolastico o altre aree  importanti.
+
+**** Criteri Diagnostici in Adulti e Adolescenti
+
+
+La definizione dell'ICD-11 dell'incongruenza di genere in adulti e adolescenti:
+
+#+BEGIN_QUOTE
+Marcata e persistente  incongruenza tra il genere sperimentato da un individuo e il sesso assegnato, che spesso porta  al desiderio di 'transizione', al fine di vivere e essere accettati come persone del genere  sperimentato, attraverso trattamenti ormonali, interventi chirurgici o altri servizi sanitari per far sì  che il corpo dell'individuo si allineino, nella misura desiderata e possibile, con il genere  sperimentato
+#+END_QUOTE
+
+I criteri diagnostici nel DSM-5 per la disforia di genere in adulti e adolescenti:
+A. Una marcata incongruenza tra il genere esperito/espresso da un individuo e  le caratteristiche sessuali e il genere assegnato, della durata di almeno 6 mesi, che si  manifesta attraverso almeno due dei seguenti criteri:
+   1. Una marcata incongruenza tra il genere esperito/espresso da un individuo e le  caratteristiche sessuali primarie e/o secondarie (o negli adolescenti, le  caratteristiche sessuali secondarie attese).
+   2. Un forte desiderio di liberarsi delle proprie caratteristiche sessuali primarie e/o  secondarie  a  causa  di  una  marcata  incongruenza  con  il  genere  esperito/espresso di un individuo (o nei giovani adolescenti, un desiderio di  impedire lo sviluppo delle caratteristiche sessuali secondarie attese).
+   3. Un forte desiderio per le caratteristiche sessuali primarie e/o secondarie del  genere opposto.
+   4. Un forte desiderio di appartenere al genere opposto (o un genere alternativo  diverso dal genere assegnato).
+   5. Un forte desiderio di essere trattato come appartenente al genere opposto (o un  genere alternativo diverso dal genere assegnato).
+   6. Una forte convinzione di avere i sentimenti e le reazioni tipici del genere opposto  (o di un genere alternativo diverso dal genere assegnato).
+B. la condizione è associata a sofferenza clinicamente significativa o a  compromissione del funzionamento in ambito sociale, lavorativo o altre aree  importanti.
+
+
+**** Diagnosi Differenziale
+Il DSM-5 indica quattro principali condizioni da tenere in considerazione quando si fa diagnosi di disforia di genere
+
+# qua tesi alessiomarrucci cita un libro che però non so bene che roba sia e fa una differenziale diversa dal dsm, qua riporto quella di lorenzoauricchio e poi casomai capirò come aggiungere il resto
+
+- Nonconformità ai ruoli di genere
+
+- Disturbo da travestitismo
+
+- Disturbo da dismorfismo corporeo
+
+- Schizofrenia e altri disturbi psicotici
+
+- Altre manifestazioni cliniche
+
 *** clinica
 *** terapia
 *** BIA ??
 
-* Obiettivi  (?)
+* Obiettivi
 
 * Materiali e Metodi
 
