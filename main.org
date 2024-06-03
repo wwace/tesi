@@ -21,8 +21,7 @@ alcuni termini come "sesso" e "genere" vengono utilizzati in maniera
 interscambiabile nel linguaggio comune, considerando quindi inevitabilmente
 correlate quelle che sono le caratteristiche socioculturali e biologiche che
 contraddistinguono uomo e donna.
-
-# con gli studi di genere non è più così in breve → aggiungere questo
+Negli anni l'evoluzione degli studi di genere e della teoria queer hanno portato ad una visione più moderna ed amplia di questi concetti [cite:@naples_gender_2020].
 Vediamo quindi quelle che sono le definizioni date dall'NIH per questi concetti
 [cite:@noauthor_sex_2022] [cite:@noauthor_sex_nodate]
 # non so se è redundant citare il secondo che è citato dal primo
@@ -65,18 +64,18 @@ L'orientamento sessuale inoltre viene considerato fluido anche nel tempo, infatt
 # valutare se aggiungere la parte che divide l'orientamento in attrazione/identità/comportamento, a me sembra un po'overkill
 
 
-**** Transgender and Gender Diverse - TGD
-# maybe da spostare sotto? comunque da qualche parte bene metterlo ed è descritto bene in [cite:@coleman_standards_2022]
+**** Transgender e Gender Diverse
+Transgender è l'aggettivo utilizzato per riferirsi ad una persona la cui identità, espressione e/o ruolo di genere non sono conformi con quello che è culturalmente associato al loro sesso biologico.
+Alcuni individui non si identificano in un genere che rientra nella tipica dicotomia maschio/femmina, utilizzano quindi termini come /gender-fluid/ o /nonbinario/. [cite:@american_psychiatric_association_diagnostic_2024]
+
+Spesso in letteratura, per riferirsi in modo più inclusivo possibile alla popolazione di tutti gli individui la cui identità di genere non corrisponde col sesso assegnato alla nascita, si utilizza il termine /transgender e gender diverse/ (TGD)[cite:@coleman_standards_2022]
 
 
 
-*** Definizione di incongruenza di genere, cenni storici di medicina di genere
-**** Varianza` o Non Conformità di Genere
-**** Disforia di Genere
-**** Transessuale
-**** Transgender
-**** Intersessuale
 
+
+
+*** Incongruenza di genere, cenni storici di medicina di genere
 
 *** Epidemiologia
 Nella discussione epidemiologica dei dati che riguardano la popolazione TGD è preferibile evitare i termini "incidenza" e "prevalenza", questi infatti potrebbero sottointendere in maniera impropria una condizione patologica. Oltretutto, il termine "incidenza" non è utilizzabile anche perché sottointende la presenza di un chiaro momento di comparsa dello status TGD, il quale è raramente individuabile.
@@ -175,14 +174,14 @@ Un ruolo importante è anche attribuito alla presenza nell'ambiente familiare e 
 
 
 *** Criteri Diagnostici - DSM-5-TR e ICD-11
-# :addCitations:checkTranslations:
+# controllare traduzioni → non ho mai controllato i punti delle varie diagnosi
 
 Nel discutere i criteri diagnostici nella popolazione TGD è bene rimarcare la differenza tra i termini incongruenza di genere e disforia di genere.
 # presumo di aver già detto qualcosa su questo nella sezione prima per quello rimarcare
 
 L'*incongruenza di genere* è il termine utilizzato dalla International Classification of Diseases (ICD-11), questa è caratterizzata dalla presenza di una incongruenza tra l'esperienza di genere ed il sesso assegnato alla nascita. L'incongruenza di genere abbraccia in maniera più ampia la popolazione TGD e non indica una condizione patologica o disturbo psichiatrico.[cite:@noauthor_icd-11_nodate]
 
-La *disforia di genere* invece viene diagnosticata secondo i criteri del Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR), in questo caso quindi viene identificata una condizione patolgica di sofferenza, determinata dall'incongruenza tra il genere esperito ed il sesso biologico. [cite:@noauthor_diagnostic_nodate]
+La *disforia di genere* invece viene diagnosticata secondo i criteri del Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR), in questo caso quindi viene identificata una condizione patolgica di sofferenza, determinata dall'incongruenza tra il genere esperito ed il sesso biologico. [cite:@american_psychiatric_association_diagnostic_2022]
 
 Data l'evoluzione di entrambe queste condizioni nella vita di un individuo, entrambe queste pubblicazioni utilizzano criteri diversi per i bambini e per adolescenti e adulti.
 
@@ -191,6 +190,7 @@ Data l'evoluzione di entrambe queste condizioni nella vita di un individuo, entr
 **** Criteri Diagnostici nei Bambini
 
 # AGGIUNGERE CITAZIONE → non capisco come citare sottosezioni dell'ICD o DSM quindi poi dopo devo sistemare citazioni a tutto questo
+# DSM sono riuscito a scaricarlo e citarlo
 
 La definizione dell'ICD-11 dell'incongruenza di genere nei bambini:
 # copiato da alessio marrucci
@@ -233,24 +233,70 @@ A. Una marcata incongruenza tra il genere esperito/espresso da un individuo e  l
    6. Una forte convinzione di avere i sentimenti e le reazioni tipici del genere opposto  (o di un genere alternativo diverso dal genere assegnato).
 B. la condizione è associata a sofferenza clinicamente significativa o a  compromissione del funzionamento in ambito sociale, lavorativo o altre aree  importanti.
 
+Negli adulti si può aggiungere la specifica "post-transizione", facendo così riferimento ad un inviduo che è passato a vivere completamente nel genere esperito, che si è sottoposto, o sta per sottoporsi, ad un trattamento, ormonale o chirurgico, di affermazione di genere
 
 **** Diagnosi Differenziale
-Il DSM-5 indica quattro principali condizioni da tenere in considerazione quando si fa diagnosi di disforia di genere
+Il DSM-5-TR indica cinque principali condizioni da tenere in considerazione quando si fa diagnosi di disforia di genere [cite:@american_psychiatric_association_diagnostic_2022]
 
-# qua tesi alessiomarrucci cita un libro che però non so bene che roba sia e fa una differenziale diversa dal dsm, qua riporto quella di lorenzoauricchio e poi casomai capirò come aggiungere il resto
+# qua tesi alessiomarrucci cita un libro che però non so bene che roba sia e fa una differenziale diversa dal dsm
+# io ho riportato il DSM-TR che sono finalmente riuscito a scaricare → valuto eventuali aggiunte per le varie entry
 
-- Nonconformità ai ruoli di genere
+- *Nonconformità ai ruoli di genere*: \\
+  Individui i quali si comportano in modo non conforme a quelli che sono li stereotipi che caratterizzano il proprio ruolo di genere. In questo caso non è presente il forte desiderio di essere dell'altro genere e soprattutto non è presente l'alto livello di sofferenza che caratterizza la disforia
 
-- Disturbo da travestitismo
+- *Disturbo da travestitismo*: \\
+  Disturbo parafiliaco tipicamente caratteristico di individui maschi adulti che provano eccitazione sessuale nell'indossare un vestiario tipicamente femminile, l'eccitazione è associata ad angoscia che però non comprende dubbi riguardo la propria identità di genere.
+  Non è raro questo disturbo sia diagnosticato e coesista insieme ad una disforia di genere, di cui talvolta può essere un precursore.
 
-- Disturbo da dismorfismo corporeo
+- *Disturbo da dismorfismo corporeo*: \\
+  Individui con questo disturbo percepiscono parti del loro corpo come anomale ed hanno il desiderio di alterarele o rimuoverle.
+  Questo disturbo può comprendere gli organi genitali o altre carattersitiche sessuali, motivo per cui potrebbe essere confuso con una disforia di genere, in questo caso tuttavia il disturbo è correlato alla parte del corpo in sé e non mette in discussione la propria identità di genere.
+   questa seconda frase non è propriamente detta nel dsm
 
-- Schizofrenia e altri disturbi psicotici
 
-- Altre manifestazioni cliniche
+- *Disturbi dello spettro autistico*: \\
+  Negli indivudui con disturbo dello spettro autistico può essere difficile differenzia una disforia di genere da una preoccupazione autistica derivante da una visione rigida riguardo i ruoli di genere e/o difficoltà tipiche dello spettro autistico a comprendere le relazioni sociali.
 
-*** clinica
-*** terapia
+
+
+- *Schizofrenia e altri disturbi psicotici*: \\
+  Nella schizofrenia possono essere presenti deliri riguardo l'appartenere ad un altro genere. Deliri che includono il tema del genere possono presentarsi in fino al 20% degli individui con schizofrenia.
+  Uno studio ha dimostrato la presenza di disturbi neurobiologici dello sviluppo comuni che potrebbero essere determinanti in entrambe le condizioni [cite:@rajkumar_gender_2014]; tuttavia review più recenti in letteratura dimostrano come l'incidenza della schizofrenia non sia maggiore in individui transgender rispetto alla popolazione generale [cite:@dhejne_mental_2016]
+  # non sono sicuro che mi piaccia molto questa cosa perché il primo parla di disforia e il secondi di popolazione trans quindi teoricamente il secondo non nega il primo, però aggiunge contesto.
+  È molto importante distinguere situazioni in cui le due condizioni coesistono da quelle in cui i disturbi sono unicamente dovuti al quadro schizofrenico, in quanto questo ha un impatto importante sulla gestione del paziente e sull'approccio terapeutico, specialmente prendendo in considerazione trattamenti molto invasivi come la riassegnazione chirurgica del sesso. [cite:@stusinski_gender_2018]
+  # maybe snellire un po'questa frase
+  Tipicamente le due condizioni si possono differenziare dato che il contenuto dei deliri è bizzaro e questi fluttuano in corrispondenza con remissioni ed ricomparsa degli episodi psicotici.
+  Un ulteriore fattore che può aiutare nella diagnosi è l'utilizzo di farmaci antipsicotici i quali, nel caso dei pazienti psicotici, portano ad una scomparsa del pensiero transessuale.[cite:@urban_[transsexualism_2009]
+
+
+
+# *Altre presentazioni cliniche*: → volendo ci sono anche queste nel DSM però penso di evitare mi sembrauno un po'inutili
+
+
+Altre condizioni che possono presentare problemi di diagnosi differenziale non prese in considerazione nel DSM-5-TR comprendono:
+# qua se le voglio tenere devo spiegarle un po'meglio
+
+# alessiomarrucci
+- Sviluppo atipico dell'Identità di Genere
+- Disforia di Genere Transitoria Secondaria (abuso sessuale)
+
+# lorenzoauricchio
+- Omosessualità egodistonica e omofobia interiorizzata
+- Disturbi dell'alimentazione
+- Disturbo borderline di personalità
+
+
+*** Presentazione Clinica
+
+
+
+*** Valutazione e trattamento di un individuo con incongruenza di genere
+
+La gestione di un individuo TGD non è compito semplice per il clinico, per questo motivo la /World Professional Association for Transgender Health/ (WPATH) stila un insieme di linee guida contenute nello /Standards of Care of Transgender and Gender Diverse People/(SOC). [cite:@coleman_standards_2022]
+La WPATH è un'organizzazione non-profit interdisciplinare pofessionale ed educativa, il cui scopo è quello di promuovere un'alto standard di cura per tutta la popolazione TGD. [cite:@wpath_mission_nodate].
+L'SOC è un insieme di linee guida riconosciute a livello internazionale per la presa in carico di individui TGD, con l'obeittivo di portarli a raggiungere una situazione di salute a livello fisico e psicologico, l'ultima edizione pubblicata è l'SOC-8 del 2022.
+
+Queste raccomandazioni non sono pensate esclusivamente per i professionisti sanitari, difatti un intero capitolo è dedicato all'educazione per la popolazione generale.
 *** BIA ??
 
 * Obiettivi
