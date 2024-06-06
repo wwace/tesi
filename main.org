@@ -28,7 +28,7 @@ Vediamo quindi quelle che sono le definizioni date dall'NIH per questi concetti
 # also forse dovrei sostituire con le definizioni dell'APA (che penso siano le stesse)
 
 **** Sesso Biologico
-Costrutto biologico utilizato per descrivere caratteristiche ormonali, genetiche, anatomiche e biologiche basilari.
+Costrutto utilizato per descrivere caratteristiche ormonali, genetiche, anatomiche e biologiche basilari.
 Tipicamente è dicotomico, distingue le categorie maschio e femmina.
 Tuttavia, esistono anche stati intersessuali, in cui i caratteri ed i cromosomi sessuali non sono definibili all'interno di una sola di queste categorie.
 # Tra le condizioni più comuni che determinano questo stato si possono citare la Sd di Klinefelter e la Sd di Morris
@@ -41,21 +41,21 @@ Questa è la sensazione individuale di sentirsi parte di una determinata categor
 L'identità di genere è quindi auto-definita, può cambiare nel corso della vita e non corrisponde necessariamente a quelle che sono le aspettative sociali nei confronti del sesso dell'individuo.
 # questa roba dell'identità poi ovviamente l'approfondisco nella parte sulla storia dell'IG no? cioé mi sembra inutile stare a fare troppa intro in questa parte solo di terminologia.
 Queste costituiscono infatti il *ruolo di genere*, ovvero ciò che viene percepito all'interno di una determinata società come proprio di un certo genere, in termini di norme, comportamenti ed espressioni.
-L'*espressione di genere* è quindi la modalità in cui l'individuo decide di mostrare la propra identità di genere attraverso carattersitiche esterne come il proprio abbigliamento, l'utilizzo di determinati pronomni...
+L'*espressione di genere* è quindi la modalità in cui l'individuo decide di mostrare la propria identità di genere attraverso caratteristiche esterne come il proprio abbigliamento, l'utilizzo di determinati pronomi...
 
 **** Orientamento Sessuale [cite:@NAP26424]
 # qua se ho un po'parlato della cosa in vari punti dove dovrei metterla la citazione? all'inizio? in un punto a caso?
 
 L'orientamento sessuale è anch'esso un costrutto complesso che comprende l'attrazione romantica, emotiva e sessuale.
 Fa riferimento quindi agli elementi esterni capaci di indurre una risposta nell'individuo.
-È quindi definito solitamente sulla base del genere delle persone verso cui un indviduo prova attrazione sessuale o romantica, in rapporto al genere dell'individuo stesso.
+È quindi definito solitamente sulla base del genere delle persone verso cui un individuo prova attrazione sessuale o romantica, in rapporto al genere dell'individuo stesso.
 # decisamente troppo convuluta sta frase
 
 I termini più comuni che identificano l'orientamento sessuale di basano su una visione binaria del genere e distinguono quindi persone /eterosessuali/, /omosessuali/ e /bisessuali/.
 In tempi relativamente recenti sono stati aggiunti termini che prendono in considerazione una visione più moderna e fluida del genere, come /pansessuale/ che indica un'attrazione verso gli altri che non dipende dal genere.
 
 L'orientamento sessuale, inoltre, così come il genere, non è binario, ma costituisce uno spettro.
-Il primo a prendere in considerazione questa caratteristica fluida della sessualità fu Alfred Kinsey, nel suo libro /Sexual Behavior in the Human Male/ del 1948, dove introduce la Scala di Kinsey [cite:@noauthor_kinsey_2024].
+Il primo a prendere in considerazione questa caratteristica fluida della sessualità fu Alfred Kinsey, nel suo libro /Sexual Behavior in the Human Male/ del 1948, dove introduce la scala omonima [cite:@noauthor_kinsey_2024].
 Questa definisce l'orientamento sessuale secondo un gradiente da 0, esclusiva eterossessualità, a 6, esclusiva omosessualità.
 
 L'orientamento sessuale inoltre viene considerato fluido anche nel tempo, infatti questo può cambiare durante la vita di una persona anche in funzione delle circostanze dell'individuo.
@@ -78,16 +78,16 @@ Spesso in letteratura, per riferirsi in modo più inclusivo possibile alla popol
 *** Incongruenza di genere, cenni storici di medicina di genere
 
 *** Epidemiologia
-Nella discussione epidemiologica dei dati che riguardano la popolazione TGD è preferibile evitare i termini "incidenza" e "prevalenza", questi infatti potrebbero sottointendere in maniera impropria una condizione patologica. Oltretutto, il termine "incidenza" non è utilizzabile anche perché sottointende la presenza di un chiaro momento di comparsa dello status TGD, il quale è raramente individuabile.
+Nella discussione epidemiologica dei dati che riguardano la popolazione TGD è preferibile evitare i termini "incidenza" e "prevalenza", questi infatti potrebbero sottointendere in maniera impropria una condizione patologica. Oltretutto, il termine "incidenza" non è utilizzabile anche perché indica la presenza di un chiaro momento di comparsa dello status TGD, il quale è raramente individuabile.
 Si preferiscono quindi i termini "numero" e "proporzione", per riferirsi alla dimensione assoluta e relativa della popolazione TGD. [cite:@coleman_standards_2022]
 
 
-Nonostante un'interesse crescente da parte della ricerca nei confronti della salute di questa popolazione, ci sono ancora molti dati epidemiologici anche basilari sui quali si ha poca certezza.
+Nonostante un interesse crescente da parte della ricerca nei confronti della salute di questa popolazione, ci sono ancora molti dati epidemiologici anche basilari sui quali si ha poca certezza.
 Le stime riportate in vari studi sono infatti fortemente dipendenti dal tipo di metodologia utilizzata per l'indagine e dalla definizione data del termine transgender.
 A seconda delle pubblicazioni vengono presi in considerazione certe volte solamente color che hanno richiesto o intrapreso un percorso chirurgico di riassegnazione del sesso, altri prendono in considerazione le diagnosi di disforia di genere, mentre diversi studi svolti tramite sondaggio nella popolazione generale prendono in considerazione l'autoidentificazione come transgender.
 [cite:@collin_prevalence_2016]
 
-Per quanto riguarda nello specifico la diagnosi clinica di disforia di genere, il DSMV riporta una prevalenza tra il 0,005-0,014% per le persone AMAB e tra il 0,002% e 0,003% per le AFAB, già puntualizzando però come reputi il dato verosimilmente sottostimato.
+Per quanto riguarda nello specifico la diagnosi clinica di disforia di genere, il DSM-5-TR riporta una prevalenza tra il 0,005-0,014% per le persone AMAB e tra il 0,002% e 0,003% per le AFAB, già puntualizzando però come reputi il dato verosimilmente sottostimato.
 # in questo caso è possibile utilizzare il termine prevalenza dato che si fa riferimento ad un'effettiva condizione patologica riconosciuta
 
 [cite:@noauthor_gender_2022]
@@ -127,7 +127,7 @@ Come molte altre patologie, l'ipotesi più attuale comprende l'interazione tra m
 Il coinvolgimento neurologico si basa sull'ipotesi che i soggetti transgender abbiano delle differenze nello sviluppo dei circuiti cerebrali, rispetto ai cisgender, e che questo sia determinante nell'insorgenza dell'incongruenza di genere.
 La base biologica di questa teoria è la differenza già nota tra cervello maschile e femminile nei soggetti cisgender; questa si presenta sia in un leggero vantaggio dell'uno o l'altro sesso in alcuni task cognitivi, sia in una vera e propria differenza anatomica di trofismo di alcune zone cerebrali piuttosto che altre. [cite:@miller_new_2014]
 
-Sono diversi i fattori che intervengono nel determinare queste differenze e non tutti sono conosciuti; sicuramente è presente un'influenza ambientale, com'è reso evidente dal fatto che queste differenze tra maschi e femmine sono diverse in diverse aree geografiche, è molto probabile anche un ruolo degli ormoni sessuali durante sviluppo, difatti le differenze di trofismo sono state associate ad aree con diversa quantità di recettori estrogenici e androgenici nelle varie aree cerebrali. [cite:@goldstein_normal_2001]
+Sono diversi i fattori che intervengono nel determinare queste differenze e non tutti sono conosciuti; sicuramente è presente un'influenza ambientale, com'è reso evidente dal fatto che queste differenze tra maschi e femmine sono diverse in diverse aree geografiche, è molto probabile anche un ruolo degli ormoni sessuali durante sviluppo, infatti le differenze di trofismo sono state associate ad aree con diversa quantità di recettori estrogenici e androgenici nelle varie aree cerebrali. [cite:@goldstein_normal_2001]
 
 Per quanto riguarda la popolazione TGD, seppur siano state dimostrate alcune differenze strutturali e funzionali nel cervello degli individui TGD, non è ancora stato indiviuato in letteratura un pattern preciso che si possa associare chiaramente a determinati cambiamenti strutturali.
 Alcuni studi dimostrano come la morfologia cervello di individui con incongruenza di genere sia complessivamente più simile ad individui cisgender del sesso assegnato alla nascita rispetto a individui cisgender dell'identità di genere scelta [cite:@frigerio_structural_2021].
@@ -157,7 +157,7 @@ Uno studio ha studiato invece il potenziale ruolo dei geni coinvolti nel /signal
 
 **** Fattori Psicologici e Sociali
 
-La maggior parte degli studi prendono in considerazione il probabile intervento di vari fattori psicologici nella genesi dell'identità di genere e quindi dell'incongruenza, diverse teorie psicologiche identificano elementi differenti che potrebbero agire in diverse fasi della vita dell'individuo.
+La maggior parte degli studi prende in considerazione il probabile intervento di vari fattori psicologici nella genesi dell'identità di genere e quindi dell'incongruenza, diverse teorie psicologiche identificano elementi differenti che potrebbero agire in diverse fasi della vita dell'individuo.
 
 La teoria più primitiva è quella /psicodinamica/, che si rifa addirittura alla teoria Freudiana dell'identificazione, ipotizzando un intervento importante dell'esperienza infantile nella determinazione dell'identità di genere. Secondo la "teoria dell'identificazione" di Freud il bambino tende ad identificarsi con il genitore del sesso opposto in quello che è il complesso di Edipo. [cite:@benjamin_father_1991]
 Nonostante ancora non venga espresso chiaramente il concetto di incongruenza di genere, è chiaro come questi concetti sottointendano l'ipotesi di una certa variabilità e fluidità nell'identità di genere.
@@ -179,7 +179,7 @@ Un ruolo importante è anche attribuito alla presenza nell'ambiente familiare e 
 Nel discutere i criteri diagnostici nella popolazione TGD è bene rimarcare la differenza tra i termini incongruenza di genere e disforia di genere.
 # presumo di aver già detto qualcosa su questo nella sezione prima per quello rimarcare
 
-L'*incongruenza di genere* è il termine utilizzato dalla International Classification of Diseases (ICD-11), questa è caratterizzata dalla presenza di una incongruenza tra l'esperienza di genere ed il sesso assegnato alla nascita. L'incongruenza di genere abbraccia in maniera più ampia la popolazione TGD e non indica una condizione patologica o disturbo psichiatrico.[cite:@noauthor_icd-11_nodate]
+L'*incongruenza di genere* è il termine utilizzato dalla International Classification of Diseases (ICD-11), questa è caratterizzata dalla presenza di una dissonanza tra l'esperienza di genere ed il sesso biologico assegnato alla nascita. L'incongruenza di genere abbraccia in maniera più ampia la popolazione TGD e non indica una condizione patologica o disturbo psichiatrico, tanto da essere trasferita nell’ICD-11 dalla categoria dei disordini mentali a quella relativa le condizioni di salute sessuale[cite:@noauthor_icd-11_nodate].
 
 La *disforia di genere* invece viene diagnosticata secondo i criteri del Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR), in questo caso quindi viene identificata una condizione patolgica di sofferenza, determinata dall'incongruenza tra il genere esperito ed il sesso biologico. [cite:@american_psychiatric_association_diagnostic_2022]
 
@@ -286,18 +286,35 @@ Altre condizioni che possono presentare problemi di diagnosi differenziale non p
 - Disturbo borderline di personalità
 
 
-*** Presentazione Clinica
+*** Presentazione Clinica (?)
+
+*** Valutazione e approccio ad un individuo con incongruenza di genere
+
+# domanda se posso citare gli SOC tipo qua per l'intero paragrafo oltre a i punti in cui li cito esplicitamente perché la struttura generale di diverse cose è presa da quelli
+
+La gestione di un individuo TGD non è compito semplice per il clinico, per questo motivo la /World Professional Association for Transgender Health/ (WPATH) stila un documento per stabilire quelle che sono le migliori pratiche cliniche da mettere in atto, questo è lo /Standards of Care of Transgender and Gender Diverse People/(SOC). [cite:@coleman_standards_2022]
+La WPATH è un'organizzazione non-profit interdisciplinare professionale ed educativa, il cui scopo è quello di promuovere un alto standard di cura per tutta la popolazione TGD. [cite:@wpath_mission_nodate].
+Gli SOC rappresentano un insieme di linee guida riconosciute a livello internazionale per la presa in carico di individui TGD, con l'obiettivo di portarli a raggiungere una situazione di salute a livello fisico e psicologico, l'ultima edizione pubblicata sono gli SOC-8 del 2022. \\
+
+Queste raccomandazioni non sono pensate esclusivamente per i professionisti sanitari, difatti un intero capitolo è dedicato all'educazione per la popolazione generale, punto fondamentale per combattere contro la discriminazione ancora molto diffusa nei confronti degli individui TGD.
+Atti di discrimniatori, di intolleranza e violenza nei confronti della popolazione TGD rappresentanto un fenomeno frequente, che impatta in modo importante la salute e la sicurezza di questi individui, con una percentuale di violenza riportata che arriva fino all'80% in alcune indagini[cite:@worldbank_life_2018].
+
+Anche per quanto riguarda il personale sanitario, le competenze risultano spesso insufficienti, specialmente nel personale non specializzato [cite:@aldridge_understanding_2022], con una buona percentuale di persone TGD che riportano esplicitamente di evitare per quanto possibile l'utilizzo dei servizi sanitari per paura di essere discriminati o subire maltrattamenti [cite:@lerner_more_2021]. Questo risulta estremamente problematico, andando ad limitare e rendere più difficile l'accesso a terapie importanti di affermazione di genere e rendendo più difficoltosa la gestione di una condizione già intrinsecamente complessa[cite:@giffort_relationship_2016].
 
 
+Gli SOC individuano un diverso approccio all'individuo TGD secondo l'età, esistono infatti linee guida separate per adulti, adolescenti e bambini.
 
-*** Valutazione e trattamento di un individuo con incongruenza di genere
+Nell'adulto, il primo compito del professionista sanitario è di effettuare una corretta valutazione della presenza di incongruenza di genere e di identificare altre eventuali problematiche psichiatriche [cite:@coleman_standards_2022].
+Successivamente è importante informare ed educare l'adulto TGD per quanto riguarda quelli che sono i possibili percorsi di affermazione di genere, sia medici che chirurgici, dato che è stato dimostrato da vari studi come questi abbiano un impatto positivo importante sulla salute mentale nei soggetti TGD[cite:@aldridge_longterm_2021], migliorando la qualità della vita, diminuendo i sintomi di ansia e depressione[cite:@nguyen_gender-affirming_2018] e il rischio suicidario[cite:@green_association_2022].
 
-La gestione di un individuo TGD non è compito semplice per il clinico, per questo motivo la /World Professional Association for Transgender Health/ (WPATH) stila un insieme di linee guida contenute nello /Standards of Care of Transgender and Gender Diverse People/(SOC). [cite:@coleman_standards_2022]
-La WPATH è un'organizzazione non-profit interdisciplinare pofessionale ed educativa, il cui scopo è quello di promuovere un'alto standard di cura per tutta la popolazione TGD. [cite:@wpath_mission_nodate].
-L'SOC è un insieme di linee guida riconosciute a livello internazionale per la presa in carico di individui TGD, con l'obeittivo di portarli a raggiungere una situazione di salute a livello fisico e psicologico, l'ultima edizione pubblicata è l'SOC-8 del 2022.
+La decisione di intraprendere un percorso di affermazione di genere è un passo importante per l'individuo TGD ed una decisione che spesso viene presa in collaborazione con un profesionista sanitario [cite:@coleman_standards_2022], anche se in alcuni casi, solamente per le terapie ormonali, vengono utilizzati con successo dei modelli che prediligono la decisione dell'adulto TGD, tipicamente chiamati modelli a "consenso informato"[cite:@deutsch_use_2012][cite:@schulz_informed_2018].
+In ogni caso è fondamentale assicurasi che il soggetto sia in grado di comprendere quali sono rischi e benefici del trattamento per essere in grado di dare il suo consenso [cite:@coleman_standards_2022], escludendo malattie mentali che possono interferire, in particolar modo sintomi di decadimento cognitivo o psicotici[cite:@hostiuc_testing_2018].
 
-Queste raccomandazioni non sono pensate esclusivamente per i professionisti sanitari, difatti un intero capitolo è dedicato all'educazione per la popolazione generale.
-*** BIA ??
+# volendo ho trovato il paragrafo di iniziarla solo quando è grave e che c'è benefici anche del farlo in modo profilattico, però non mi sembra una info particolarmente interessante
+
+Un'altra parte importante del percorso di un individuo TGD è quella di transizione sociale, che può dare grande beneficio al soggetto, migliorandone la salute mentale e la qualità della vita[cite:@coleman_standards_2022].
+Tuttavia, esistono anche circostanze in cui l'individuo non desidera effettuare la transizione sociale per varie motivazioni, spesso correlate ad una paura di abbandono da parte di amici e familiari,
+*** BIA (?)
 
 * Obiettivi
 
