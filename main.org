@@ -30,8 +30,8 @@ Vediamo quindi quelle che sono le definizioni date dall'NIH per questi concetti
 **** Sesso Biologico
 Costrutto utilizato per descrivere caratteristiche ormonali, genetiche, anatomiche e biologiche basilari.
 Tipicamente è dicotomico, distingue le categorie maschio e femmina.
-Tuttavia, esistono anche stati intersessuali, in cui i caratteri ed i cromosomi sessuali non sono definibili all'interno di una sola di queste categorie.
-# Tra le condizioni più comuni che determinano questo stato si possono citare la Sd di Klinefelter e la Sd di Morris
+Tuttavia, esistono anche stati intersessuali, in cui i caratteri ed i cromosomi sessuali non sono definibili all'interno di una sola di queste categorie; queste condizione sono dovute a quelli che sono chiamati /disordini dello sviluppo sessuale/(DSD) e comprendono varie condizioni tra cui si possono citare la Sd di Turner e la Sd di Klinefelter[cite:@witchel_disorders_2018].
+# ho citato tipo le due più famose non so se ha senso approfondire di più questo discorso
 
 **** Genere (gender)
 Costrutto multidimensionale sociale e culturale; comprende ruoli, attività, comportamenti ed espressioni, che sono tipicamente identificati all'interno di una determinata società come propriamente maschili o femminili.
@@ -58,8 +58,7 @@ L'orientamento sessuale, inoltre, così come il genere, non è binario, ma costi
 Il primo a prendere in considerazione questa caratteristica fluida della sessualità fu Alfred Kinsey, nel suo libro /Sexual Behavior in the Human Male/ del 1948, dove introduce la scala omonima [cite:@noauthor_kinsey_2024].
 Questa definisce l'orientamento sessuale secondo un gradiente da 0, esclusiva eterossessualità, a 6, esclusiva omosessualità.
 
-L'orientamento sessuale inoltre viene considerato fluido anche nel tempo, infatti questo può cambiare durante la vita di una persona anche in funzione delle circostanze dell'individuo.
-# se ha senso aggiungere di più devo trovare un qualcosa di sensato da citare
+# L'orientamento sessuale inoltre viene considerato fluido anche nel tempo, infatti questo può cambiare durante la vita di una persona anche in funzione delle circostanze dell'individuo.
 
 # valutare se aggiungere la parte che divide l'orientamento in attrazione/identità/comportamento, a me sembra un po'overkill
 
@@ -68,15 +67,23 @@ L'orientamento sessuale inoltre viene considerato fluido anche nel tempo, infatt
 Transgender è l'aggettivo utilizzato per riferirsi ad una persona la cui identità, espressione e/o ruolo di genere non sono conformi con quello che è culturalmente associato al loro sesso biologico.
 Alcuni individui non si identificano in un genere che rientra nella tipica dicotomia maschio/femmina, utilizzano quindi termini come /gender-fluid/ o /nonbinario/. [cite:@american_psychiatric_association_diagnostic_2024]
 
-Spesso in letteratura, per riferirsi in modo più inclusivo possibile alla popolazione di tutti gli individui la cui identità di genere non corrisponde col sesso assegnato alla nascita, si utilizza il termine /transgender e gender diverse/ (TGD)[cite:@coleman_standards_2022]
+Spesso in letteratura, per riferirsi in modo più inclusivo possibile alla popolazione di tutti gli individui la cui identità di genere non corrisponde col sesso assegnato alla nascita, si utilizza il termine /transgender e gender diverse/ (TGD)[cite:@coleman_standards_2022].
 
-
+# AMAB/AFAB → devo dare la definizione anche se li userò poco però li uso
 
 
 
 
 *** Incongruenza di genere, cenni storici di medicina di genere
+# mi sembra ridondante dire questo qua che poi lo dico dopo nella parte di criteri diagnostici però ha senso intanto quantomeno dare delle definizioni sommarie per poterne parlare e poi approfondire dopo (credo)
 
+L'*incongruenza di genere* è una condizione definita dalla presenza di una discordanza tra il sesso assegnato alla nasciata e la propria identità di genere. Questa è definita nella International Classification of Diseases (ICD-11) e non è considerata una condizione di per sé patologica[cite:@noauthor_icd-11_nodate].
+A differenza invece della *disforia di genere*, in cui la presenza di una incongruenza tra identità di genere e sesso biologico causa sofferenza, i criteri diagnostici per la disforia sono delineati nel Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR)[cite:@american_psychiatric_association_diagnostic_2022].
+
+Storicamente il primo ad utilizzare il termine /transessuale/ viene considerato David O. Cauldwell nel 1949, con il suo articolo /Psychopathia Transexualis/, in cui descrive il caso di un suo paziente AFAB. In realtà prima di lui Dr. Magnus Hirschfeld aveva usato il termine /seelischer Transsexualismus/ o "transesualismo spirituale[cite:@noauthor_transgender_2006].
+
+Il Dr. Hirschfeld è considerato il padre della medicina transgener, fondatore nel 1919 dell'Istituto della Scienza Sessuale di Berlino, il primo istituto interamente dedicato alla sessuologia, dove accoglieva le persone transgender proteggendole dagli abusi e offrendo opportunità di terapia.
+È stato sempre lui a svolgere la prima operazione registrata di affermazione di genere, su Dora Richter, una dipendente dell'istituto, su cui è stata effettuata prima una orchidectomia nel 1922 e successivamente una penectomia e vaginoplastica nel 1931[cite:@bhinder_brief_2021].
 *** Epidemiologia
 Nella discussione epidemiologica dei dati che riguardano la popolazione TGD è preferibile evitare i termini "incidenza" e "prevalenza", questi infatti potrebbero sottointendere in maniera impropria una condizione patologica. Oltretutto, il termine "incidenza" non è utilizzabile anche perché indica la presenza di un chiaro momento di comparsa dello status TGD, il quale è raramente individuabile.
 Si preferiscono quindi i termini "numero" e "proporzione", per riferirsi alla dimensione assoluta e relativa della popolazione TGD. [cite:@coleman_standards_2022]
@@ -286,8 +293,6 @@ Altre condizioni che possono presentare problemi di diagnosi differenziale non p
 - Disturbo borderline di personalità
 
 
-*** Presentazione Clinica (?)
-
 *** Valutazione e approccio ad un individuo con incongruenza di genere
 
 # domanda se posso citare gli SOC tipo qua per l'intero paragrafo oltre a i punti in cui li cito esplicitamente perché la struttura generale di diverse cose è presa da quelli
@@ -302,8 +307,12 @@ Atti di discrimniatori, di intolleranza e violenza nei confronti della popolazio
 Anche per quanto riguarda il personale sanitario, le competenze risultano spesso insufficienti, specialmente nel personale non specializzato [cite:@aldridge_understanding_2022], con una buona percentuale di persone TGD che riportano esplicitamente di evitare per quanto possibile l'utilizzo dei servizi sanitari per paura di essere discriminati o subire maltrattamenti [cite:@lerner_more_2021]. Questo risulta estremamente problematico, andando ad limitare e rendere più difficile l'accesso a terapie importanti di affermazione di genere e rendendo più difficoltosa la gestione di una condizione già intrinsecamente complessa[cite:@giffort_relationship_2016].
 
 
-Gli SOC individuano un diverso approccio all'individuo TGD secondo l'età, esistono infatti linee guida separate per adulti, adolescenti e bambini.
+Gli SOC individuano un diverso approccio all'individuo TGD secondo l'età, esistono infatti linee guida separate per adulti, adolescenti e bambini. \\
 
+# Volendo potrebbe meritare mettere capitolo separati
+
+**** Valutazione adulti: (non penso di dividere i paragrafi davvero era più per organizzarmi)
+\\
 Nell'adulto, il primo compito del professionista sanitario è di effettuare una corretta valutazione della presenza di incongruenza di genere e di identificare altre eventuali problematiche psichiatriche [cite:@coleman_standards_2022].
 Successivamente è importante informare ed educare l'adulto TGD per quanto riguarda quelli che sono i possibili percorsi di affermazione di genere, sia medici che chirurgici, dato che è stato dimostrato da vari studi come questi abbiano un impatto positivo importante sulla salute mentale nei soggetti TGD[cite:@aldridge_longterm_2021], migliorando la qualità della vita, diminuendo i sintomi di ansia e depressione[cite:@nguyen_gender-affirming_2018] e il rischio suicidario[cite:@green_association_2022].
 
@@ -313,7 +322,58 @@ In ogni caso è fondamentale assicurasi che il soggetto sia in grado di comprend
 # volendo ho trovato il paragrafo di iniziarla solo quando è grave e che c'è benefici anche del farlo in modo profilattico, però non mi sembra una info particolarmente interessante
 
 Un'altra parte importante del percorso di un individuo TGD è quella di transizione sociale, che può dare grande beneficio al soggetto, migliorandone la salute mentale e la qualità della vita[cite:@coleman_standards_2022].
-Tuttavia, esistono anche circostanze in cui l'individuo non desidera effettuare la transizione sociale per varie motivazioni, spesso correlate ad una paura di abbandono da parte di amici e familiari,
+Tuttavia, esistono anche circostanze in cui l'individuo non desidera effettuare la transizione sociale per varie motivazioni, solitamente le motivazioni sono una mancanza di supporto familiare[cite:@bradford_experiences_2013] o la paura di essere discriminati e stigmatizzati [cite:@mcdowell_risk_2019].
+
+**** Valutazione adolescenti
+La valutazione di un individuo TGD adolescente differisce da quella dell'adulto per alcune caratteristiche intrinseche di questo periodo della vita che devono essere prese in considerazione.
+
+In primo luogo perché l'adolescenza può essere un periodo cruciale per lo sviluppo dell'identità di genere, specialmente per gli individui TGD; infatti si hanno importanti cambimenti nelle proprie relazioni sociali, cambiamenti fisici come conseguenza della pubertà e spesso le prime esperienze relazionali, fattori che possono essere determinanti nel confermare o confutare dei dubbi nella propria identità di genere[cite:@leibowitz_gender_2016].
+
+È importante nel soggetto adolescente anche assicurarsi che sia sufficientemente maturo emotivamente e cognitivamente per prendere decisioni importanti riguardo la propria identità di genere o soprattutto per eventuali trattamenti di affermazione di genere.
+# non propriamente citato dal SOC però concetto estrapolato da là se ci vuole una citazione
+L'adolescenza rappresenta infatti un periodo importante di sviluppo neuro-cognitivo e socio emotivo, in cui vari fattori come le influenze sociali, una minore avversione al rischio ed una sensitività maggiore alle ricompense immediate possono intervenire nei processi decisionali[cite:@grootens-wiegers_medical_2017].
+
+Anche per questo motivo è tipicamente indicato il coinvolgimento di figure genitoriali o di /caregiver/, per affiancare l'adolescente TGD nei propri processi decisionali per quanto riguarda un trattamento di affermazione di genere e per poi accompagnarlo durante questo percorso[cite:@10.1542/peds.2018-2162].
+Il supporto familiare è stato individuato da vari studi come un fattore determinante per il benessere e la salute mentale negli adolescenti TGD[cite:@pariseau_relationship_2019][cite:@grossman_parental_2021].
+
+L'inizio precoce, in età adolescenziale, di un trattamento ormonale di affermazione di genere, nonostante sia molto dibatutto a livello mediatico(troppo controversial?), è stato valutato positivamente da diversi studi, con percentuali di /regret/ (non sapevo veramente come tradurlo e rimpianto mi sembra orrendo) molto basse tra lo 0 e il 2%
+[cite:@de_vries_young_2014][cite:@smith_sex_2005][cite:@wiepjes_amsterdam_2018].
+
+# volendo discorso sulla preservazione della fertilità
+
+Esistono anche alcune opzioni di affermazione di genere reversibili e non ormonali che possono diminuire la sofferenza mentale dell'adolescente TGD senza intervenire in maniera troppo invasive.
+Queste comprendono pratiche come il /genital tucking/(nascondere i propri genitali esterni maschili spesso utilizzando indumenti intimi specifici con lo scopo di rendere l'apparenza dell'inguine simile a quella femminile), il /genital packing/(utilizzo di una protesi o imbottirutra negli indumenti intimi per simulare la presenza di genitali maschili) e il /chest binding/(utilizzo di indumenti molto stretti di vario tipo per dare un aspetto piatto al petto e nascondere il seno) [cite:@hodax_gender-affirming_2023][cite:@transcare_binding_2016];
+quest'ultimo presenta comunque diversi possibili effetti negativi di tipo dermatologico e respiratorio, per cui è necessario porre attenzione alla frequenza con cui viene praticato, il metodo utilizzato e l'importanza della restrizione[cite:@peitzmeier_health_2017][cite:@julian_impact_2021].
+
+
+**** Bambini
+
+La valutazione di bambini in età prepuberale è diversa dato che in questo periodo l'identità di genere dell'individuo è ancora in fase di sviluppo, quindi non si può interpretare ogni manifestazione di diversità di genere come una vera e propria identità transgender, questa infatti nell'infanzia è da considerarsi parte normale dello sviluppo e dell'esplorazione della propria identità di genere[cite:@ehrensaft_prepubertal_2018].
+Tuttavia, sono presenti anche bambini TGD che riconoscono la propria identità di genere come diversa dal sesso assegnato in maniera più definita già in età molto preococe e solo pochi di questi desidrano riassumere un'identità /cisgender/, anche a distanza di diversi anni[cite:@olson_gender_2022].
+
+Considerando questo i trattamenti ormonali o chirurgici di affermazione di genere sono tipicamente sconsigliati nel bambino, in favore di un approccio che favorisca invece la creazione di un ambiente sicuro in cui il bambino si senta libero di esprimersi e sperimentare con la propria identità di genere, supportato dalla famiglia e se necessario da un supporto psicologico adeguato. [cite:@telfer_australian_2018]
+
+
+*** Percorsi terapeutici di affermazione di genere
+I percorsi di affermazione di genere sono terapie mediche e/o chirurgiche che l'individuo TGD può decidere di intraprendere per affermare la propria identità di genere rispetto al sesso asseganto alla nascita, come discusso prima questi sono strettamente correlati alla valutazione del professionista sanitario e all'età dell'individuo.
+
+**** Terapia medica
+\\
+La terapia medica ormonale comprende la terapia di soppressione della pubertà, con anloghi dell'ormone di rilascio delle gonadotropine(GnRHa) e la terapia ormonale di affermazione di genere (GAHT).
+
+***** Analoghi del GnRH
+\\
+Il GnRh è z
+
+
+
+**** Terapia Chirurgica
+
+
+
+
+
+
 *** BIA (?)
 
 * Obiettivi
