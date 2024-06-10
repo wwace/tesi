@@ -2,23 +2,25 @@
 #+Author: Lorenzo Macelloni
 #+bibliography: biblio.bib
 #+LATEX_CLASS: article
+#+OPTIONS: H:5
 #+latex_header: \usepackage[scaled]{inter} \renewcommand\familydefault{\sfdefault}
 #+latex_header: \usepackage{setspace} \onehalfspacing
 #+latex_header: \usepackage{geometry} \geometry{a4paper, top=2.5cm, bottom=2.5cm, left=3.5cm, right=2.5cm }
+#+latex_header: \usepackage[parfill]{parskip}
 
 # #+SETUPFILE: jake-standard-latex-export.org
 
+# titolo?
+# del suo impatto sulla salute mentale nella popolazione transgender
 
 
 
 * Abstract
 
 * Introduzione
+** Parte I - Incongruenza di Genere
 *** Terminologia - sesso, genere, identità di genere, orientamento sessuale
-Nella discussione di una condizione come l'Incongruenza di Genere (IG) è
-opportuno prendere familiarità con una determinata terminologia. Spesso infatti
-alcuni termini come "sesso" e "genere" vengono utilizzati in maniera
-interscambiabile nel linguaggio comune, considerando quindi inevitabilmente
+Nella discussione di una condizione come l'Incongruenza di Genere (IG) è opportuno prendere familiarità con una determinata terminologia. Spesso infatti alcuni termini come "sesso" e "genere" vengono utilizzati in maniera interscambiabile nel linguaggio comune, considerando quindi inevitabilmente
 correlate quelle che sono le caratteristiche socioculturali e biologiche che
 contraddistinguono uomo e donna.
 Negli anni l'evoluzione degli studi di genere e della teoria queer hanno portato ad una visione più moderna ed amplia di questi concetti [cite:@naples_gender_2020].
@@ -35,7 +37,6 @@ Tuttavia, esistono anche stati intersessuali, in cui i caratteri ed i cromosomi 
 
 **** Genere (gender)
 Costrutto multidimensionale sociale e culturale; comprende ruoli, attività, comportamenti ed espressioni, che sono tipicamente identificati all'interno di una determinata società come propriamente maschili o femminili.
-
 Sulla base del genere si definisce l'*identità di genere*.
 Questa è la sensazione individuale di sentirsi parte di una determinata categoria di genere, che può essere maschile, femminile, o stati alternativi e non-binari.
 L'identità di genere è quindi auto-definita, può cambiare nel corso della vita e non corrisponde necessariamente a quelle che sono le aspettative sociali nei confronti del sesso dell'individuo.
@@ -59,17 +60,14 @@ Il primo a prendere in considerazione questa caratteristica fluida della sessual
 Questa definisce l'orientamento sessuale secondo un gradiente da 0, esclusiva eterossessualità, a 6, esclusiva omosessualità.
 
 # L'orientamento sessuale inoltre viene considerato fluido anche nel tempo, infatti questo può cambiare durante la vita di una persona anche in funzione delle circostanze dell'individuo.
-
 # valutare se aggiungere la parte che divide l'orientamento in attrazione/identità/comportamento, a me sembra un po'overkill
-
 
 **** Transgender e Gender Diverse
 Transgender è l'aggettivo utilizzato per riferirsi ad una persona la cui identità, espressione e/o ruolo di genere non sono conformi con quello che è culturalmente associato al loro sesso biologico.
 Alcuni individui non si identificano in un genere che rientra nella tipica dicotomia maschio/femmina, utilizzano quindi termini come /gender-fluid/ o /nonbinario/. [cite:@american_psychiatric_association_diagnostic_2024]
-
+Vengono anche frequentemente utilizzati i termini AMAB e AFAB, abbreviativi per /assigned male at birth/ e /assigned female at birth/, per far riferimento al sesso biologico assegnato alla nascita di un individuo, senza implicare una corrispondente identità di genere[cite:@noauthor_lgbti-safezone_nodate].
 Spesso in letteratura, per riferirsi in modo più inclusivo possibile alla popolazione di tutti gli individui la cui identità di genere non corrisponde col sesso assegnato alla nascita, si utilizza il termine /transgender e gender diverse/ (TGD)[cite:@coleman_standards_2022].
 
-# AMAB/AFAB → devo dare la definizione anche se li userò poco però li uso
 
 
 
@@ -77,31 +75,35 @@ Spesso in letteratura, per riferirsi in modo più inclusivo possibile alla popol
 *** Incongruenza di genere, cenni storici di medicina di genere
 # mi sembra ridondante dire questo qua che poi lo dico dopo nella parte di criteri diagnostici però ha senso intanto quantomeno dare delle definizioni sommarie per poterne parlare e poi approfondire dopo (credo)
 
-L'*incongruenza di genere* è una condizione definita dalla presenza di una discordanza tra il sesso assegnato alla nasciata e la propria identità di genere. Questa è definita nella International Classification of Diseases (ICD-11) e non è considerata una condizione di per sé patologica[cite:@noauthor_icd-11_nodate].
-A differenza invece della *disforia di genere*, in cui la presenza di una incongruenza tra identità di genere e sesso biologico causa sofferenza, i criteri diagnostici per la disforia sono delineati nel Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR)[cite:@american_psychiatric_association_diagnostic_2022].
-
-Storicamente il primo ad utilizzare il termine /transessuale/ viene considerato David O. Cauldwell nel 1949, con il suo articolo /Psychopathia Transexualis/, in cui descrive il caso di un suo paziente AFAB. In realtà prima di lui Dr. Magnus Hirschfeld aveva usato il termine /seelischer Transsexualismus/ o "transesualismo spirituale[cite:@noauthor_transgender_2006].
-
+L'*incongruenza di genere* è una condizione definita dalla presenza di una discordanza tra il sesso assegnato alla nasciata e la propria identità di genere. Questa è definita nella International Classification of Diseases (ICD-11) e non è considerata una condizione di per sé patologica[cite:@noauthor_icd-11_nodate], a differenza invece della *disforia di genere*, in cui la presenza di una incongruenza tra identità di genere e sesso biologico causa sofferenza, i criteri diagnostici per la disforia sono delineati nel Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR)[cite:@american_psychiatric_association_diagnostic_2022].
+\\
+Storicamente il primo ad utilizzare il termine /transessuale/ viene considerato David O. Cauldwell nel 1949, con il suo articolo /Psychopathia Transexualis/ in cui descrive il caso di un suo paziente AFAB, in realtà prima di lui il Dr. Magnus Hirschfeld aveva già usato un termine simile ovvero /seelischer Transsexualismus/ o "transessualismo spirituale"[cite:@noauthor_transgender_2006].
 Il Dr. Hirschfeld è considerato il padre della medicina transgener, fondatore nel 1919 dell'Istituto della Scienza Sessuale di Berlino, il primo istituto interamente dedicato alla sessuologia, dove accoglieva le persone transgender proteggendole dagli abusi e offrendo opportunità di terapia.
-È stato sempre lui a svolgere la prima operazione registrata di affermazione di genere, su Dora Richter, una dipendente dell'istituto, su cui è stata effettuata prima una orchidectomia nel 1922 e successivamente una penectomia e vaginoplastica nel 1931[cite:@bhinder_brief_2021].
+È stato sempre lui a svolgere la prima operazione registrata di affermazione di genere, su Dora Richter, una dipendente dell'istituto, su cui è sono state effettuate prima una orchidectomia nel 1922 e successivamente una penectomia e vaginoplastica nel 1931[cite:@bhinder_brief_2021].
+\\
+Negli anni successivi la questione transgender è rimasta poco consciuta e considerata fino al 1952 con il caso di Christine Jorgensen, la prima americana ad essersi sottoposta ad un'operazione chirurgica di affermazione di genere svolta in una clinica danese, unica a svolgere questo trattamento a quei tempi. Il suo ritorno negli Stati Uniti e la sua esposizione pubblica nei confronti della propria identità di genere ha portato molta attenzione ai movimenti transgender in America[cite:@crocq_how_2021].
+Qualche anno dopo nel 1966 il Dr. Henry Benjamin pubblica il suo trattato /The Transsexual Phenomenon/ rendendo conosciuto ad un pubblico più ampio il termine /transessuale/ coniato da Cauldwell anni prima. In questo si espone anche contro quello che era considerato al tempo l'approccio terapeutico per gli individui transgender, basato su una terapia di psicoanalisi il cui scopo era di diminuire il desiderio di essere dell'altro sesso, ma invece proponendo l'utilizzo di una terpia ormonale per effettuare la transizione verso il genere desiderato e se necessario anche un intervento chirurgico [cite:@schilt_harry_2024].
+Benjamin ha inoltre fondato nel 1978 la /Harry Benjamin International Gender Dysphoria Association/ successivamente rinominata /World Professional Association for Transgender Health/(WPATH), tuttora una delle più imporanti autorità mondiali per la salute degli individui TGD [cite:@wpath_history_nodate] [cite:@allee_world_2024].
+Nel 1979 ha poi pubblicato la prima edizione degli /Standards of Care/ (SOC), delle linee guida per aiutare i professionisti sanitari nella gestione delle persone TGD, attualmente all'VIII edizione sono ancora considerati un documento fondamentale in materia[cite:@wpath_soc8_nodate].
+\\
+Il termine entra a far parte del DSM-III nel 1980 con il nome di /transessualismo/, utilizzato per adolescenti e adulti, mentre nei bambini la diagnosi è di /disturbo d'identità di genere dell'infanzia/ (gender identity disorder of childhood non so se sia meglio lasciarlo in inglese o tradurlo). Queste verranno poi unite nel DSM-IV del 1994 sotto la diagnosi di /disturbo d'identità di genere/ (anche qua non so se tradurre), con criteri diversi per i bambini rispetto ad adolescenti e  adulti[cite:@zucker_was_2005]. Infine nel 2013 con il DSM-5 la diagnosi diventa di /disforia di genere/, spostando il focus sulla condizione di sofferenza che accompagna l'incongruenza di genere, con l'obiettivo di depatologizzare e destigmatizzare la condizione di transgender[cite:@crocq_how_2021][cite:@narrow_revision_2010].
+\\
+Infine, nel 2022 con l'ICD-11 viene definita la diagnosi di /incongruenza di genere/, revisione aggiornata della diagnosi di /transessualismo/ dell'ICD-10, questa era inserita nel capitolo sui disturbi mentali mentre viene adesso spostata nel capitolo sulla salute sessuale. Si pone attenzione anche ad utilizzare termini meno binari, come "sesso assegnato" e "genere esperito" e non viene implicato che tutti gli individui desiderino una terapia di transizione. Anche in questo caso le revisioni continuano ad avere l'obiettivo di combattere lo stigma e la discriminazione nei confronti della popolazione TGD, offrendo invece strumenti migliori di comprensione, valutazione e supporto[cite:@reed_disorders_2016].
+
+
 *** Epidemiologia
 Nella discussione epidemiologica dei dati che riguardano la popolazione TGD è preferibile evitare i termini "incidenza" e "prevalenza", questi infatti potrebbero sottointendere in maniera impropria una condizione patologica. Oltretutto, il termine "incidenza" non è utilizzabile anche perché indica la presenza di un chiaro momento di comparsa dello status TGD, il quale è raramente individuabile.
 Si preferiscono quindi i termini "numero" e "proporzione", per riferirsi alla dimensione assoluta e relativa della popolazione TGD. [cite:@coleman_standards_2022]
-
-
+\\
 Nonostante un interesse crescente da parte della ricerca nei confronti della salute di questa popolazione, ci sono ancora molti dati epidemiologici anche basilari sui quali si ha poca certezza.
 Le stime riportate in vari studi sono infatti fortemente dipendenti dal tipo di metodologia utilizzata per l'indagine e dalla definizione data del termine transgender.
 A seconda delle pubblicazioni vengono presi in considerazione certe volte solamente color che hanno richiesto o intrapreso un percorso chirurgico di riassegnazione del sesso, altri prendono in considerazione le diagnosi di disforia di genere, mentre diversi studi svolti tramite sondaggio nella popolazione generale prendono in considerazione l'autoidentificazione come transgender.
 [cite:@collin_prevalence_2016]
-
-Per quanto riguarda nello specifico la diagnosi clinica di disforia di genere, il DSM-5-TR riporta una prevalenza tra il 0,005-0,014% per le persone AMAB e tra il 0,002% e 0,003% per le AFAB, già puntualizzando però come reputi il dato verosimilmente sottostimato.
-# in questo caso è possibile utilizzare il termine prevalenza dato che si fa riferimento ad un'effettiva condizione patologica riconosciuta
-
-[cite:@noauthor_gender_2022]
+\\
+Per quanto riguarda nello specifico la diagnosi clinica di disforia di genere, il DSM-5-TR riporta una prevalenza tra il 0,005-0,014% per le persone AMAB e tra il 0,002% e 0,003% per le AFAB, già puntualizzando però come reputi il dato verosimilmente sottostimato[cite:@noauthor_gender_2022](si sottolinea che, in questo caso, può essere utilizzato il termine "prevalenza" dato che si sta facendo riferimento ad un'effettiva condizione patologica riconosciuta).
 Questa stima infatti prende in considerazione solamente la parte della popolazione TGD che ha ricevuto a tutti gli effetti una diagnosi, per cui appare evidente come questo numero sia sottostimato di diversi ordini di grandezza rispetto ai sondaggi nella popolazione, i quali utilizzano criteri più generici.
-
 # volendo mettere qua un altro studio esempio, quello nella tesi di alessio è un po'vecchio
-
+\\
 Prendendo in considerazione i sondaggi condotti nella popolazione che utilizzano definizioni simili, i risultati sono consistenti.
 Questionari che indagavano nello specifico il termine "transgender" rilevavano una stima che va tra lo 0,3% e lo 0,5% tra gli adulti e tra l'1,2% e il 2,7% tra bambini ed adolescenti.
 Utilizzando una definizione più ampia che include termini come "incongruenza di genere" o "ambivalenza di genere" la percentuale aumenta a 0,5-4,5% tra gli adulti e 2,5-8,4% nella popolazione adolescente e pediatrica.
@@ -109,10 +111,8 @@ Utilizzando una definizione più ampia che include termini come "incongruenza di
 
 La dimensione di questa popolazione è inoltre in aumento, su questo concordano sostanzialmente tutte le pubblicazioni che prendono in considerazione l'evoluzione del trend negli anni, indipendentemente da area geografica e modalità di indagine.
 [cite:@goodman_size_2019]
-
-
 # altri potenzialmente interessanti: - https://www.publish.csiro.au/sh/sh17067 (zuker → mi sembra di averlo visto citato) - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299373 (questo me lo ha dato GPT però sembra carino)
-
+\\
 Per quanto riguarda l'Italia, uno studio del 2023 condotto tramite un sondaggio online diffuso attraverso vari social media, riporta che su 19572 partecipanti il 7,7% riporta un'identità di genere diversa dal sesso assegnato alla nascita. [cite:@fisher_estimate_2024]
 Si è anche valutato come i partecipanti TGD avessero un'età media significativamente inferiore rispetto a quelli cisgender.
 Inoltre è interessante notare come tra le persone TGD solamente il 41,6% riportavano un'identita di genere binaria, mentre il 58,4% si identificavano come non-binari.
@@ -132,10 +132,10 @@ Come molte altre patologie, l'ipotesi più attuale comprende l'interazione tra m
 
 **** Fattori Neurologici
 Il coinvolgimento neurologico si basa sull'ipotesi che i soggetti transgender abbiano delle differenze nello sviluppo dei circuiti cerebrali, rispetto ai cisgender, e che questo sia determinante nell'insorgenza dell'incongruenza di genere.
-La base biologica di questa teoria è la differenza già nota tra cervello maschile e femminile nei soggetti cisgender; questa si presenta sia in un leggero vantaggio dell'uno o l'altro sesso in alcuni task cognitivi, sia in una vera e propria differenza anatomica di trofismo di alcune zone cerebrali piuttosto che altre. [cite:@miller_new_2014]
+La base biologica di questa teoria è la differenza già nota tra cervello maschile e femminile nei soggetti cisgender; questa si presenta sia in un leggero vantaggio dell'uno o l'altro sesso in alcuni task cognitivi, sia in una vera e propria differenza anatomica di trofismo di alcune zone cerebrali piuttosto che altre[cite:@miller_new_2014].
 
-Sono diversi i fattori che intervengono nel determinare queste differenze e non tutti sono conosciuti; sicuramente è presente un'influenza ambientale, com'è reso evidente dal fatto che queste differenze tra maschi e femmine sono diverse in diverse aree geografiche, è molto probabile anche un ruolo degli ormoni sessuali durante sviluppo, infatti le differenze di trofismo sono state associate ad aree con diversa quantità di recettori estrogenici e androgenici nelle varie aree cerebrali. [cite:@goldstein_normal_2001]
-
+Sono diversi i fattori che intervengono nel determinare queste differenze e non tutti sono conosciuti; sicuramente è presente un'influenza ambientale, com'è reso evidente dal fatto che queste differenze tra maschi e femmine sono diverse in diverse aree geografiche, è molto probabile anche un ruolo degli ormoni sessuali durante sviluppo, infatti le differenze di trofismo sono state associate ad aree con diversa quantità di recettori estrogenici e androgenici nelle varie aree cerebrali[cite:@goldstein_normal_2001].
+\\
 Per quanto riguarda la popolazione TGD, seppur siano state dimostrate alcune differenze strutturali e funzionali nel cervello degli individui TGD, non è ancora stato indiviuato in letteratura un pattern preciso che si possa associare chiaramente a determinati cambiamenti strutturali.
 Alcuni studi dimostrano come la morfologia cervello di individui con incongruenza di genere sia complessivamente più simile ad individui cisgender del sesso assegnato alla nascita rispetto a individui cisgender dell'identità di genere scelta [cite:@frigerio_structural_2021].
 Tuttavia esiste anche evidenza discordante, ad esempio gli studi riguardanti la struttura della materia bianca tedono a concordare sull'esistenza di un fenotipo intermedio negli individui transgender, differente da quello di entrambi maschi e femmine cisgender[cite:@mueller_transgender_2017] [cite:@guillamon_review_2016][cite:@manzouri_possible_2019].
@@ -149,7 +149,7 @@ Complessivamente è difficile giungere a conclusioni chiare, gli studi infatti s
 **** Fattori Genetici
 Diversi studi ipotizzano la presenza di una componente genetica nella costruzione dell'identità di genere quindi dell'incongruenza, tuttavia al momento non sono stati trovati geni specifici direttamente coinvolti.
 
-Diversi studi sono stati condotti su gemelli monozigoti, mettendo in evidenaza come questi abbiano un tasso di concordanza maggiore sia per quanto riguarda l'identità sia per l'incongruenza di genere. [cite:@kauffman_concordance_2022] [cite:@diamond_transsexuality_2013]
+Diversi studi sono stati condotti su gemelli monozigoti, mettendo in evidenza come questi abbiano un tasso di concordanza maggiore sia per quanto riguarda l'identità sia per l'incongruenza di genere. [cite:@kauffman_concordance_2022] [cite:@diamond_transsexuality_2013]
 
 Uno studio ha studiato invece il potenziale ruolo dei geni coinvolti nel /signaling/ degli ormoni sessuali, mettendo in evidenza come alcune varianti genetiche siano correlate all'incongruenza di genere in alcuni pazienti AMAB, facendo anche valutazioni ed ipotesi sul meccanismo di azione degli specifici polimorfismi. [cite:@foreman_genetic_2019]
 
@@ -158,8 +158,11 @@ Uno studio ha studiato invece il potenziale ruolo dei geni coinvolti nel /signal
 
 
 **** Fattori Endocrini
-???
-# qualcosa nella tesi di alessio marrucci ma non mi piace come è fatto perché sono sostanzialmente fattori genetici, o lo includo in quelli oppure devo trovare altro da dire
+L'incongurenza di genere si presenta frequentemente in soggetti che presentanto disturbi dello sviluppo sessuale(DSD), in queste condizioni spesso l'assegnazione del sesso alla nascita non è chiara come nel resto della poplazione e diventa un obiettivo fondamentale avere un'assegnazione del sesso che sia coerente con l'identità di genere dell'individuo[cite:@fisher_gender_2016]. Alcuni suggeriscono di procedere in maniera inversa, invece di presupporre che sia l'assegnazione del sesso a guidare l'identità di genere, lasciare che l'eventuale comparsa di una incongruenza di genere diventi determinante per l'assegnazione del sesso[cite:@babu_gender_2021].
+\\
+Una di queste condizioni è l'iperplasia surrenale congenita(CAH), in cui le ghiandole surrenali hanno una produzione eccessiva di androgeni, andando a causare in individui con corredo cromosomico femminile alcune caratteristiche mascolinizzanti, in questi casi solitamente viene comunque assegnato alla nascita un sesso femminile. In questi pazienti la percentuale di incongruenza di genere non è particolarmente alta, ma comunque molto più alta rispetto alla popolazione generale[cite:@de_jesus_gender_2019].
+\\
+I meccanismi attraverso i quali gli ormoni sessuali possano intervenire nella determinazione dell'identità di genere non sono del tutto chiari, ma si ricollegano al tema citato prima della loro influenza nella differenziazione cerebrale e della possibile presenza negli individui TGD di polimorfismi in alcuni recettori estrogenici e androgenici a livello cerebrale[cite:@bakker_role_2022].
 
 
 **** Fattori Psicologici e Sociali
@@ -273,7 +276,7 @@ Il DSM-5-TR indica cinque principali condizioni da tenere in considerazione quan
   È molto importante distinguere situazioni in cui le due condizioni coesistono da quelle in cui i disturbi sono unicamente dovuti al quadro schizofrenico, in quanto questo ha un impatto importante sulla gestione del paziente e sull'approccio terapeutico, specialmente prendendo in considerazione trattamenti molto invasivi come la riassegnazione chirurgica del sesso. [cite:@stusinski_gender_2018]
   # maybe snellire un po'questa frase
   Tipicamente le due condizioni si possono differenziare dato che il contenuto dei deliri è bizzaro e questi fluttuano in corrispondenza con remissioni ed ricomparsa degli episodi psicotici.
-  Un ulteriore fattore che può aiutare nella diagnosi è l'utilizzo di farmaci antipsicotici i quali, nel caso dei pazienti psicotici, portano ad una scomparsa del pensiero transessuale.[cite:@urban_[transsexualism_2009]
+  Un ulteriore fattore che può aiutare nella diagnosi è l'utilizzo di farmaci antipsicotici i quali, nel caso dei pazienti psicotici, portano ad una scomparsa del pensiero transessuale.[cite:@urban_transsexualism_2009]
 
 
 
@@ -291,6 +294,9 @@ Altre condizioni che possono presentare problemi di diagnosi differenziale non p
 - Omosessualità egodistonica e omofobia interiorizzata
 - Disturbi dell'alimentazione
 - Disturbo borderline di personalità
+
+
+*** Salute mentale e comorbidità psichiatriche
 
 
 *** Valutazione e approccio ad un individuo con incongruenza di genere
@@ -355,26 +361,72 @@ Considerando questo i trattamenti ormonali o chirurgici di affermazione di gener
 
 
 *** Percorsi terapeutici di affermazione di genere
-I percorsi di affermazione di genere sono terapie mediche e/o chirurgiche che l'individuo TGD può decidere di intraprendere per affermare la propria identità di genere rispetto al sesso asseganto alla nascita, come discusso prima questi sono strettamente correlati alla valutazione del professionista sanitario e all'età dell'individuo.
+I percorsi di affermazione di genere sono terapie mediche e/o chirurgiche che l'individuo TGD può decidere di intraprendere per affermare la propria identità di genere rispetto al sesso asseganto alla nascita, come discusso prima questi sono strettamente dipendenti dall'età dell'individuo e devono essere discussi durante la valutazione con il professionista sanitario.
 
-**** Terapia medica
+**** Terapia Medica
+La terapia medica ormonale comprende due approcci, la terapia di soppressione della pubertà con analoghi dell'ormone di rilascio delle gonadotropine(GnRHa), utilizzato negli individui prepuberi e la terapia ormonale di affermazione di genere(GAHT), utilizzata in adolescenti e adulti.
+
+***** Analoghi del GnRH - Soppressione della pubertà
+Gli agonisti del GnRH agiscono a livello ipofisario andando a stimolare i normali recettori del GnRH che, in risposta ad una stimulazione continua, vengono inibiti nel rilascio di FSH e LH, determinando quindi un ipogonadismo ipogonadotropo[cite:@trevor_pharma_2015].
 \\
-La terapia medica ormonale comprende la terapia di soppressione della pubertà, con anloghi dell'ormone di rilascio delle gonadotropine(GnRHa) e la terapia ormonale di affermazione di genere (GAHT).
-
-***** Analoghi del GnRH
+Lo scopo degli analoghi del GnRH è quello di interrompere lo sviluppo puberale dei caratteri sessuali secondari, questo viene fatto per dare all'individuo tempo ulteriore per sviluppare ed esplorare la propria identità di genere liberamente, prevenendo i cambiamenti della pubertà che sarebero fortemente a favore un'identità cisgender e mantenendo così aperte più opzioni[cite:@ashley_thinking_2019].
+Questo trattamento ha anche un ruolo terapeutico importante, andando a diminuire fortemente il grosso stress psicologico che i cambiamenti del corpo durante la pubertà generano nei ragazzi TGD[cite:@de_vries_puberty_2011]; secondo uno studio recente avere accesso a questi trattamenti, per gli individui che lo desiderano, potrebbe diminuire anche il rischio di ideazione suicidaria [cite:@turban_pubertal_2020].
 \\
-Il GnRh è z
+Attualmente in Italia l'unico farmaco approvato per questo scopo è la Triptorelina, autorizzata dall'AIFA nel 2019 e somministrata per via intramuscolare ogni 28 giorni [cite:@aifa_gazzetta_2019].
+Per poter iniziare la terapia viene indicato di aspettare lo stadio 2 di Tanner, ovvero i primi cambiamenti fisici puberali, questo viene suggerito perché la reazione dell'individuo alla loro presentazione ha valore diagnostico per valutare la persistenza di una disforia o incongruenza di genere[cite:@hembree_endocrine_2017].
+Solitamente la terapia inizia quindi tra gli 11 e 15 anni e continua fino ai 16 anni, età alla quale solitamente questi individui iniziano una GAHT[cite:@calcaterra_adolescent_2024].
+Nonostante una percentuale molto alta di adolescenti TGD trattati con GnRHa poi decidano di intraprendere la GAHT(fino al 95-98%),  è stato dimostrato che non c'è associazione tra le due, confutando la preoccupazione che la terpia con GnRHa rappresenti una decisione anticipata di iniziare una terapia di affermazione di genere, prima che si sia completato lo sviluppo cognitivo e quindi sia prossibile esprimere il consenso[cite:@nos_association_2022].
+\\
+Gli effetti collaterali associati a questi farmaci comprendo soprattutto problematiche di mineralizzazione ossea anche se i dati riguardo l'utilizzo nella popolazione adolescente TGD sono scarsi.
+Durante il trattamento viene indicato di monitorare quindi i parametri auxologici di crescita e la salute ossea, vengono misurati anche i valori ormonali, per valutare l'efficacia della terapia e la pressione arteriosa, data la presenza di qualche caso di ipertensione riportato in letteratura[cite:@hembree_endocrine_2017].
 
 
 
-**** Terapia Chirurgica
+***** Terapia Ormonale di Affermazione di Genere - GAHT
+La terapia ormonale di affermazione di genere viene utilizzata in adulti e adolescenti a partire dai 16 anni e può essere femminilizzante o mascolinizzante.
+
+Ha due scopi principali ovvero ridurre i livelli endogeni degli ormoni sessuali, diminuendo così i caratteri sessuali del sesso biologico e allo stesso tempo sostituire con ormoni esogeni, in modo da garantire una concentrazione sufficente di ormoni che corrispondano a quelli del genere scelto[cite:@hembree_endocrine_2017].
+La terapia, come dimostrato da diversi studi, ha effetti positivi sul benessere mentale, migliorando i sintomi di disforia di genere come ansia e stress e diminuendo le comorbidità psichiatriche[cite:@costa_effect_2016].
+\\
+Dopo l'inizio della terapia devono essere monitorati nel tempo i cambiamenti corporei e psicologici ed eventuali effetti collaterali, devono essere effettuati anche dosaggi sierici degli ormoni sessuali, il target rimane quello di ottenere livelli corrispondenti all'identità di genere scelta dall'individuo. Queste valutazioni vengono fatte tipicamente ogni 3 mesi nel primo anno di terapia, ma le raccomandazioni sono di essere flessibili, dato che non esiste chiara evidenza per quanto riguarda questi intervalli e che dovrebbero piuttosto essere adattati al singolo individuo[cite:@coleman_standards_2022].
+
+# devo anche mettere da qualche parte gli effetti collaterali, ho stretti nelle varie terapie o farci un paragrafo a parte un po'a filler
+
+
+- *Terapia Femminilizzante* \\
+  La terapia femminilizzante ha lo scopo di portare allo sviluppo di caratteristiche sessuali femminili, che comprendono quindi la crescita del seno, una diminuzione della massa muscolare e redistribuzione del grasso corporeo ai fianchi.
+  Allo stesso tempo vengono soppresse le caratteristiche sessuali maschili con una diminuzione delle erezioni spontanee, diminuzione del volume testicolare e diminuzione della peluria, non si hanno tuttavia cambiamenti nel tono della voce che se desiderati necessitano un intervento chirurgico o un allenamento specifico [cite:@sudhakar_feminizing_2023]. \\
+
+  Gli schemi tearpaeutici ottimali tipicamente comprendono un estrogeno in combinazione con un bloccante degli androgeni, utilizato per per ridurre i livelli endogeni di testosterone .
+  La terpia estrogenica è solitamente con 17-β estradiolo, amministrato per via orale, transdermica o parenterale, altre forme di estrogeni come l'etinilestradiolo non sono più indicate, dato che portano ad un rischio più alto di complicanze tromboemboliche [cite:@asscheman_venous_2014][cite:@sudhakar_feminizing_2023].2
+  La terapia estrogenica in sé determina già una soppressione della produzione di androgeni, tuttavia una terapia antiandrogenica specifica viene spesso associata per diminuire ulteriormente i livelli di testosterone e sopprimere in maniera più efficace le caratteristiche sessuali maschili.
+  I farmaci utilizzati sono diversi e le preferenze variano nel mondo, spesso secondo quelli che sono i farmaci più facilmente accessibili e meno costosi, negli Stati Uniti viene utilizzato lo spironolattone, in Europa è più comune il ciproterone acetato (CPA) mentre nel Regno Unito sono più usati gli agonisti del GnRH, ancora non esiste evidenza che deponga nettamente a favore di uno o dell'altro[cite:@angus_systematic_2021].
+
+
+
+
+- *Terapia Mascolinizzante* \\
+  Gli obiettivi della terapia mascolinizzante comprendono lo sviluppo di caratteristiche sessuali tipicamente maschili come l'abbassamento del tono della voce, l'aumento della peluria specialmente sul volto e soppressione dei caratteri femminili, in particolare l'induzione dell'amenorrea[cite:@gooren_long-term_2008][cite:@hembree_endocrine_2017].
+  Il trattamento è basato sulla somministrazione di androgeni con l'obiettivo di ottenere una concentrazione ematica di testosterone che rientri nel normale range maschile (320-1000ng/dl)[cite:@meriggiola_endocrine_2015].
+  La somministrazione avviene tipicamente per via topica attraverso gel, creme o cerotti, oppure per iniezione intramuscolo, il dosaggio viene aggiustato sulla base del dosaggio ematico[cite:@shumer_advances_2016].
+
+
+**** Terapia Chirurgica - GAS
+La terapia chirurgica di affermazione di genere comprende un insieme di procedure utilizzate per rendere il corpo di un individuo TGD più in sintonia con la propria identità di genere. Tra queste ci sono operazioni chiamate "top surgery" tipicamente la mastectomia, ma usato anche per indicare operazioni di aumento del seno, di "bottom surgery", ovvero operazioni ai genitali che comprendono vaginoplastica, falloplastica e metaidioplastica, alle quali si aggiungono anche possibili operazioni di gonadectomia, quindi orchiectomia e ovariectomia, negli ultimi anni stanno ricevendo molta attenzione anche operazioni di chirurgia facciale e delle corde vocali[cite:@coleman_standards_2022].
+La richiesta di interventi chirurgici di affermazione di genere è aumentata molto negli ultimi anni, la richiesta maggiore riguarda le operazioni di "top surgery", più comuni nella popolazione più giovane, mentre le operazioni di chirurgia genitale sono meno frequenti e più comuni sopra l'età di 40 anni[cite:@wright_national_2023].
 
 
 
 
 
 
-*** BIA (?)
+** Parte II - Bioimpedenziometria
+La bioimpedenziometria o BIA(abbreviazione di bioelectrical impedence analysis), è una metodica molto utilizzata per valutare la composizione corporea. I suoi vantaggi sono dati dalla possibilità di ottenere questi dati in maniera rapida, non invasiva e facilmente ripetibile[cite:@jackson_body_2013][cite:@ward_bioelectrical_2019].
+
+*** Funzionamento
+La bioimpedenziometria si basa sull'amministrazione di una debole corrente elettrica alternata ad una o più radiofrequenze attraverso elettrodi superficiali, con l'obbiettivo di valutare la conduzione attraverso tessuti e fluidi corporei.
+Questa corrente si muove a velocità diversa a seconda della composizione del corpo, è ben condotta dall'acqua e da tessuti ricchi di elettroliti come il sangue e i muscoli, mentre è condotta peggio da tessuto adiposo, osseo e aria.
+Gli elettrodi registrano quindi la diminuzione del voltaggio mentre la corrente passa attraverso il corpo e vengono quindi registrati i dati di impedenza dal dispositivo[cite:@mulasi_bioimpedance_2015].
 
 * Obiettivi
 
