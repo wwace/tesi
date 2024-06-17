@@ -31,6 +31,23 @@
 
 
 * Abstract
+*Obiettivi* \\
+L'immagine corporea è un fattore determinante dei soggetti transgender, lo scopo di questo studio è valutare come la composizione corporea e i fattori nutrizionali siano correlati alla psicopatologia in questi soggetti.
+Vengono esplorate differenze determinate dal sesso assegnato alla nascita ed i possibili effetti della terapia ormonale.
+Sono state inoltre condotte valutazioni longitudinali per valutare modifiche nella composizione corporea prima e dopo l'inizio della terapia ormonale.
+
+*Metodi* \\
+Lo studio è stato coinvolto in un campione di individui AMAB(Assigned Male at Birth) e AFAB(Assigned Female at Birth), il campione è stato ulteriormente suddiviso sulla base di chi era sottoposto a terapia ormonale di affermazione di genere e chi non lo era.
+Per la valutazione dei valori psicometrici sono stati utilizzati l'Identity and Eating Disorders Assessment(IDEA), il Multidimensional Assessment of Interoceptive Awareness(MAIA), il Brief Symptom Inventory(BSI), il Childhood Truma Questionnaire(CTQ) e la Difficulties in Emotion Regulation Scale(DERS).
+Per i dati nutrizionali è stato calcolato il recall nelle 24h basandosi sulal dieta riportata dal paziente nella giornata precedente, la valutazione della composizione corporea è stata effettuata tramite bioimpedenziometria.
+I dati sono stati analizzati .. con analisi ANCOVA delle covariate per valutare le differenze secondo il sesso assegnato alla nascita e secondo la somministrazione o meno di terapia ormonale di affermazione di genere. Sono state quindi analizzate le correlazioni tra psicopatologia, composizione corporea e fattori nutrizionali. Infine è stata svolta una valutazione longitudinale per la composizione corporea prima e dopo l'inizio della terapia ormonale.
+
+*Risultati* \\
+I risultati hanno mostrato un diverso profilo nei pazienti AMAB e AFAB, nei primi un disagio psicopatologico maggiormente correlato alla propria immagine corporea e dipendente dalla percezione esterna, negli AFAB invece appare una sintomatologia maggiormente legata ad eventi traumatici e ad una minore interocezione.
+La valutazione longitudinale ha dimostrato una diminuzione di BMI in entrambi i campioni AMAB e AFAB, suggerendo un miglioramento nel comportamento
+
+*Conclusione* \\
+Lo studio ha valutato le caratteristiche della composizione corporea e nutrizionali nei soggetti TGD, distinguendo tra individui AMAB e AFAB e considerando l'impatto della terapia ormonale. Sono state esaminate le correlazioni tra fattori nutrizionali e caratteristiche psicopatologiche, evidenziando come questi aspetti siano interconnessi. Inoltre, è stata condotta per la prima volta una valutazione delle correlazioni tra componenti corporee misurate con la bioimpedenziometria e sintomatologia psicopatologica, aprendo la strada a future ricerche sull'interazione tra composizione corporea, nutrizione e psicopatologia in questa popolazione.
 
 
 * Introduzione
@@ -544,22 +561,20 @@ I compartimenti stimati utilizzando la bioimpedenziometria comprendono
 Gli obiettivi dello studio sono di valutare la presenza di correlazioni tra composizione corporea e psicopatologia nella popolazione TGD, andando a valutare la presenza di similitudini e differenze tra soggetti AMAB e AFAB ed il potenziale impatto della terapia ormonale.\\
 Lo studio si basa sulla teoria che l'immagine corporea e la visione del proprio corpo siano fattori importanti nel determinare la sofferenza mentale che caratterizza la condizione di disforia di genere[cite:@bandini_gender_2013], di conseguenza l'ipotesi che i miglioramenti in queste due aree possano essere in qualche modo correlati.
 
-
-
-Questo è stato valutato sia in maniera trasversale, andando ad analizzare i dati nutrizionali e psicometrici nel campione e valutando le differenze tra AMAB e AFAB e tra quelli che fanno e non fanno CHT, ma anche in maniera longitudinale, andando a valutare negli stessi soggetti le differenza tra prima e dopo l'inizio della terapia ormonale.
+Questo è stato valutato sia in maniera trasversale, andando ad analizzare i dati nutrizionali e psicometrici nel campione e valutando le differenze tra soggetti AMAB e AFAB e tra coloro che fanno e non fanno CHT, ma anche in maniera longitudinale, andando a valutare negli stessi soggetti le differenza tra prima e dopo l’inizio della terapia ormonale.
 
 Caratteristica innovativa dello studio è l'utilizzo della bioimpedenziometria, questo è stato fatto con lo scopo di indagare la possibile presenza di un parametro nutrizionale specifico che possa correlare con i cambiamenti psicopatologici.
 
 
 * Materiali e Metodi
 ** Popolazione in esame
-Lo studio è stato svolto in una popolazione di 31 individui valutati presso l'ambulatorio di incongruenza di genere dell'AOU Careggi.
-Tra questi 16 individui erano AFAB, di cui 8 in trattamento con GAHT e 8 non in trattamento e 15 erano AMAB, di cui 9 in trattamento con GAHT e 6 non in trattamento.
+Lo studio ha visto la partecipazione di  una popolazione di 31 individui valutati presso l’ambulatorio per pazienti con  incongruenza di genere della SODc di Psichiatria dell’AOU Careggi. Tra questi erano presenti 16 individui AFAB, di cui 8 in trattamento con GAHT, mentre i restanti 8 non ancora in trattamento ormonale ; i restanti 15 individui erano AMAB , di cui 9 in trattamento con GAHT e 6 non ancora in trattamento ormonale.
+
 
 I criteri di inclusione comprendevano:
 - Età maggiore di 16 anni;
 - Diagnosi di disforia di genere secondo i criteri del DSM-5-TR accertata da almeno due esperti;
-- Firma del consenso informato.
+- Acquisizione di consenso informato.
 
 I criteri di esclusione invece erano:
 - Diagnosi di disabilità intellettiva;
@@ -569,8 +584,8 @@ I criteri di esclusione invece erano:
 
 
 ** Procedure e strumenti utilizzati
-I pazienti sono stati valutati inizialmente in visita psichiatrica, durante la quale sono stati anche somministrati i test psicometrici.\\
-Successivamente, per color che rispondevano ad i criteri di inclusione, è stata effettuata una valutazione dietetica, durante la quale sono stati raccolti i dati nutrizionali ed è stata effettuata la valutazione bioimpedenziometrica.
+I pazienti sono stati inizialmente sottoposti a valutazione psichiatrica con raccolta anamnestica e conduzione di esame obiettivo psichiatrico; in tale contesto i pazienti venivano anche sottoposti ai relativi test psicometrici previsti.
+Successivamente, veniva effettuata una valutazione dietetica, con raccolta dei dati nutrizionali e bioimpedenziometrica.
 
 *** Scale psicometriche
 ***** Identity and Eating Disorders Assessment - IDEA [cite:@stanghellini_identity_2012]
@@ -587,7 +602,7 @@ Lo score totale IDEA è dato dalla media della somma di tutti gli item, un punte
 
 ***** Multidimensional Assessment of Interoceptive Awareness - MAIA[cite:@mehling_multidimensional_2012;@mehling_multidimensional_2018;@cali_investigating_2015]
 Il \textit{Multidimensional Assessment of Interoceptive Awareness}(MAIA) è un questionario autovalutativo che misura più dimensioni della propria interocezione, composto da 32 item.
-Il punteggio per ogni item è valutato secondo quanto spesso ogni frase si applica alla vita quotidiana dell'individuo e va da 0 ("mai") a 5 ("sempre").
+Il punteggio per ogni item è valutato secondo quanto spesso ogni frase si applica alla vita quotidiana dell'individuo e va da 0 ("mai") a 5 ("sempre"), un punteggio più alto indica maggiore capactià di interoczione.
 
 Gli item sono divisi in 8 sottoscale:
 1. Sottoscala *noticing* che valuta l'autoconsapevolezza delle proprie sensazioni corporee, che siano positive, negative o neutre.
@@ -647,20 +662,20 @@ La DERS è una scala autoriporata sviluppata per valutare la disregolazione emot
 Per ogni item viene indicato quanto spesso il soggetto sente che la frase si applica a se stesso, in un range da 0 ("quai mai") a 5 ("quasi sempre").
 
 *** BIA e dati nutrizionali
-qua mi servono altri dettagli sullo strumento presumo
+I dati nutrizionali sono stati raccolti durante un colloquio dietetico, inizialmente è stato effettuato il recall delle 24h, ovvero il soggetto riporta ciò che ha mangiato nella giornata precedente alla visita. Sulla base di questo sono stati calcolati i dati nutrizionali tramite l'utilizzo del software Winfood.\\
+Questi comprendono la quantità totale di calorie (/Recall24 Kcal/) e le quantità per ogni specifico macronutriente, ovvero proteine (/Recall24 prot/), lipidi (/Recall24 lipidi/) e carboidrati (/Recall24 carb/).\\
+Sono stati calcolati inoltre il numero di grammi di proteine per Kg di peso corporeo (/Proteine/g/Kg/) e il numero di calorie per Kg di peso corporeo (/Kcal/Kg/)
 
-Per la valutazione della composizione corporea è stata usata la bioimpedenziometria?
-
-Durante la valutazione dietetica è stato calcolato il recall dei macronutrienti assunti nelle precedenti 24 ore, basandosi sulla dieta riportata dal paziente.
+Successivamente è stata effettuata una valutazione bioimpedenziometrica della composizione corporea utilizzando BIA 101 BIVA ® PRO distribuito dalla Akern S.r.l.
 
 *** Statistica
 
 
 * Risultati
+Nel corso dello studio il campione è stato suddiviso sulla base del sesso assegnato alla nascita (AFAB e AMAB) e ciascuno di questi due gruppi è stato ulteriormente suddiviso tra coloro che assumevano una terapia ormonale (GAHT) e chi non la assumeva.\\
 
-Nelle valutazioni il campione è stato suddiviso sulla base del sesso assegnato alla nascita e all'interno di questi due gruppi è stato ulteriormente suddiviso sulla base dell'aver iniziato o meno una terapia ormonale di affermazione di genere.
-
-Inizialmente sono stati valutati parametri sociodemografici come l'età e la scolarità e valori nutrizionali basilari del peso e BMI .
+Inizialmente sono stati valutati parametri sociodemografici come l'età e la scolarità e valori nutrizionali basilari del peso e BMI.\\
+Nei soggetti AFAB l'età media era di 26,375 nel gruppo senza terapia ormonale e 24,625 nel gruppo che assumeva CHT, nei soggetti AMAB invece l'età media era di 28,333 nel gruppo senza CHT e 30,333 nel gruppo con CHT.\\
 
 # TABELLA1 - descrittiva base
 \begin{table}[H]
@@ -680,14 +695,18 @@ Inizialmente sono stati valutati parametri sociodemografici come l'età e la sco
     \end{tabular}%
 }}
     \label{tab:my_label}
-    \footnotesize \textit{AFAB(Assigned Female at Birth), AMAB(Assigned Male at Birth), CHT(Cross-Sex Hormone Therapy), SAAB(Sex Assigned at Birth), StD(deviazione standard)}
+    \footnotesize \textit{I valori sono riportati divisi per sesso assegnato alla nascita, AFAB(Assigned Female at Birth) e AMAB(Assigned Male at Birth), ulteriormente divisi secondo la presenza di terpia ormonale CHT(Cross-Sex Hormone Therapy); per ogni valore si riporta media e deviazione standard(StD). Nelle colonne a fianco vengono riportati i valori di f-value dell'analisi delle covariate per SAAB(sex assigned at birth) e CHT}
 \end{table}
 # TABELLA1
 
-Da questa prima valutazione di possono già notare delle differenze di peso e BMI tra le popolazioni con e senza terapia ormonale.\\
-Nei pazienti AFAB si osserva un peso e BMI minori nella popolazione senza terapia ormonale che invece sono maggiori nella popolazione sottoposta a CHT.\\
-Nei pazienti AMAB si osserva invece il contrario, il BMI risulta più elevato nei soggetti che non fanno terapia ormonale mentre più basso in quelli con CHT.\\
-È stata fatta una valutazione delle covariate ANCOVA per mettere in correlazione il BMI con il SAAB e con la CHT di cui si riporta l'F value nelle colonne di destra, questo però non è risultato rilevante.
+Da questa prima valutazione si possono già notare delle differenze di peso e BMI tra le popolazioni con e senza terapia ormonale, tuttavia, l'analisi delle covariate svolta per il BMI non ha dato risultati significativi né per il sesso assegnato alla nascita né per la terapia ormonale.
+
+# Nei pazienti AFAB si osserva un peso e BMI minori nella popolazione senza terapia ormonale che invece sono maggiori nella popolazione sottoposta a CHT.\\
+# Nei pazienti AMAB si osserva invece il contrario, il BMI risulta più elevato nei soggetti che non fanno terapia ormonale mentre più basso in quelli con CHT.\\
+# È stata fatta una valutazione delle covariate ANCOVA per mettere in correlazione il BMI con il SAAB e con la CHT questo però non è risultato rilevante.
+
+** Valutazioni nutrizionali e della composizione corporea
+I dati nutrizionali sono stati analizzati valutando le differenze secondo il sesso assegnato alla nascita e la CHT, ma non sono risultati valori significativi.
 
 
 # TABELLA 2 - descrittiva nutrizionale
@@ -702,23 +721,24 @@ Nei pazienti AMAB si osserva invece il contrario, il BMI risulta più elevato ne
  &  \multicolumn{2}{c|}{CHT NO}&  \multicolumn{2}{c|}{CHT SÌ}&  \multicolumn{2}{c|}{CHT NO}&  \multicolumn{2}{c||}{CHT SÌ}& &\\ \cline{2-9}
  &  Media&StD&  Media&StD&  Media&StD&  Media&StD& &\\\hline
          \textbf{Recall24 kcal}	&  1284.538&575.924&  1586.880&480.263&  1470.508&693.466&  1548.305&606.386&  0.091& 0.552\\ \hline
-         \textbf{Recall24 Proteine}	&  45.482&25.924&  69.914&23.310&  63.448&32.134&  49.097&18.588&  & \\ \hline
+         \textbf{Recall24 Proteine}	&  45.482&25.924&  69.914&23.310&  63.448&32.134&  49.097&18.588& 0.059 & 0.121\\ \hline
          \textbf{Recall24 Lipidi}	&  49.222&21.147&  43.976&12.124&  60.150&30.964&  59.255&29.929&  1.303& 0.082\\ \hline
          \textbf{Recall24 Carb}	&  167.403&108.229&  221.750&79.119&  179.610&86.045&  209.989&76.142&  0.017& 1.357\\ \hline
-         \textbf{Proteine/g/kg} &  0.604&0.334&  0.605&0.446&  0.772&0.323&  0.733&0.361&  & \\ \cline{1-9}
- \textbf{Kcal/Kg}& 17.438&8.775& 13.987&10.677& 18.012&8.109& 22.866&10.843& &\\ \hline
+         \textbf{Proteine/g/kg} &  0.604&0.334&  0.605&0.446&  0.772&0.323&  0.733&0.361&  1.560 & 0.013 \\ \hline
+         \textbf{Kcal/Kg}& 17.438&8.775& 13.987&10.677& 18.012&8.109& 22.866&10.843& 2.633 & 0.017 \\ \hline
     \end{tabular}%
     }}
     \label{tab:my_label}
-    \footnotesize \textit{Recall si riferisce a ciò che il soggetto riporta di aver mangiato nel giorno precedente, per cui vengono calcolate le calorie totali e la quantità dei vari macronutrienti proteine, lipidi e carboidrati(carb); proteine/g/kg fa riferimento al numero di grammi di proteine per Kg di peso corporeo; Kcal/Kg fa riferimento al numero di Kcal per Kg di peso corporeo}
+    \footnotesize \textit{I valori sono riportati divisi per sesso assegnato alla nascita, AFAB(Assigned Female at Birth) e AMAB(Assigned Male at Birth), ulteriormente divisi secondo la presenza di terpia ormonale CHT(Cross-Sex Hormone Therapy); per ogni valore si riporta media e deviazione standard(StD). Nelle colonne a fianco vengono riportati i valori di f-value dell'analisi delle covariate per SAAB(sex assigned at birth) e CHT}
 \end{table}
 # tabella 2
 
-Andando a valutare le caratteristiche nutrizionali nel campione si può osservare che in entrambe le popolazioni AMAB e AFAB si ha un introito calorico nelle 24 ore maggiori nei pazienti che fanno terapia ormonale. Tuttavia, questa differenza risulta proporzionale al peso solamente nei pazienti AMAB che fanno CHT, mentre nei pazienti AFAB con CHT le kcal per kg di peso sono inferiori rispetto ai pazienti AFAB che non fanno terapia ormonale.\\
-A livello di macronutrienti, i pazienti AFAB con terapia ormonale riportano un numero minore di lipidi e maggiore di proteine e carboidrati rispetto ai pazienti che non fanno CHT, andando a valutare tuttavia i grammi di proteine per kg questa differenza appare molto sottile.\\
-Nei pazienti AMAB invece il consumo di proteine e lipidi è minore nei pazienti che fanno CHT, mentre è maggiore il numero di carboidrati, in questo caso la differenza nei grammi di proteine per kg è leggeremente maggiore. \\
-Per i valori nutrizionali è stata svolta un analisi delle covariate ANCOVA sempre considerando SAAB e CHT per il recall nelle 24 ore, lipidi e carboidrati, ma anche in questo caso i risultati non sono statisticamente significativi.
+# Andando a valutare le caratteristiche nutrizionali nel campione si può osservare che in entrambe le popolazioni AMAB e AFAB si ha un introito calorico nelle 24 ore maggiori nei pazienti che fanno terapia ormonale. Tuttavia, questa differenza risulta proporzionale al peso solamente nei pazienti AMAB che fanno CHT, mentre nei pazienti AFAB con CHT le kcal per kg di peso sono inferiori rispetto ai pazienti AFAB che non fanno terapia ormonale.\\
+# A livello di macronutrienti, i pazienti AFAB con terapia ormonale riportano un numero minore di lipidi e maggiore di proteine e carboidrati rispetto ai pazienti che non fanno CHT, andando a valutare tuttavia i grammi di proteine per kg questa differenza appare molto sottile.\\
+# Nei pazienti AMAB invece il consumo di proteine e lipidi è minore nei pazienti che fanno CHT, mentre è maggiore il numero di carboidrati, in questo caso la differenza nei grammi di proteine per kg è leggeremente maggiore. \\
+# Per i valori nutrizionali è stata svolta un analisi delle covariate ANCOVA sempre considerando SAAB e CHT per il recall nelle 24 ore, lipidi e carboidrati, ma anche in questo caso i risultati non sono statisticamente significativi.
 
+Anche per quanto riguarda i dati sulla composizione corporea, anche questi sono stati valutati nei soggetti AMAB e AFAB con e senza CHT e non sono state valutate differenze significative sulla base del SAAB o della CHT.
 
 # TABELLA 3 - descrittivba bia
 \begin{table}[H]
@@ -753,15 +773,19 @@ Per i valori nutrizionali è stata svolta un analisi delle covariate ANCOVA semp
     \end{tabular}%
     }}
     \label{tab:my_label}
-    \footnotesize \textit{PhA(angolo di fase), FFM(fat free mass), FM(fat mass), BCM(body cell mass), TBW(total body water), ECW(extracellular water) percentuale su TBW}
+    \footnotesize \textit{La tabella valuta la composizione corporea secondo i compartimenti misurati tramite valutaizone bioimpedenziometrica: PhA(angolo di fase), FFM(free fat mass), FM(fat mass), BCM(body cell mass), TBW(total body water), ECW(extracellular water); sono divisi per sesso assegnato alla nascita, AFAB(Assigned Female at Birth) e AMAB(Assigned Male at Birth), ulteriormente divisi secondo la presenza di terpia ormonale CHT(Cross-Sex Hormone Therapy); per ogni valore si riporta media e deviazione standard(StD). Nelle colonne a fianco vengono riportati i valori di f-value dell'analisi delle covariate per SAAB(sex assigned at birth) e CHT; }
 \end{table}
 # TABELLA 3 - descrittivba bia
 
-Dalle misurazioni bioimpedenziometriche si possono valutare le differenze di composizione corporea tra le varie popolazioni nel campione.\\
-Nei pazienti AFAB con CHT si nota una maggiore FFM e FM rispetto agli AFAB senza CHT, coerente con le differenze di peso e BMI prima evidenziate, a livello percentuale invece gli AFAB con CHT risultano avere proporzionalmente meno FFM e più FM. \\
-Nei pazienti AMAB con CHT invece si nota come questi abbiano una minore FFM e FM rispetto ai pazienti senza tearpia, con una maggiore FFM in percentuale. In questo caso i pazienti AMAB con CHT hanno anche una BCM minore rispetto a quelli senza CHT sia a livello totoale che percentuale. \\
-Per quanto riguarda la TBW questa è maggiore negli AFAB con CHT rispetto a quelli senza, tuttavia il valore percentuale è minore. Mentre negli AMAB, la TBW è minore in quelli che fanno CHT, ma con un valore percentuale maggiore.
+# Dalle misurazioni bioimpedenziometriche si possono valutare le differenze di composizione corporea tra le varie popolazioni nel campione.\\
+# Nei pazienti AFAB con CHT si nota una maggiore FFM e FM rispetto agli AFAB senza CHT, coerente con le differenze di peso e BMI prima evidenziate, a livello percentuale invece gli AFAB con CHT risultano avere proporzionalmente meno FFM e più FM. \\
+# Nei pazienti AMAB con CHT invece si nota come questi abbiano una minore FFM e FM rispetto ai pazienti senza tearpia, con una maggiore FFM in percentuale. In questo caso i pazienti AMAB con CHT hanno anche una BCM minore rispetto a quelli senza CHT sia a livello totoale che percentuale. \\
+# Per quanto riguarda la TBW questa è maggiore negli AFAB con CHT rispetto a quelli senza, tuttavia il valore percentuale è minore. Mentre negli AMAB, la TBW è minore in quelli che fanno CHT, ma con un valore percentuale maggiore.
 
+
+** Valutazione delle scale di psicopatologia
+
+Nella valutazione delle scale di psicopatologia l'analisi delle covariate ha dato risultati statisticamente significativi per alcune di queste.\\
 
 # TABELLA 4 - psicopatologia
 \begin{table}[H]
@@ -775,39 +799,39 @@ Per quanto riguarda la TBW questa è maggiore negli AFAB con CHT rispetto a quel
  & \multicolumn{2}{c|}{CHT NO}& \multicolumn{2}{c|}{CHT SÌ}& \multicolumn{2}{c|}{CHT NO}& \multicolumn{2}{c||}{CHT SÌ}& &\\\cline{2-9}
          &  Media&StD&  Media&StD&  Media&StD&  Media&StD&  & \\ \hline
         \textbf{DERS} &  104.167 &39.092&  92.500 &22.472&  81.500 &24.187&  96.200 &9.418&  0.386& 6.188×10-4\\ \hline
-        \textbf{CTQ}  &  47.600 &10.164&  66.500 &13.964&  45.750 &7.089&  38.600 &9.711&  8.913**& 1.597\\ \hline
+        \textbf{CTQ}  &  47.600 &10.164&  66.500 &13.964&  45.750 &7.089&  38.600 &9.711&  \textbf{8.913**}& 1.597\\ \hline
         \textbf{IDEA\_sgalt} &  2.911 &1.649&  2.500 &0.556&  2.278 &1.259&  2.756 &0.726&  0.070& 0.009\\ \hline
         \textbf{IDEA\_misob} &  2.880 &1.446&  2.400 &1.058&  2.550 &0.772&  1.680 &0.729&  1.274& 1.258\\ \hline
         \textbf{IDEA\_corpes} &  2.760 &0.740&  2.300 &1.137&  1.850 &0.443&  1.840 &0.261&  4.221& 1.378\\ \hline
-        \textbf{IDEA\_ined} &  2.700 &1.280&  1.938 &0.554&  2.500 &0.890&  1.300 &0.411&  1.425& 4.537*\\ \hline
-        \textbf{IDEA\_TOT} &  2.813 &0.484&  2.284 &0.437&  2.294 &0.195&  1.894 &0.448&  4.870*& 4.902*\\ \hline
+        \textbf{IDEA\_ined} &  2.700 &1.280&  1.938 &0.554&  2.500 &0.890&  1.300 &0.411&  1.425& \textbf{4.537*}\\ \hline
+        \textbf{IDEA\_TOT} &  2.813 &0.484&  2.284 &0.437&  2.294 &0.195&  1.894 &0.448&  \textbf{4.870*}& \textbf{4.902*}\\ \hline
         \textbf{BSI\_GSI} &  1.733 &1.078&  1.575 &0.915&  1.212 &0.798&  1.409 &0.660&  0.583& 0.005\\ \hline
         \textbf{MAIA\_not} & 2.958 &1.134& 3.563 &1.087& 2.938 &1.161& 4.050 &0.622& 0.202&3.070\\\hline
         \textbf{MAIA\_notdis} & 2.778 &1.425& 2.417 &1.032& 2.167 &0.839& 2.800 &1.216& 0.024&0.032\\\hline
         \textbf{MAIA\_notwor }& 2.222 &1.277& 3.000 &1.305& 3.167 &1.262& 1.867 &0.506& 0.003&0.725\\\hline
         \textbf{MAIA\_attreg} & 2.000 &1.212& 2.714 &0.728& 2.571 &1.161& 3.029 &0.634& 0.921&1.375\\\hline
-        \textbf{MAIA\_emoaw} & 2.033 &1.376& 2.500 &1.013& 2.350 &1.088& 4.040 &0.434& 3.009&5.837*\\\hline
+        \textbf{MAIA\_emoaw} & 2.033 &1.376& 2.500 &1.013& 2.350 &1.088& 4.040 &0.434& 3.009&\textbf{5.837*}\\\hline
         \textbf{MAIA\_selfreg} & 1.000 &0.851& 1.813 &0.515& 1.563 &0.774& 2.300 &1.006& 1.532&4.249\\\hline
-        \textbf{MAIA\_boli} & 1.333 &0.943& 1.750 &0.739& 2.667 &1.563& 3.200 &1.169& 7.451*&0.547\\\hline
+        \textbf{MAIA\_boli} & 1.333 &0.943& 1.750 &0.739& 2.667 &1.563& 3.200 &1.169& \textbf{7.451*}&0.547\\\hline
         \textbf{MAIA\_tru} & 1.278 &1.467& 0.917 &0.500& 1.333 &0.471& 1.600 &0.830& 0.352&0.071\\\hline
     \end{tabular}%
     }}
     \label{tab:my_label}
-    \footnotesize \textit{Vengono riporatati i punteggi ottenuti per le varie scale e sottoscale prima descritte; per quanto riguarda le sottoscale dell'IDEA vengono utilizzati i nomi italiani corrispondenti sgalt(sguardo altrui, gaze of others), misob(misure obiettive, objective measures), corpes(corpo estraneo, extraneous from one's own body ), ined(inedia, starvation)}
+    \footnotesize \textit{I valori di significatività sono indicati con un numero di asterischi corrispondente ad intervalli di p-valute (* = p <0,05; ** = p <0,01; *** = p <0,001); Per quanto riguarda le sottoscale dell'IDEA(Identity and Eating Disorder Assessment) vengono utilizzati i nomi italiani corrispondenti: sgalt(sguardo altrui, gaze of others), misob(misure obiettive, objective measures), corpes(corpo estraneo, extraneous from one's own body ), ined(inedia, starvation); le altre scale comprendono DERS(Disregulation in Emotional Regulation Scale), CTQ(Childhood Truma Questionnaire), BSI\_GSI(Brief Symptom Inventory Global Symptoms Index), MAIA() con le sottoscale note(noticing), notdis(not distracting), notwor(not worrying), attreg(attention regulation), emoaw(emotional awarenes), selfreg(self regulation), boli(body listening), tru(trusting)}
 \end{table}
 
 # TABELLA 4 - psicopatologia
 
-Nella valutazione delle scale di psicopatologia è stata svolta per ogni scala un'analisi delle covariate ANCOVA rispetto a SAAB e CHT che ha dato risultati statisticamente significativi per alcune di queste.\\
-Nel caso della CTQ questa appare correlata in maniera rilevante con il sesso assegnato alla nascita, paragonando i valori tra AFAB e AMAB si vede infatti che i primi hanno valori più alti sia nel campione senza CHT che in quello con, che appare la popolazione con valori più alti tra tutte.\\
-Si trovano correlazioni rilevanti anche per la scala IDEA, sia per il punteggio totale sia per la sottoscala INED(inedia o /starvation/), quest'ultima in particolare risulta correlata in maniera rilevante con la terapia ormonale, si può osservare infatti un punteggio minore nei pazienti sia AMAB che AFAB che fanno CHT rispetto a quelli che non la fanno.\\
-Altre correlazioni significative ci sono per due sottoscale della scala MAIA, in particolare la sottoscala EMOAW(/emotional awareness/) appare correlata con la CHT mentre la sottoscala BOLI(/body listening/) è correlata al SAAB.
+Per la scala CTQ si osservano differenze significative secondo il sesso assegnato alla nascita, il campione con il punteggio più alto di tutti risultano i soggetti AFAB con CHT, con un valore di 66,5.
+
+Si evidenziano differenze significative anche per la scala IDEA, sia per il punteggio totale sia per la sottoscala /inedia/. Nel punteggio totale si hanno differenze significative sia secondo il sesso assegnato alla nascita, che secondo l'utilizzo di terpia ormonale; per la sottoscala /indedia/ invece è stata ritrovata una differenza significativa solamente per la terapia ormonale.
+
+Altre differenze significative sono state ritrovate in due sottoscale della scala MAIA, la sottoscala /emotional awareness/ presenta differenze significative scondo la terapia ormonale, mentre nella sottoscala /body listening/ le differenze sono dipendenti dal sesso assegnato alla nascita.
 
 
-** Correlazioni AFAB
+** Correlazioni tra valori nutrizionali e bioimpedenziometria nei soggetti AFAB
 
-Successivamente sono state svolte tabelle di correlazione per valutare l'impatto dei valori nutrizionali sia sulla composizione corporea che sula psicometria.
-
+Successivamente sono stati svolti studi di correlazione per valutare l'impatto dei valori nutrizionali sia sulla composizione corporea che sulla psicometria.
 
 # TABELLA 5 - Corelazioni BIA AFAB
 \begin{table}[H]
@@ -818,25 +842,25 @@ Successivamente sono state svolte tabelle di correlazione per valutare l'impatto
 \resizebox{\columnwidth}{!}{%
     \begin{tabular}{|c|c|c|c|c|c|} \hline
          &  \textbf{BMI}&  \textbf{Recall24 Kcal}&  \textbf{Recall24 Proteine}&  \textbf{Recall24 Lipidi}&  \textbf{Recall24 Carb}\\ \hline
-         \textbf{PhA}
-&  0.215&  0.126&  0.214&  0.564*&  0.045\\ \hline
-         \textbf{FFM\%}
-&  0.9***&  0.613*&  0.525*&  0.047&  0.675**\\ \hline
-         \textbf{ FM\%}
-&  0.951***&  0.78***&  0.707**&  0.114&  0.819***\\ \hline
- \textbf{BCM\%}
-& 0.67**& 0.345& 0.138& 0.016& 0.437\\\hline
+         \textbf{PhA}   &  0.215&  0.126&  0.214&  \textbf{0.564*}&  0.045\\ \hline
+         \textbf{FFM\%} &  \textbf{0.9***}& \textbf{0.613*}&  \textbf{0.525*}&  0.047&  \textbf{0.675**}\\ \hline
+         \textbf{ FM\%} &  \textbf{0.951***}&  \textbf{0.78***}&  \textbf{0.707**}&  0.114&  \textbf{0.819***}\\ \hline
+         \textbf{BCM\%} &  \textbf{0.67**}& 0.345& 0.138& 0.016& 0.437\\\hline
     \end{tabular}%
     }}
     \label{tab:my_label}
+    \footnotesize \textit{Significatività: * = p <0,05; ** = p <0,01; *** = p <0,001 \\ Valori bioimpedenziometrici: PhA(angolo di fase), FFM(free fat mass), FM(fat mass), BCM(body cell mass)};
 \end{table}
 
 # TABELLA 5 - Corelazioni BIA AFAB
 
 In questa valutazione si possono osservare i valori di macronutrienti che sono più correlati a cambiamenti in determinati compartimenti corporei.\\
-L'angolo di fase appare particolarmente correlato con il consumo lipidico, la FFM% invece risulta correlata con le calorie totali, con le proteine, ma soprattutto con i carboidrati.\\
-La FM% è correlata soprattutto con carboidrati e calorie, mentre in maniera leggermente meno rilevante correla anche con le proteine.
+L'angolo di fase appare correlato in maniera significativa con il consumo lipidico, la FFM% invece risulta correlata con le calorie totali, con le proteine, ma soprattutto con i carboidrati.\\
+La FM% è correlata in maniera maggiormente significativa con carboidrati e calorie ed ha una correlazione significativa anche con le proteine.\\
+Per quanto riguarda il BMI questo risulta correlato significativamente con entrambe FFM% e FM% e anche con la BCM%.
 
+
+** Correlazioni tra valori nutrizionali e psicopatologia nei soggetti AFAB
 
 # TABELLA 6 - Correlazioni psico AFAB
 \begin{table}[H]
@@ -849,35 +873,37 @@ La FM% è correlata soprattutto con carboidrati e calorie, mentre in maniera leg
          &  \textbf{BMI}&  \textbf{Recall24 Kcal}&  \textbf{Recall24 Proteine}&  \textbf{Recall24 Lipidi}&  \textbf{Recall24 Carb}\\ \hline
          \textbf{BSI\_GSI} & -0.031& -0.22& -0.371& -0.21& 0.006\\\hline
          \textbf{DERS} &  -0.002&  0.052&  -0.156&  0.253&  0.236\\ \hline
-         \textbf{CTQ}  &  0.67***&  0.639**&  0.414&  -0.07&  0.639**\\ \hline
-         \textbf{IDEA\_sgalt} &  0.68***&  0.882***&  0.699***&  0.084&  0.862***\\ \hline
-         \textbf{IDEA\_misob} &  -0.684***&  -0.782***&  -0.611**&  0.158&  -0.777***\\ \hline
-         \textbf{IDEA\_corpes}&  -0.39&  -0.692**&  -0.552*&  -0.005&  -0.564*\\ \hline
+         \textbf{CTQ}  &  \textbf{0.67***}&  \textbf{0.639**}&  0.414&  -0.07&  \textbf{0.639**}\\ \hline
+         \textbf{IDEA\_sgalt} &  \textbf{0.68***}&  \textbf{0.882***}&  \textbf{0.699***}&  0.084&  \textbf{0.862***}\\ \hline
+         \textbf{IDEA\_misob} &  \textbf{-0.684***}&  \textbf{-0.782***}&  \textbf{-0.611**}&  0.158&  \textbf{-0.777***}\\ \hline
+         \textbf{IDEA\_corpes}&  -0.39&  \textbf{-0.692**}&  \textbf{-0.552*}&  -0.005&  \textbf{-0.564*}\\ \hline
          \textbf{IDEA\_ined}  &  -0.412&  -0.368&  -0.212&  0.127&  -0.34\\ \hline
          \textbf{IDEA\_TOT}   &  -0.38&  -0.447&  -0.28&  0.131&  -0.351\\\hline
         \textbf{MAIA\_not} & 0.303& 0.276& 0.297& -0.048& 0.15\\\hline
         \textbf{MAIA\_notdis} & -0.052& 0.122& 0.029& 0.252& 0.019\\\hline
         \textbf{MAIA\_notwor} & 0.058& -0.03& 0.018& -0.287& -0.035\\\hline
-        \textbf{MAIA\_attreg} & 0.641***& 0.724***& 0.666***& -0.03& 0.582**\\\hline
-        \textbf{MAIA\_emoaw} & 0.342& 0.48*& 0.504*& -0.011& 0.34\\\hline
-        \textbf{MAIA\_selfreg} & 0.554**& 0.523*& 0.556**& -0.213& 0.416\\\hline
+        \textbf{MAIA\_attreg} & \textbf{0.641***}& \textbf{0.724***}& \textbf{0.666***}& -0.03& \textbf{0.582**}\\\hline
+        \textbf{MAIA\_emoaw} & 0.342& \textbf{0.48*}& \textbf{0.504*}& -0.011& 0.34\\\hline
+        \textbf{MAIA\_selfreg} & \textbf{0.554**}& \textbf{0.523*}& \textbf{0.556**}& -0.213& 0.416\\\hline
         \textbf{MAIA\_boli} & 0.253& 0.272& 0.35& -0.072& 0.157\\\hline
-        \textbf{MAIA\_tru} & 0.254& 0.409& 0.494*& 0.204& 0.185\\\hline
+        \textbf{MAIA\_tru} & 0.254& 0.409& \textbf{0.494*}& 0.204& 0.185\\\hline
     \end{tabular}%
     }}
     \label{tab:my_label}
+    \footnotesize \textit{Significatività:* = p <0,05; ** = p <0,01; *** = p <0,001 \\ Scale psicometriche utilizzate: IDEA(Identity and Eating Disorder Assessment) e sottoscale sgalt(sguardo altrui, gaze of others), misob(misure obiettive, objective measures), corpes(corpo estraneo, extraneous from one's own body ), ined(inedia, starvation); DERS(Disregulation in Emotional Regulation Scale); CTQ(Childhood Truma Questionnaire); BSI\_GSI(Brief Symptom Inventory Global Symptoms Index); MAIA() con le sottoscale note(noticing), notdis(not distracting), notwor(not worrying), attreg(attention regulation), emoaw(emotional awarenes), selfreg(self regulation), boli(body listening), tru(trusting)};
 \end{table}
 # tabella 6
 
 Passando alle valutazioni psicometriche si può notare come alcune scale e sottoscale correlino in modo significativo con i parametri nutrizionali, non soltanto per quanto riguarda BMI e calorie totali, ma anche con alcuni macronutrienti specifici. \\
-Il CTQ è correlato con il BMI e il Recall calorico, ma anche con il consumo di carboidrati. \\
-Per quanto riguarda l'IDEA si trovano correlazioni rilevanti per le sottoscale dello /sguardo altrui/ e delle /misure obiettive/, entrambe correlano in maniera significativa con BMI e recall calorico totale, delle proteine e dei carboidrati, nella prima si ha una correlazione diretta, mentre nella seconda la correlazione è inversa. \\
+Il CTQ è correlato con il BMI e il recall calorico, ma anche con il consumo di carboidrati. \\
+Per quanto riguarda l'IDEA si trovano correlazioni per le sottoscale dello /sguardo altrui/ e delle /misure obiettive/, entrambe correlano in maniera significativa con BMI e recall calorico totale, delle proteine e dei carboidrati, nella prima si ha una correlazione diretta, mentre nella seconda la correlazione è inversa. \\
 La sottoscala /corpo estraneo/ invece non ha correlazione col BMI, ma si hanno sempre correlazioni inverse significative con recall delle calorie, proteine e carboidrati. \\
 Anche per quanto riguarda il questionario MAIA abbiamo alcune scale che correlano in maniera significativa: la sottoscala di /attention regulation/ correla con BMI, calorie nelle 24h, proteine e carboidrati; la sottoscala di /self regulation/ correla con BMI, calorie nelle 24h e proteine; si hanno poi correlazioni minori ma comunque significative per la scala di /emotional awareness/ con recall 24h calorico e proteico e per la scala /trusting/ solamente con il recall proteico.
 
 
-** Correlazioni AMAB
-Passando a valutare le correlazioni nei pazienti AMAB si possono notare importanti differenze rispetto agli AFAB, sia per quanto riguarda i valori bioimpedenziometrici che quelli psicometrici.
+** Correlazioni tra valori nutrizionali e bioimpedenziometria nei soggetti AMAB
+Anche per quanto riguarda i soggetti AMAB si ritrovano correlazioni significative sia per i valori bioimpedenziometrici che psicometrici.
+
 
 # TABELLA 7 - correlazioni BIA AMAB
 \begin{table}[H]
@@ -888,19 +914,21 @@ Passando a valutare le correlazioni nei pazienti AMAB si possono notare importan
 \resizebox{\columnwidth}{!}{%
     \begin{tabular}{|c|c|c|c|c|c|} \hline
          &  \textbf{BMI}&  \textbf{Recall24 Kcal}&  \textbf{Recall24 Proteine}&  \textbf{Recall24 Lipidi}&  \textbf{Recall24 Carb}\\ \hline
-    \textbf{PhA}   &  0.69***&  0.188&  0.233&  0.091&  0.063\\ \hline
-    \textbf{FFM\%} &  0.758***&  0.272&  0.13&  0.073&  0.231\\ \hline
-    \textbf{ FM\%} &  0.797***&  -0.273&  -0.214&  -0.359&  -0.188\\ \hline
-    \textbf{BCM\%} & 0.732***& 0.242& 0.124& 0.088& 0.179\\\hline
+    \textbf{PhA}   &  \textbf{0.69***}&  0.188&  0.233&  0.091&  0.063\\ \hline
+    \textbf{FFM\%} &  \textbf{0.758***}&  0.272&  0.13&  0.073&  0.231\\ \hline
+    \textbf{ FM\%} &  \textbf{0.797***}&  -0.273&  -0.214&  -0.359&  -0.188\\ \hline
+    \textbf{BCM\%} &  \textbf{0.732***}& 0.242& 0.124& 0.088& 0.179\\\hline
     \end{tabular}%
     }}
     \label{tab:my_label}
+    \footnotesize \textit{Significatività: * = p <0,05; ** = p <0,01; *** = p <0,001 \\ Valori bioimpedenziometrici: PhA(angolo di fase), FFM(free fat mass), FM(fat mass), BCM(body cell mass)};
 \end{table}
 # TABELLA 7 - correlazioni BIA AMAB
 
-In questo caso i valori della bioimpedenziometria non sono correlati né al recall calorico totale né ad alcun specifico macronutriente, mentre rimane una correlazione importante e significativa con il BMI per tutti i valori della BIA.
+In questo caso i valori della bioimpedenziometria non sono correlati né al recall calorico totale né ad alcun specifico macronutriente, mentre rimane una correlazione importante e significativa con il BMI per i valori di PhA, FFM%, FM% e BCM%.
 
 
+** Correlazioni tra valori nutrizionali e psicopatologia nei soggetti AMAB
 # TABELLA 8 - correlazioni psico AMAB
 \begin{table}[H]
     \centering
@@ -910,73 +938,130 @@ In questo caso i valori della bioimpedenziometria non sono correlati né al reca
 \resizebox{\columnwidth}{!}{%
     \begin{tabular}{|c|c|c|c|c|c|} \hline
          &  \textbf{BMI}&  \textbf{Recall24 Kcal}&  \textbf{Recall24 Proteine}&  \textbf{Recall24 Lipidi}&  \textbf{Recall24 Carb}\\ \hline
-         \textbf{BSI\_GSI} & -0.232& 0.431*& -0.495*& 0.473*& 0.594**\\\hline
-         \textbf{DERS} &  -0.525*&  0.25&  -0.778***&  0.199&  0.516*\\ \hline
-         \textbf{CTQ}  &  0.178&  -0.549*&  0.529*&  -0.268&  -0.576**\\ \hline
-         \textbf{IDEA\_sgalt} &  0.128&  0.202&  -0.462*&  -0.002&  0.149\\ \hline
-         \textbf{IDEA\_misob} &  0.865***&  -0.044&  0.783***&  -0.052&  -0.475*\\ \hline
+         \textbf{BSI\_GSI} & -0.232& \textbf{0.431*}& \textbf{-0.495*}& \textbf{0.473*}& \textbf{0.594**}\\\hline
+         \textbf{DERS} &  \textbf{-0.525*}&  0.25&  \textbf{-0.778***}&  0.199&  \textbf{0.516*}\\ \hline
+         \textbf{CTQ}  &  0.178&  \textbf{-0.549*}&  \textbf{0.529*}&  -0.268&  \textbf{-0.576**}\\ \hline
+         \textbf{IDEA\_sgalt} &  0.128&  0.202&  \textbf{-0.462*}&  -0.002&  0.149\\ \hline
+         \textbf{IDEA\_misob} &  \textbf{0.865***}&  -0.044&  \textbf{0.783***}&  -0.052&  \textbf{-0.475*}\\ \hline
          \textbf{IDEA\_corpes}&  0.114&  0.023&  -0.221&  0.088&  0.053\\ \hline
-         \textbf{IDEA\_ined} &  0.866***&  -0.131&  0.818***&  -0.078&  -0.529\\ \hline
-         \textbf{IDEA\_TOT} &  0.895***&  -0.1&  0.62**&  -0.124&  -0.517*\\\hline
-        \textbf{MAIA\_not} & -0.693***& -0.02& -0.726***& 0.021& 0.314\\\hline
-        \textbf{MAIA\_notdis} & -0.297& -0.248& -0.562**& -0.15& 0.07\\\hline
-        \textbf{MAIA\_notwor} & 0.47*& -0.56*& 0.679***& -0.318& -0.659**\\\hline
+         \textbf{IDEA\_ined} &  \textbf{0.866***}&  -0.131&  \textbf{0.818***}&  -0.078&  -0.529\\ \hline
+         \textbf{IDEA\_TOT} &  \textbf{0.895***}&  -0.1&  \textbf{0.62**}&  -0.124&  \textbf{-0.517*}\\\hline
+        \textbf{MAIA\_not} & \textbf{-0.693***}& -0.02& \textbf{-0.726***}& 0.021& 0.314\\\hline
+        \textbf{MAIA\_notdis} & -0.297& -0.248& \textbf{-0.562**}& -0.15& 0.07\\\hline
+        \textbf{MAIA\_notwor} & \textbf{0.47*}& \textbf{-0.56*}& \textbf{0.679***}& -0.318& \textbf{-0.659**}\\\hline
         \textbf{MAIA\_attreg} & 0.344& 0.295& 0.216& 0.046& 0.005\\\hline
-        \textbf{MAIA\_emoaw} & -0.654***& 0.307& -0.749***& 0.19&  0.536*\\\hline
-        \textbf{MAIA\_selfreg} & -0.099& 0.576**& 0.012& 0.352& 0.402\\\hline
+        \textbf{MAIA\_emoaw} & \textbf{-0.654***}& 0.307& \textbf{-0.749***}& 0.19&  \textbf{0.536*}\\\hline
+        \textbf{MAIA\_selfreg} & -0.099& \textbf{0.576**}& 0.012& 0.352& 0.402\\\hline
         \textbf{MAIA\_boli} & -0.085& 0.181& 0.124& 0.018& 0.091\\\hline
-        \textbf{MAIA\_tru} & 0.252& 0.577**& 0.202& 0.305& 0.234\\\hline
+        \textbf{MAIA\_tru} & 0.252& \textbf{0.577**}& 0.202& 0.305& 0.234\\\hline
     \end{tabular}%
     }}
     \label{tab:my_label}
+    \footnotesize \textit{Significatività:* = p <0,05; ** = p <0,01; *** = p <0,001 \\ Scale psicometriche utilizzate: IDEA(Identity and Eating Disorder Assessment) e sottoscale sgalt(sguardo altrui, gaze of others), misob(misure obiettive, objective measures), corpes(corpo estraneo, extraneous from one's own body ), ined(inedia, starvation); DERS(Disregulation in Emotional Regulation Scale); CTQ(Childhood Truma Questionnaire); BSI\_GSI(Brief Symptom Inventory Global Symptoms Index); MAIA() con le sottoscale note(noticing), notdis(not distracting), notwor(not worrying), attreg(attention regulation), emoaw(emotional awarenes), selfreg(self regulation), boli(body listening), tru(trusting) };
 \end{table}
 # TABELLA 8 - correlazioni psico AMAB
 
-Per quanto riguada i valori psicometrici si può notare che in questo caso i parametri che risultano essere più significativi sono il BMI, in maniera analoga agli AFAB e il recall delle proteine.
+Per quanto riguarda la scala BSI questa non correla con il BMI ma risulta invece correlata in maniera significativa con il recall calorico, proteico, lipidico e dei carboidrati.\\
+La scala DERS risulta correlata negativamente in maniera significativa con il recall proteico, correla anche in maniera negativa con BMI e positiva con recall dei carboidrati.\\
+Il CTQ presenta correlazioni negative con recall calorico e dei carboidrati, mentre ha una correlazione positiva con il recall delle proteine. \\
 
-Per quanto riguarda la scala BSI questa non correla con il BMI ma risulta invece correlata in maniera significativa con il recall calorico, proteico, lipidico e dei carboidrati, è interessante notare che questa è l'unica scala che correla con il recall dei lipidi sia considerando AMAB che AFAB. \\
-A differenza dei soggetti AFAB in questo caso abbiamo anche correlazioni significative per la scala DERS, in particolar modo risulta correlata negativamente in maniera significativa con il recall proteico. \\
-Il CTQ in questo caso presenta delle associazioni significative, ma meno rilevanti rispetto ai pazienti AFAB ed in questo caso non si ha correlazione con il BMI, ma con recall calorico, proteico e carboidrati. \\
-Anche per quanto riguarda le sottoscale dell'IDEA si possono notare similitudini e differenze con i pazienti AFAB, in questo caso ad esempio ci sono poche correlazioni significative con le sottoscale dello sguardo altrui e del corpo estrano, che erano invece correlate negli individui AFAB. Al contrario si trovano correlazioni significative con la scala dell'inedia e con il punteggio totale, che non sono presenti nei soggetti AFAB. \\
-Per quanto riguarda la sottoscala delle misure obiettive si ha un'inversione della correlazione, nei pazienti AFAB infatti si avevano correlazioni negative con BMI e proteine, mentre abbiamo una correlazione positiva per i soggetti AMAB con questi stessi parametri. \\
-Anche per quanto riguarda la scala MAIA si notano differenze nelle sottoscale coinvolte, ad esempio la scala di /attention regulation/, molto significativa nei soggetti AFAB non ha correlazione in quelli AMAB. Si hanno invece correlazioni rilevanti per quanto riguarda le sotttoscale /noticing/, /not distracting/ e /not worrying/, in particolar modo sembrano essere significativamente correlate con il recall delle proteine, in maniera negativa per le prime due e positiva per l'ultima. \\
-Per quanto riguarda la sottoscala di /emotional awareness/ si trovano correlazioni significative con il BMI e di nuovo con il recall proteico e con minore significatività con quello dei carboidrati. \\
-Le sottoscale /self regulation/ e /trusting/ risultano invece correlate con il recall calorico totale.
+Sono presenti correlazioni significative anche per quanto riguarda la scala IDEA ed diverse sue sottoscale. La sottoscala dello /sguardo altrui/ risulta correlata negativamente con il recall proteico. La sottoscala delle /misure obiettive/ invece ha una correlazione positiva significativa con recall proteico e BMI, mentre correla negativamente con il recall dei carboidrati. Sono presenti correlazioni significative anche per quanto riguarda la sottoscala dell'/inedia/, che correla positivamente con BMI e recall delle proteine. Il punteggio totale dell'IDEA correla positivamente con BMI e recall proteico, mentre correla negativamente con il recall dei carboidrati.
+
+Anche per quanto riguarda diverse sottoscale del questionario MAIA si hanno correlazioni significative, la sottoscala /noticing/ correla significativamente in modo negativo con BMI e recall proteico. La sottoscala /not distracting/ correla negativamente solo con il recall proteico. La sottoscala /not worrying/ presenta diverse correlazioni significative, queste sono negative con recall calorico e dei carboidrati, positive con BMI e recall proteico. La sottoscala /emotional awareness/ correla negativamente in maniera significativa con BMI e recall proteico, inoltre correla positivamente con il recall dei carboidrati. Le sottoscale /self regulation/ e /trusting/ correlano entrambe in modo significativo con il recall calorico.
+
+# Per quanto riguarda la scala BSI questa non correla con il BMI ma risulta invece correlata in maniera significativa con il recall calorico, proteico, lipidico e dei carboidrati, è interessante notare che questa è l'unica scala che correla con il recall dei lipidi sia considerando AMAB che AFAB. \\
+# A differenza dei soggetti AFAB in questo caso abbiamo anche correlazioni significative per la scala DERS, in particolar modo risulta correlata negativamente in maniera significativa con il recall proteico. \\
+
+# Il CTQ in questo caso presenta delle associazioni significative, ma meno rilevanti rispetto ai pazienti AFAB ed in questo caso non si ha correlazione con il BMI, ma con recall calorico, proteico e carboidrati. \\
+
+# Anche per quanto riguarda le sottoscale dell'IDEA si possono notare similitudini e differenze con i pazienti AFAB, in questo caso ad esempio ci sono poche correlazioni significative con le sottoscale dello sguardo altrui e del corpo estrano, che erano invece correlate negli individui AFAB. Al contrario si trovano correlazioni significative con la scala dell'inedia e con il punteggio totale, che non sono presenti nei soggetti AFAB. \\
+# Per quanto riguarda la sottoscala delle misure obiettive si ha un'inversione della correlazione, nei pazienti AFAB infatti si avevano correlazioni negative con BMI e proteine, mentre abbiamo una correlazione positiva per i soggetti AMAB con questi stessi parametri. \\
+
+# Anche per quanto riguarda la scala MAIA si notano differenze nelle sottoscale coinvolte, ad esempio la scala di /attention regulation/, molto significativa nei soggetti AFAB non ha correlazione in quelli AMAB. Si hanno invece correlazioni rilevanti per quanto riguarda le sotttoscale /noticing/, /not distracting/ e /not worrying/, in particolar modo sembrano essere significativamente correlate con il recall delle proteine, in maniera negativa per le prime due e positiva per l'ultima. \\
+# Per quanto riguarda la sottoscala di /emotional awareness/ si trovano correlazioni significative con il BMI e di nuovo con il recall proteico e con minore significatività con quello dei carboidrati. \\
+# Le sottoscale /self regulation/ e /trusting/ risultano invece correlate con il recall calorico totale.
 
 
-** Longitudinale
-Sono state effettuate anche delle valutazioni longitudinali nei pazienti AMAB e AFAB prima e dopo l'inizio della CHT, per valutare l'impatto che questa può avere sulle abitudini alimentari e la composizione corporea. \\
-L'unica correlazione rilevante è stata trovata con il BMI, come si può osservare nel grafico in entrambe le popolazioni AMAB e AFAB questo scende con l'inizio della CHT.
+** Valutazione longitudinale dell'effetto della GAHT su abitudini alimentari e composizione corporea
+
+Sono state infine effettuate valutazioni longitudinali sia nei pazienti AMAB che AFAB prima e dopo l’inizio della terapia ormonale con GAHT, per valutare l’impatto che questa può avere avuto sulle abitudini alimentari e la composizione corporea. \\
+La correlazione che appare rilevante dallo studio condotto è quella che riguarda il BMI, infatti come si può osservare nel relativo grafico in entrambe le popolazioni AMAB e AFAB i BMI si riduce a seguito del’inizio della terapia ormonale
+# Sono state effettuate anche delle valutazioni longitudinali nei pazienti AMAB e AFAB prima e dopo l'inizio della CHT, per valutare l'impatto che questa può avere sulle abitudini alimentari e la composizione corporea. \\
+# L'unica correlazione rilevante è stata trovata con il BMI, come si può osservare nel grafico in entrambe le popolazioni AMAB e AFAB questo scende con l'inizio della CHT.
 [[./data/bmi_marginal.jpg]]
 
 
 
 * Discussione
-I risultati dello studio mettono in evidenza la presenza di correlazioni tra le abitudini alimentari ed il BMI e la psicopatologia negli individui TGD, con caratteristiche differenti nelle due popolazioni AMAB e AFAB.
+I risultati dello studio mettono in evidenza la presenza di correlazioni tra le abitudini alimentari ed il BMI e la psicopatologia negli individui TGD, con caratteristiche differenti nelle due popolazioni AMAB e AFAB, nonché differenze nei gruppi che fanno terapia ormonale di affermazione di genere rispetto a coloro che non la fanno.
 
-Nei soggetti AFAB la terapia con testosterone ha tra i suoi effetti un'aumento della massa corporea[cite:@schonauer_hormone_2021], il che spiega il maggiore peso e BMI nei pazienti AFAB con CHT rispetto a quelli che non la fanno.
+# AFAB BMI
+Gli effetti della terapia ormonale con testosterone sul corpo dei pazienti AFAB comprendono un aumento della massa corporea e del BMI, con una diminuzione di massa grassa e un aumento di massa magra e forza muscolare, queste modifiche sono dovute all'effetto anabolizzante del testosterone sul muscolo scheletrico[cite:@van_caenegem_body_2015]. Complessivamente il cambio di corporatura avvicina il corpo dei soggetti AFAB a quello dei maschi cisgender, con più muscolatura e meno grasso rispetto alle femmine cisgender[cite:@irwig_testosterone_2017]. \\
+Nel campione in studio i valori di BMI e peso nei soggetti AFAB sono coerenti con quanto atteso, i soggetti che non hanno terapia ormonale infatti hanno valore di BMI e peso più bassi rispetto a coloro che fanno CHT.
+# però poi FM e FFM no ma noi non lo diremo
 
-Al contrario nei sogetti AMAB l'effetto atteso della CHT è una diminuzione della massa magra con aumento di massa grassa e BMI[cite:@ford_characterising_2022], nel nostro campione i risultati non sono coerenti con queste aspettative infatti si osserva al contrario un minore BMI negli individui con CHT e valori minori sia di FM che di FFM, che a livello percentuale favorisono una maggiore FFM%.
-# non torna un tubo
+# AMAB BMI
+Nei soggetti AMAB, l'effetto atteso dalla GAHT con estrogeni è, al contrario, una diminuzione dealla massa magra con aumento di massa grassa e BMI[cite:@ford_characterising_2022;@tangpricha_oestrogen_2017]. L'aumento della massa grassa corporea comprende un aumento sia nei depositi adiposi viscerali che sottocutanei, questo è maggiore per quanto riguarda il grasso sottocutaneo, andando così a determinare una redistribuzione dell'adipe più simile a quella delle femmine cisgender, con un aumento nel rapporto tra vita e fianchi[cite:@elbers_effects_2003; @wierckx_cross-sex_2014].\\
+Nei soggetti AMAB del campione in studio si osserva un BMI minore negli individui con CHT rispetto a quelli che non la fanno, questa apparente inconsistenza potrebbe essere spiegata tenendo in considerazione le caratteristiche psicopatologiche di questi soggetti, per cui problematiche del comportamento alimentare potrebbero intervenire nelle differenze di peso e composizione corporea[cite:@vocks_eating_2009].
+Andrebbero inoltre considerate le differenze presenti già prima della terapia tra soggetti AMAB e controlli cisgender, non compresi in questo studio, alcuni studi infatti dimostrano la presenza di una minore massa magra e maggiore massa grassa già prima dell'intervento della GAHT rispetto ai controlli cisgender[cite:@haraldsen_cross-sex_2007;@ceolin_bone_2023].
 
-Prendendo in considerazione la piccola dimensione del campione e le caratteristiche psicopatologiche è plausibile che alcune di queste inconsistenze siano dovute a delle problematiche del comportamento alimentare, che agiscono come fattore esterno ma determinante nella differenza di peso e composizione corporea.
+# psicometria AMAB/afab
 
-Difatti valutando le correlazioni tra BMI e nutrizione e le varie scale psicometriche, queste risultano particolarmente rilevanti soprattutto per i soggetti AMAB, questo può far pensare che questi individui partano con livelli importanti di disagio corporeo e comportamento alimentare molto alterato. La diminuzione del BMI quindi potrebbe essere spiegata da un miglioramento nella propria visione corporea come conseguenza della CHT, che porta ad un miglioramento nel comportamento alimentare, che ha come conseguenza finale un migliore valore di BMI nei soggetti che fanno CHT.
-Questo andamento viene anche seguito nella valutazione longitudinale in cui nei soggetti AMAB si parte da un valore di BMI leggermente elevato e in seguito alla terapia ormonale si rientra nei valori ideali di peso salutare.
+Le valutazioni psicometriche riportano differenze significative tra AMAB e AFAB per quanto riguarda le esperienze traumatiche (scala CTQ) e per quanto riguarda la percezione del proprio corpo e la sua correlazione con l'identità di sé (scala IDEA e sottoscala /body listening/ del questionario MAIA).\\
+La presenza di trauma sembra essere un fattore maggiormente predominante nel campione AFAB, questi soggetti hanno un punteggio più alto al questionario CTQ sia per quanto riguarda i soggetti senza terpia ormonale che quelli con GAHT, che risultano essere il campione con punteggio più alto tra tutti. Questo risultato è in linea con vari studi che dimostrano come la presenza di abuso sessuale e psicologico sia riportato con frequenza maggiore nella popolazione AFAB[cite:@10.1542/peds.2021-05021; @thoma_disparities_2021].\\
+Nei soggetti AFAB, rispetto agli individui AMAB, risulta anche maggiormente alterata la percezione del proprio corpo, risultano infatti valori significativamente più alti alla scala IDEA, ad indicare una percezione anormale del proprio corpo, con difficoltà a definire la propria identità, coerentemente si hanno punteggi minori alla sottoscala /body listening/ del questionario MAIA, che corrispondono ad una difficoltà maggiore a dare ascolto alle proprie sensazioni corporee.
+# per questo io non sto trovando letteratura tbh non so che dire
 
-Valutando più nel dettaglio le sottoscale maggiormente correlate al corpo nei pazienti AMAB queste sembrano indicare una presentazione caratteristica dei disturbi dell'alimentazione a carattere restrittivo come l'anoressia nervosa, con un forte disagio corporeo come dimostrato dalla correlazione con le sottoscale IDEA /misure obiettive/ e /inedia/.
+# psicometria CHT sì/no
 
-Negli individui AFAB invece i valori psicopatologici sembrano indicare una presentazione più legata ad esperienze traumatiche, con punteggi più alti nel CTQ e che correlavano in maniera significativa con i valori nutrizionali e di BMI.
-Dai valori del questionario IDEA sembra difatti esserci anche una visione di corpo come entità esterna e una ridotat interocezione, con punteggi bassi anche nelle sottoscale MAIA di /self regulation/, /trusting/ e /attention regulation/.
+Alcune scale psicometriche presentano anche una differenza significativa tra i gruppi con terapia ormonale e quelli senza.
+Per quanto riguarda la scala IDEA il gruppo con GAHT riporta punteggi migliori (più bassi) sia per quanto riguarda i valori totali che per la sottoscala /inedia/, andando ad indicare un miglioramento nella percezione del proprio corpo ed una minor tendenza ad utilizzare il digiuno come mezzo per percepire se stessi.
+Si ha un miglioramento anche per quanto riguarda la sottoscala /emotioal awareness/ del questionario MAIA, quindi una maggiore capacità di riconoscere come gli stati emotivi sono collegati alle proprie sensazioni corporee.
+Complessivamente si valuta quindi un miglioramento della percezione del proprio corpo negli invididui che fanno terapia ormonale, questo risulta in linea con i miglioramenti tipicamente riportati in seguito alla GAHT per quanto riguarda l'immagine corporea e la soddisfazione col proprio corpo[cite:@mcguire_body_2016; @turan_alterations_2018; @fisher_cross-sex_2014].
+Per quanto riguarda studi che valutano più nello specifico la presenza di cambiamenti nella percezione del proprio corpo prima e dopo terapia ormonale, sono presenti alcuni studi di imaging che valutano a livello anatomico modifiche in determinate aree cerebrali correlate con la percezione corporea; seppur utilizzando scale diverse, viene identificato un miglioramento coerente con quello individuato in questo studio[cite:@kilpatrick_cross_2019; @khorashad_cross-sex_2021].
+
+
+# Correlazioni AFAB
+
+I risultati dei test psicopatologici sono stati quindi valutati in correlazione con i valori nutrizionali in maniera separata per i soggetti AMAB e AFAB, da questi sono emerse correlazioni che sembrano indicare un diverso profilo psicopatologico in queste due popolazioni per quanto riguarda il rapporto con il proprio corpo e di fattori che lo determinano.
+
+Negli individui AFAB i valori psicopatologici sembrano indicare una presentazione più legata ad esperienze traumatiche, con punteggi più alti nel CTQ e che correlavano in maniera significativa con i valori nutrizionali di recall calorico e dei carboidrati e con il BMI.\\
+Questo tipo di correlazione, tra trauma infantile e disregolazione del comportamento alimentare, è stato ampiamente studiato nella popolazione di individui affetti da disturbi dell'alimentazione, che risultano avere una maggiore esposizione ad eventi traumatici nell'infanzia[cite:@brustenghi_eating_2019;@vidana_impact_2020;].
+
+A tale riscontro si associano i risultati nelle altre scale psicopatologiche tra cui il questionario IDEA, dai cui valori emerge una visione di corpo come entità esterna e una ridotta enterocezione. In particolar modo si hanno correlazioni positive per la sottoscala dello /sguardo altrui/ con BMI, recall calorico, proteico e dei carboidrati, per cui un maggiore recall sembra essere correlato con una maggiore valutazione di sé attraverso lo sguardo altrui. Si hanno al contrario correlazioni negative per quanto riguarda alcuni valori nutrizionali e le sottoscale /misure obiettive/ e /corpo estraneo/, recall minore è correlato ad una visione del proprio corpo come entità esterna che si tende a valutare con misure obiettive.\\
+# scrivere che questa parte è stata fatta molto in freestyle perché non sapevo come altro discutere l'IDEA, also letteratura booooooh
+Questa mancanza di enterocezione sembra esserere confermata anche dalle correlazioni per quanto riguarda il questionario MAIA e le sottoscale coinvolte ovvero quelle di /attention regulation/, /emotional awareness/, /self regulation/ e /trusting/, in questo caso si tratta di correlazioni positive per tutte queste scale, quindi un minore recall risulta correlato con peggiore enterocezione. Anche questo risultato risulta coerente con i difetti riscontrati negli individui con disturbi dell'alimentazione, vari studi hanno dimostrato la presenza di problemi di interocezione in questa popolazione[cite:@martin_interoception_2019;@simmons_interoceptive_2017].
+# meno mangi peggio hai sta roba → correlazione diretta in questo caso
+
+# correlazioni AMAB
+Il profilo psicopatologico risulta essere differente nei soggetti AMAB, in questo caso le alterazioni nel comportamento alimentare sembrano essere maggiormente correlate ad una forte disagio corporeo piuttosto che ad esperienze traumatiche. \\
+In questi soggetti si hanno correlazioni significative tra valori nutrizionali e le sottoscale IDEA di /inedia/ e /sguardo altrui/, ad indicare una percezione del corpo attraverso il digiuno e attraverso lo sguardo dell'altro anziché tramite la propria interocezione. L'importanza della percezione altrui del proprio corpo è una caratteristica importante nei soggetti TGD, una corretta percezione sociale del proprio genere scelto ha un impatto positivo sul benessere di questi individui, migliorando anche la soddisfazione nei confronti del proprio corpo
+[cite:@van_de_grift_network_2016; @guss_disordered_2017].
+# boh non mi torna questo discorso, also pubblicazioni boh
+Altra componente in questi soggetti è una mancanza di consapevolezza emotiva correlata alla nutrizione, come evidenziato dalle correlazioni per la sottoscala /emotional awareness/ del questionario MAIA.
+Complessivamente questa mancanza di interocezione emotiva e nei confronti del proprio corpo sembra suggerire una presentazione simile a quella caratteristica di disturbi dell'alimentazione a carattere restrittivo come l'anoressia nervosa[cite:@jacquemot_role_2020].
+
+# longitudinali
+Andando a valutare i modelli longitudinali nel campione prima e dopo terapia ormonale si è riscontrata significatività per quanto riguarda il BMI, questo risulta avere un andamento simile in entrambi AMAB e AFAB, con una diminuzione in entrambi i casi ed un avvicinamento a quello considerato il range salutare, questa variazione probabilmente determinata da un miglioramento nel comportamento alimentare più che dall'effetto ormonale della terapia.
+# questo l'ho scritto solo perché in teoria con la terapia il bmi dovrebbe aumentare per entrambi amab/afab
+È possibile ipotizzare che questo miglioramento sia dovuto ad un miglioramento della propria immagine corporea come conseguenza della GAHT, grazie a questo si ha quindi un miglioramento nel comportamento alimentare.
+Questo tipo di miglioramento nella sintomatologia alimentare come conseguenza della terapia ormonale sarebbe coerente con un'altro studio presente in letteratura, che ha ritrovato livelli minori di psicopatologia da disturbo alimentare in individui TGD con terapia ormonale rispetto a quelli senza[cite:@jones_risk_2018].
+# volendo altro studio https://sci-hub.se/https://doi.org/10.1002/eat.23539
 
 
 ** Limitazioni dello studio e prospettive future
-Lo studio risulta limitato principalmente dalla piccola dimensione del campione, si ipotizza che con una popolazione più ampia potrebbe essere possibile identificare uno specifico fattore nutrizionale correlato al miglioramento psicopatologico, mentre nello studio è risultato significativo solamente il BMI.
+Lo studio risulta limitato principalmente dalla piccola dimensione del campione, specialmente per quanto riguarda i modelli longituinali, si ipotizza che con una popolazione più ampia sarebbe possibile riconoscere altri valori significativi oltre al BMI, con la possibilità di identificare dei fattori nutrizionali più specifici che siano correlati con il miglioramento psicopatologico, aprendo quindi la strada a nuove modalità per valutare il comportamento alimentare e la psicopatologia nella popolazione TGD.
 
 Inoltre la valutazione longitudinale è stata fatta per un intervallo di tempo molto breve, mentre per studi successivi sarebbe opportuno valutare gli effetti della CHT nel lungo termine, andando valutare come cambiano sia la composizione corpora che le abitudini alimentari in questi soggetti dopo gli effetti dati dall'inizio della terapia.
 
+In studi successivi sarebbe opportuno anche valutare questi parametri facendo un confronto con un campione di controllo cisgender, per andare a valutare quanto l'identità TGD in sé determini delle differenze di composizione corporea e quanto questi cambiamenti siano invece determinati dalla terapia ormonale.
 
 * Conclusioni
+Nello studio sono state valutate le caratteristiche della composizione corporea e nutrizionali nei soggeti TGD, valutando le differenze tra individui AMAB e AFAB e quelle determinate dalla terapia ormonale di affermazione di genere.
+
+È stata inoltre valutata la presenza di correlazioni tra fattori nutrizionali e carattersitiche psicopatologiche nei soggetti AMAB e AFAB, con l'obiettivo di definire come le carattersitiche psicopatologiche e il comportamento alimentare siano correlati in questi soggetti.
+
+È stata inoltre condotta per la prima volta una valutazione delle possibili correlazioni tra componenti corporee misurate con la bioimpedenziometria e sintomatologia psicopatologica, questo tipo di ricerca punta ad essere di spunto per studi futuri che tengano in considerazione come la composizione corporea possa essere correlata ai fattori nutrizionali e alla psicopatologia in questa popolazione.
 
 
 * Bibliografia
