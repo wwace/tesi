@@ -1,41 +1,56 @@
-#+title: titolo
+#+title: Relazione tra composizione corporea misurata con bioimpedenziometria e psicopatologia in un campione di individui transgender
 #+Author: Lorenzo Macelloni
 #+bibliography: biblio.bib
 #+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
 #+OPTIONS: H:5
-#+latex_header: \usepackage[scaled]{inter} \renewcommand\familydefault{\sfdefault}
+# #+latex_header: \usepackage[scaled]{inter} \renewcommand\familydefault{\sfdefault}
+#+latex_header: \usepackage[scaled]{Times}
 #+latex_header: \usepackage{setspace} \onehalfspacing
 #+latex_header: \usepackage{geometry} \geometry{a4paper, top=2.5cm, bottom=2.5cm, left=3.5cm, right=2.5cm }
 #+latex_header: \usepackage[parfill]{parskip}
+#+latex_header: \usepackage{textalpha}
+#+latex_header: \usepackage{float}
+#+latex_header: \usepackage{graphicx}
+#+latex_header: \usepackage{tabularx}
+#+latex_header: \usepackage{adjustbox}
+#+latex_header: \usepackage{multirow}
+#+latex_header:\usepackage{hyperref}
+#+latex_header:\usepackage[tableposition=top]{caption}
+#+latex_header:\hypersetup{colorlinks,    citecolor=black,    filecolor=black,    linkcolor=black,    urlcolor=black}
+#+latex_header: \usepackage{titlesec}
+#+latex_header: \setcounter{secnumdepth}{4}
+#+latex_header: \setcounter{tocdepth}{4}
+#+latex_header: \titleformat{\paragraph}[hang]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+#+latex_header: \titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{0.5em}
+#+latex_header: \titleformat{\subparagraph}[hang]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+#+latex_header: \titlespacing*{\subparagraph}{0pt}{3.25ex plus 1ex minus .2ex}{0.2em}
+# ultimi due per aggiungere i numerini ai paragrafi che non sono subsubsection però è bruttino forse meglio tenere senza
 
 # #+SETUPFILE: jake-standard-latex-export.org
-
-# titolo?
-# del suo impatto sulla salute mentale nella popolazione transgender
-
 
 
 * Abstract
 
+
 * Introduzione
-** Parte I - Incongruenza di Genere
+** Incongruenza di Genere
 *** Terminologia - sesso, genere, identità di genere, orientamento sessuale
 Nella discussione di una condizione come l'Incongruenza di Genere (IG) è opportuno prendere familiarità con una determinata terminologia. Spesso infatti alcuni termini come "sesso" e "genere" vengono utilizzati in maniera interscambiabile nel linguaggio comune, considerando quindi inevitabilmente
-correlate quelle che sono le caratteristiche socioculturali e biologiche che
-contraddistinguono uomo e donna.
+correlate quelle che sono le caratteristiche socioculturali e biologiche che contraddistinguono uomo e donna.
 Negli anni l'evoluzione degli studi di genere e della teoria queer hanno portato ad una visione più moderna ed amplia di questi concetti [cite:@naples_gender_2020].
-Vediamo quindi quelle che sono le definizioni date dall'NIH per questi concetti
-[cite:@noauthor_sex_2022] [cite:@noauthor_sex_nodate]
+
+Vediamo quindi quelle che sono le definizioni date dall'NIH per questi termini[cite:@noauthor_sex_2022;@noauthor_sex_nodate].
 # non so se è redundant citare il secondo che è citato dal primo
 # also forse dovrei sostituire con le definizioni dell'APA (che penso siano le stesse)
 
-**** Sesso Biologico
-Costrutto utilizato per descrivere caratteristiche ormonali, genetiche, anatomiche e biologiche basilari.
-Tipicamente è dicotomico, distingue le categorie maschio e femmina.
+***** Sesso Biologico
+Costrutto utilizzato per descrivere caratteristiche ormonali, genetiche, anatomiche e biologiche basilari.
+Tipicamente è dicotomico, distingue le categorie maschio e femmina. \\
 Tuttavia, esistono anche stati intersessuali, in cui i caratteri ed i cromosomi sessuali non sono definibili all'interno di una sola di queste categorie; queste condizione sono dovute a quelli che sono chiamati /disordini dello sviluppo sessuale/(DSD) e comprendono varie condizioni tra cui si possono citare la Sd di Turner e la Sd di Klinefelter[cite:@witchel_disorders_2018].
 # ho citato tipo le due più famose non so se ha senso approfondire di più questo discorso
 
-**** Genere (gender)
+***** Genere (gender)
 Costrutto multidimensionale sociale e culturale; comprende ruoli, attività, comportamenti ed espressioni, che sono tipicamente identificati all'interno di una determinata società come propriamente maschili o femminili.
 Sulla base del genere si definisce l'*identità di genere*.
 Questa è la sensazione individuale di sentirsi parte di una determinata categoria di genere, che può essere maschile, femminile, o stati alternativi e non-binari.
@@ -44,25 +59,25 @@ L'identità di genere è quindi auto-definita, può cambiare nel corso della vit
 Queste costituiscono infatti il *ruolo di genere*, ovvero ciò che viene percepito all'interno di una determinata società come proprio di un certo genere, in termini di norme, comportamenti ed espressioni.
 L'*espressione di genere* è quindi la modalità in cui l'individuo decide di mostrare la propria identità di genere attraverso caratteristiche esterne come il proprio abbigliamento, l'utilizzo di determinati pronomi...
 
-**** Orientamento Sessuale [cite:@NAP26424]
+***** Orientamento Sessuale [cite:@NAP26424]
 # qua se ho un po'parlato della cosa in vari punti dove dovrei metterla la citazione? all'inizio? in un punto a caso?
 
-L'orientamento sessuale è anch'esso un costrutto complesso che comprende l'attrazione romantica, emotiva e sessuale.
-Fa riferimento quindi agli elementi esterni capaci di indurre una risposta nell'individuo.
-È quindi definito solitamente sulla base del genere delle persone verso cui un individuo prova attrazione sessuale o romantica, in rapporto al genere dell'individuo stesso.
+L'orientamento sessuale è anch'esso un costrutto complesso che comprende l'attrazione romantica, emotiva e sessuale, ovvero quelli che sono gli elementi esterni capaci di indurre una risposta nell'individuo.
+È definito solitamente sulla base del genere delle persone verso cui un individuo prova attrazione sessuale o romantica, in rapporto al genere dell'individuo stesso.
 # decisamente troppo convuluta sta frase
 
-I termini più comuni che identificano l'orientamento sessuale di basano su una visione binaria del genere e distinguono quindi persone /eterosessuali/, /omosessuali/ e /bisessuali/.
+I termini più comuni che identificano l'orientamento sessuale di basano su una visione binaria del genere e distinguono quindi persone /eterosessuali/(attrazione nei confronti del genere opposto), /omosessuali/(attrazione per individui del proprio genere) e /bisessuali/(attrazione verso entrambi i generi).
 In tempi relativamente recenti sono stati aggiunti termini che prendono in considerazione una visione più moderna e fluida del genere, come /pansessuale/ che indica un'attrazione verso gli altri che non dipende dal genere.
 
 L'orientamento sessuale, inoltre, così come il genere, non è binario, ma costituisce uno spettro.
-Il primo a prendere in considerazione questa caratteristica fluida della sessualità fu Alfred Kinsey, nel suo libro /Sexual Behavior in the Human Male/ del 1948, dove introduce la scala omonima [cite:@noauthor_kinsey_2024].
-Questa definisce l'orientamento sessuale secondo un gradiente da 0, esclusiva eterossessualità, a 6, esclusiva omosessualità.
+Il primo a prendere in considerazione questa caratteristica fluida della sessualità fu Alfred Kinsey, nel suo libro /Sexual Behavior in the Human Male/ del 1948, dove introduce la scala omonima.
+Questa definisce l'orientamento sessuale secondo un gradiente da 0, esclusiva eterossessualità, a 6, esclusiva omosessualità e assegna agli stati intermedi una diversa percentuale dei due orientamenti[cite:@noauthor_kinsey_2024].
+[[./img/kinseyScale.png]]
 
 # L'orientamento sessuale inoltre viene considerato fluido anche nel tempo, infatti questo può cambiare durante la vita di una persona anche in funzione delle circostanze dell'individuo.
 # valutare se aggiungere la parte che divide l'orientamento in attrazione/identità/comportamento, a me sembra un po'overkill
 
-**** Transgender e Gender Diverse
+***** Transgender e Gender Diverse
 Transgender è l'aggettivo utilizzato per riferirsi ad una persona la cui identità, espressione e/o ruolo di genere non sono conformi con quello che è culturalmente associato al loro sesso biologico.
 Alcuni individui non si identificano in un genere che rientra nella tipica dicotomia maschio/femmina, utilizzano quindi termini come /gender-fluid/ o /nonbinario/. [cite:@american_psychiatric_association_diagnostic_2024]
 Vengono anche frequentemente utilizzati i termini AMAB e AFAB, abbreviativi per /assigned male at birth/ e /assigned female at birth/, per far riferimento al sesso biologico assegnato alla nascita di un individuo, senza implicare una corrispondente identità di genere[cite:@noauthor_lgbti-safezone_nodate].
@@ -72,57 +87,50 @@ Spesso in letteratura, per riferirsi in modo più inclusivo possibile alla popol
 
 
 
-*** Incongruenza di genere, cenni storici di medicina di genere
+*** Incongruenza e disforia di genere, cenni storici di medicina di genere
 # mi sembra ridondante dire questo qua che poi lo dico dopo nella parte di criteri diagnostici però ha senso intanto quantomeno dare delle definizioni sommarie per poterne parlare e poi approfondire dopo (credo)
 
-L'*incongruenza di genere* è una condizione definita dalla presenza di una discordanza tra il sesso assegnato alla nasciata e la propria identità di genere. Questa è definita nella International Classification of Diseases (ICD-11) e non è considerata una condizione di per sé patologica[cite:@noauthor_icd-11_nodate], a differenza invece della *disforia di genere*, in cui la presenza di una incongruenza tra identità di genere e sesso biologico causa sofferenza, i criteri diagnostici per la disforia sono delineati nel Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR)[cite:@american_psychiatric_association_diagnostic_2022].
+L'*incongruenza di genere* è una condizione definita dalla presenza di una discordanza tra il sesso assegnato alla nasciata e la propria identità di genere. Questa è definita nella International Classification of Diseases (ICD-11) e non è considerata una condizione di per sé patologica[cite:@noauthor_icd-11_nodate], a differenza invece della *disforia di genere*, in cui la presenza di una incongruenza tra identità di genere e sesso biologico causa sofferenza, i criteri diagnostici per questa condizione sono delineati nel Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR)[cite:@american_psychiatric_association_diagnostic_2022].
 \\
-Storicamente il primo ad utilizzare il termine /transessuale/ viene considerato David O. Cauldwell nel 1949, con il suo articolo /Psychopathia Transexualis/ in cui descrive il caso di un suo paziente AFAB, in realtà prima di lui il Dr. Magnus Hirschfeld aveva già usato un termine simile ovvero /seelischer Transsexualismus/ o "transessualismo spirituale"[cite:@noauthor_transgender_2006].
+Storicamente il primo ad utilizzare il termine /transessuale/ viene considerato David O. Cauldwell nel 1949, con il suo articolo /Psychopathia Transexualis/, in cui descrive il caso di un suo paziente AFAB; in realtà prima di lui il Dr. Magnus Hirschfeld aveva già usato un termine simile ovvero /seelischer Transsexualismus/ o "transessualismo spirituale"[cite:@noauthor_transgender_2006].
 Il Dr. Hirschfeld è considerato il padre della medicina transgener, fondatore nel 1919 dell'Istituto della Scienza Sessuale di Berlino, il primo istituto interamente dedicato alla sessuologia, dove accoglieva le persone transgender proteggendole dagli abusi e offrendo opportunità di terapia.
-È stato sempre lui a svolgere la prima operazione registrata di affermazione di genere, su Dora Richter, una dipendente dell'istituto, su cui è sono state effettuate prima una orchidectomia nel 1922 e successivamente una penectomia e vaginoplastica nel 1931[cite:@bhinder_brief_2021].
+È stato sempre lui a svolgere la prima operazione registrata di affermazione di genere, su Dora Richter, una dipendente dell'istituto, su cui è sono state effettuate prima una orchiectomia nel 1922 e successivamente una penectomia e vaginoplastica nel 1931[cite:@bhinder_brief_2021].
 \\
-Negli anni successivi la questione transgender è rimasta poco consciuta e considerata fino al 1952 con il caso di Christine Jorgensen, la prima americana ad essersi sottoposta ad un'operazione chirurgica di affermazione di genere svolta in una clinica danese, unica a svolgere questo trattamento a quei tempi. Il suo ritorno negli Stati Uniti e la sua esposizione pubblica nei confronti della propria identità di genere ha portato molta attenzione ai movimenti transgender in America[cite:@crocq_how_2021].
-Qualche anno dopo nel 1966 il Dr. Henry Benjamin pubblica il suo trattato /The Transsexual Phenomenon/ rendendo conosciuto ad un pubblico più ampio il termine /transessuale/ coniato da Cauldwell anni prima. In questo si espone anche contro quello che era considerato al tempo l'approccio terapeutico per gli individui transgender, basato su una terapia di psicoanalisi il cui scopo era di diminuire il desiderio di essere dell'altro sesso, ma invece proponendo l'utilizzo di una terpia ormonale per effettuare la transizione verso il genere desiderato e se necessario anche un intervento chirurgico [cite:@schilt_harry_2024].
+Negli anni successivi la questione transgender è rimasta poco consciuta e considerata fino al 1952, con il caso di Christine Jorgensen, la prima americana ad essersi sottoposta ad un'operazione chirurgica di affermazione di genere svolta in una clinica danese, unica a svolgere questo trattamento a quei tempi. Il suo ritorno negli Stati Uniti e la sua esposizione pubblica nei confronti della propria identità di genere ha portato molta attenzione ai movimenti transgender in America[cite:@crocq_how_2021].
+Qualche anno dopo nel 1966 il Dr. Henry Benjamin pubblica il suo trattato /The Transsexual Phenomenon/ rendendo conosciuto ad un pubblico più ampio il termine /transessuale/ coniato da Cauldwell anni prima. In questo si espone anche contro quello che era considerato al tempo l'approccio terapeutico per gli individui transgender, basato su una terapia di psicoanalisi il cui scopo era di diminuire il desiderio di essere dell'altro sesso, ma proponendo invece l'utilizzo di una terpia ormonale per effettuare la transizione verso il genere desiderato, accompagnata se necessario anche da un intervento chirurgico [cite:@schilt_harry_2024].
 Benjamin ha inoltre fondato nel 1978 la /Harry Benjamin International Gender Dysphoria Association/ successivamente rinominata /World Professional Association for Transgender Health/(WPATH), tuttora una delle più imporanti autorità mondiali per la salute degli individui TGD [cite:@wpath_history_nodate] [cite:@allee_world_2024].
-Nel 1979 ha poi pubblicato la prima edizione degli /Standards of Care/ (SOC), delle linee guida per aiutare i professionisti sanitari nella gestione delle persone TGD, attualmente all'VIII edizione sono ancora considerati un documento fondamentale in materia[cite:@wpath_soc8_nodate].
+Nel 1979 ha poi pubblicato la prima edizione degli /Standards of Care/ (SOC), delle linee guida per aiutare i professionisti sanitari nella gestione delle persone TGD, attualmente all'VIII edizione, sono ancora considerati un documento fondamentale in materia[cite:@wpath_soc8_nodate].
 \\
-Il termine entra a far parte del DSM-III nel 1980 con il nome di /transessualismo/, utilizzato per adolescenti e adulti, mentre nei bambini la diagnosi è di /disturbo d'identità di genere dell'infanzia/ (gender identity disorder of childhood non so se sia meglio lasciarlo in inglese o tradurlo). Queste verranno poi unite nel DSM-IV del 1994 sotto la diagnosi di /disturbo d'identità di genere/ (anche qua non so se tradurre), con criteri diversi per i bambini rispetto ad adolescenti e  adulti[cite:@zucker_was_2005]. Infine nel 2013 con il DSM-5 la diagnosi diventa di /disforia di genere/, spostando il focus sulla condizione di sofferenza che accompagna l'incongruenza di genere, con l'obiettivo di depatologizzare e destigmatizzare la condizione di transgender[cite:@crocq_how_2021][cite:@narrow_revision_2010].
+Il termine entra a far parte del DSM-III nel 1980 con il nome di /transessualismo/, utilizzato per adolescenti e adulti, mentre nei bambini la diagnosi è di /disturbo d'identità di genere dell'infanzia/ (/gender identity disorder of childhood/). Queste verranno poi unite nel DSM-IV del 1994 sotto la diagnosi di /disturbo d'identità di genere/ (/gender identity disorder/), con criteri diversi per i bambini rispetto ad adolescenti e  adulti[cite:@zucker_was_2005]. Infine nel 2013 con il DSM-5 la diagnosi diventa di /disforia di genere/, spostando il focus sulla condizione di sofferenza che accompagna l'incongruenza di genere, con l'obiettivo di depatologizzare e destigmatizzare la condizione di transgender[cite:@crocq_how_2021][cite:@narrow_revision_2010].
 \\
 Infine, nel 2022 con l'ICD-11 viene definita la diagnosi di /incongruenza di genere/, revisione aggiornata della diagnosi di /transessualismo/ dell'ICD-10, questa era inserita nel capitolo sui disturbi mentali mentre viene adesso spostata nel capitolo sulla salute sessuale. Si pone attenzione anche ad utilizzare termini meno binari, come "sesso assegnato" e "genere esperito" e non viene implicato che tutti gli individui desiderino una terapia di transizione. Anche in questo caso le revisioni continuano ad avere l'obiettivo di combattere lo stigma e la discriminazione nei confronti della popolazione TGD, offrendo invece strumenti migliori di comprensione, valutazione e supporto[cite:@reed_disorders_2016].
 
 
 *** Epidemiologia
-Nella discussione epidemiologica dei dati che riguardano la popolazione TGD è preferibile evitare i termini "incidenza" e "prevalenza", questi infatti potrebbero sottointendere in maniera impropria una condizione patologica. Oltretutto, il termine "incidenza" non è utilizzabile anche perché indica la presenza di un chiaro momento di comparsa dello status TGD, il quale è raramente individuabile.
-Si preferiscono quindi i termini "numero" e "proporzione", per riferirsi alla dimensione assoluta e relativa della popolazione TGD. [cite:@coleman_standards_2022]
+Nella discussione epidemiologica dei dati che riguardano la popolazione TGD è preferibile evitare i termini "incidenza" e "prevalenza", questi infatti potrebbero sottintendere in maniera impropria una condizione patologica. Oltretutto, il termine "incidenza" non è utilizzabile anche perché indica la presenza di un chiaro momento di comparsa dello status TGD, il quale è raramente individuabile.
+Si preferiscono quindi i termini "numero" e "proporzione", per riferirsi alla dimensione assoluta e relativa della popolazione TGD[cite:@coleman_standards_2022].
 \\
 Nonostante un interesse crescente da parte della ricerca nei confronti della salute di questa popolazione, ci sono ancora molti dati epidemiologici anche basilari sui quali si ha poca certezza.
 Le stime riportate in vari studi sono infatti fortemente dipendenti dal tipo di metodologia utilizzata per l'indagine e dalla definizione data del termine transgender.
-A seconda delle pubblicazioni vengono presi in considerazione certe volte solamente color che hanno richiesto o intrapreso un percorso chirurgico di riassegnazione del sesso, altri prendono in considerazione le diagnosi di disforia di genere, mentre diversi studi svolti tramite sondaggio nella popolazione generale prendono in considerazione l'autoidentificazione come transgender.
-[cite:@collin_prevalence_2016]
+A seconda delle pubblicazioni vengono presi in considerazione certe volte solamente coloro che hanno richiesto o intrapreso un percorso chirurgico di riassegnazione del sesso, altri prendono in considerazione le diagnosi di disforia di genere, mentre diversi studi svolti tramite sondaggio nella popolazione generale prendono in considerazione l'autoidentificazione come transgender[cite:@collin_prevalence_2016].
 \\
-Per quanto riguarda nello specifico la diagnosi clinica di disforia di genere, il DSM-5-TR riporta una prevalenza tra il 0,005-0,014% per le persone AMAB e tra il 0,002% e 0,003% per le AFAB, già puntualizzando però come reputi il dato verosimilmente sottostimato[cite:@noauthor_gender_2022](si sottolinea che, in questo caso, può essere utilizzato il termine "prevalenza" dato che si sta facendo riferimento ad un'effettiva condizione patologica riconosciuta).
+Per quanto riguarda nello specifico la diagnosi clinica di disforia di genere, il DSM-5-TR riporta una prevalenza tra il 0,005-0,014% per le persone AMAB e tra il 0,002% e 0,003% per le AFAB, già puntualizzando però come reputi il dato verosimilmente sottostimato[cite:@noauthor_gender_2022] (si sottolinea che, in questo caso, può essere utilizzato il termine "prevalenza" dato che si sta facendo riferimento ad un'effettiva condizione patologica riconosciuta).
 Questa stima infatti prende in considerazione solamente la parte della popolazione TGD che ha ricevuto a tutti gli effetti una diagnosi, per cui appare evidente come questo numero sia sottostimato di diversi ordini di grandezza rispetto ai sondaggi nella popolazione, i quali utilizzano criteri più generici.
 # volendo mettere qua un altro studio esempio, quello nella tesi di alessio è un po'vecchio
 \\
 Prendendo in considerazione i sondaggi condotti nella popolazione che utilizzano definizioni simili, i risultati sono consistenti.
 Questionari che indagavano nello specifico il termine "transgender" rilevavano una stima che va tra lo 0,3% e lo 0,5% tra gli adulti e tra l'1,2% e il 2,7% tra bambini ed adolescenti.
-Utilizzando una definizione più ampia che include termini come "incongruenza di genere" o "ambivalenza di genere" la percentuale aumenta a 0,5-4,5% tra gli adulti e 2,5-8,4% nella popolazione adolescente e pediatrica.
-[cite:@zhang_epidemiological_2020]
+Utilizzando una definizione più ampia che include termini come "incongruenza di genere" o "ambivalenza di genere" la percentuale aumenta a 0,5-4,5% tra gli adulti e 2,5-8,4% nella popolazione adolescente e pediatrica[cite:@zhang_epidemiological_2020].
 
-La dimensione di questa popolazione è inoltre in aumento, su questo concordano sostanzialmente tutte le pubblicazioni che prendono in considerazione l'evoluzione del trend negli anni, indipendentemente da area geografica e modalità di indagine.
-[cite:@goodman_size_2019]
+La dimensione di questa popolazione è inoltre in aumento, su questo concordano sostanzialmente tutte le pubblicazioni che prendono in considerazione l'evoluzione del trend negli anni, indipendentemente da area geografica e modalità di indagine[cite:@goodman_size_2019].
 # altri potenzialmente interessanti: - https://www.publish.csiro.au/sh/sh17067 (zuker → mi sembra di averlo visto citato) - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299373 (questo me lo ha dato GPT però sembra carino)
 \\
-Per quanto riguarda l'Italia, uno studio del 2023 condotto tramite un sondaggio online diffuso attraverso vari social media, riporta che su 19572 partecipanti il 7,7% riporta un'identità di genere diversa dal sesso assegnato alla nascita. [cite:@fisher_estimate_2024]
+Per quanto riguarda l'Italia, uno studio del 2023 condotto tramite un sondaggio online diffuso attraverso vari social media, riporta che su 19572 partecipanti il 7,7% riporta un'identità di genere diversa dal sesso assegnato alla nascita[cite:@fisher_estimate_2024].
 Si è anche valutato come i partecipanti TGD avessero un'età media significativamente inferiore rispetto a quelli cisgender.
-Inoltre è interessante notare come tra le persone TGD solamente il 41,6% riportavano un'identita di genere binaria, mentre il 58,4% si identificavano come non-binari.
+Inoltre è interessante notare come tra le persone TGD solamente il 41,6% riportavano un'identità di genere binaria, mentre il 58,4% si identificavano come non-binari.
 # volendo aggiungere il fatto che i non binari tendenzialmente hanno meno bisogno di interventi, cambio di nome etc..?
 
 # maybe aggiungere dopo una parte più specifica sull'epidemiologia della disforia di genere come diagnosi clinica che ne parlo un po'poco
-
-
-
-
 
 
 *** Eziologia
@@ -130,34 +138,34 @@ Inoltre è interessante notare come tra le persone TGD solamente il 41,6% riport
 Attualmente non sono ancora stati identificati dei chiari fattori eziologici determinanti nell'insorgenza di una incongruenza di genere.
 Come molte altre patologie, l'ipotesi più attuale comprende l'interazione tra molteplici fattori di tipo biologico, genetico e psicosociale.
 
-**** Fattori Neurologici
-Il coinvolgimento neurologico si basa sull'ipotesi che i soggetti transgender abbiano delle differenze nello sviluppo dei circuiti cerebrali, rispetto ai cisgender, e che questo sia determinante nell'insorgenza dell'incongruenza di genere.
+***** Fattori Neurologici
+Il coinvolgimento neurologico si basa sull'ipotesi che i soggetti transgender abbiano delle differenze nello sviluppo dei circuiti cerebrali, rispetto ai cisgender, e che questo sia determinante nell'insorgenza dell'incongruenza di genere. \\
 La base biologica di questa teoria è la differenza già nota tra cervello maschile e femminile nei soggetti cisgender; questa si presenta sia in un leggero vantaggio dell'uno o l'altro sesso in alcuni task cognitivi, sia in una vera e propria differenza anatomica di trofismo di alcune zone cerebrali piuttosto che altre[cite:@miller_new_2014].
 
-Sono diversi i fattori che intervengono nel determinare queste differenze e non tutti sono conosciuti; sicuramente è presente un'influenza ambientale, com'è reso evidente dal fatto che queste differenze tra maschi e femmine sono diverse in diverse aree geografiche, è molto probabile anche un ruolo degli ormoni sessuali durante sviluppo, infatti le differenze di trofismo sono state associate ad aree con diversa quantità di recettori estrogenici e androgenici nelle varie aree cerebrali[cite:@goldstein_normal_2001].
+Sono diversi i fattori che intervengono nel determinare queste differenze e non tutti sono conosciuti; sicuramente è presente un'influenza ambientale, com'è reso evidente dal fatto che queste differenze tra maschi e femmine sono diverse in diverse aree geografiche; è molto probabile anche un ruolo degli ormoni sessuali durante sviluppo, infatti le differenze di trofismo sono state associate ad aree con diversa quantità di recettori estrogenici e androgenici nelle varie aree cerebrali[cite:@goldstein_normal_2001].
 \\
-Per quanto riguarda la popolazione TGD, seppur siano state dimostrate alcune differenze strutturali e funzionali nel cervello degli individui TGD, non è ancora stato indiviuato in letteratura un pattern preciso che si possa associare chiaramente a determinati cambiamenti strutturali.
+Per quanto riguarda la popolazione TGD, seppur siano state dimostrate alcune differenze strutturali e funzionali nel cervello degli individui transgender, non è ancora stato individuato in letteratura un pattern preciso che si possa associare chiaramente a determinati cambiamenti strutturali.
 Alcuni studi dimostrano come la morfologia cervello di individui con incongruenza di genere sia complessivamente più simile ad individui cisgender del sesso assegnato alla nascita rispetto a individui cisgender dell'identità di genere scelta [cite:@frigerio_structural_2021].
-Tuttavia esiste anche evidenza discordante, ad esempio gli studi riguardanti la struttura della materia bianca tedono a concordare sull'esistenza di un fenotipo intermedio negli individui transgender, differente da quello di entrambi maschi e femmine cisgender[cite:@mueller_transgender_2017] [cite:@guillamon_review_2016][cite:@manzouri_possible_2019].
+Tuttavia esiste anche evidenza discordante, ad esempio gli studi riguardanti la struttura della materia bianca tedono a concordare sull'esistenza di un fenotipo intermedio negli individui transgender, differente da quello di entrambi maschi e femmine cisgender[cite:@mueller_transgender_2017;@guillamon_review_2016;@manzouri_possible_2019].
 
 # volendo aggiungere? https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7750413/
 
-Complessivamente è difficile giungere a conclusioni chiare, gli studi infatti sono limitati dall'uso di metodiche di imaging non invasive e popolazioni di piccole dimenioni; oltretutto molti prendono in considerazione sia l'identità di genere che l'orientamento sessuale, rendendo difficile differenziare chiaramente l'influenza delle due variabili.
+Complessivamente è difficile giungere a conclusioni chiare, gli studi infatti sono limitati dall'uso di metodiche di imaging non invasive e popolazioni di piccole dimensioni; oltretutto, molti prendono in considerazione sia l'identità di genere che l'orientamento sessuale, rendendo difficile differenziare chiaramente l'influenza delle due variabili.
 
 
 
-**** Fattori Genetici
-Diversi studi ipotizzano la presenza di una componente genetica nella costruzione dell'identità di genere quindi dell'incongruenza, tuttavia al momento non sono stati trovati geni specifici direttamente coinvolti.
+***** Fattori Genetici
+Diversi studi ipotizzano la presenza di una componente genetica nella costruzione dell'identità di genere e quindi dell'incongruenza, tuttavia, al momento non sono stati trovati geni specifici direttamente coinvolti.
 
-Diversi studi sono stati condotti su gemelli monozigoti, mettendo in evidenza come questi abbiano un tasso di concordanza maggiore sia per quanto riguarda l'identità sia per l'incongruenza di genere. [cite:@kauffman_concordance_2022] [cite:@diamond_transsexuality_2013]
+Diversi studi sono stati condotti su gemelli monozigoti, mettendo in evidenza come questi abbiano un tasso di concordanza maggiore sia per quanto riguarda l'identità sia per l'incongruenza di genere. [cite:@kauffman_concordance_2022;@diamond_transsexuality_2013]
 
-Uno studio ha studiato invece il potenziale ruolo dei geni coinvolti nel /signaling/ degli ormoni sessuali, mettendo in evidenza come alcune varianti genetiche siano correlate all'incongruenza di genere in alcuni pazienti AMAB, facendo anche valutazioni ed ipotesi sul meccanismo di azione degli specifici polimorfismi. [cite:@foreman_genetic_2019]
+Uno studio ha valutato invece il potenziale ruolo dei geni coinvolti nel /signaling/ degli ormoni sessuali, mettendo in evidenza come alcune varianti genetiche siano correlate all'incongruenza di genere in alcuni pazienti AMAB, facendo anche valutazioni ed ipotesi sul meccanismo di azione degli specifici polimorfismi[cite:@foreman_genetic_2019].
 
 # volendo c'è un articolo di fi che cita i cromosomi sessuali, però sostanzialmente dice che quelli con la Klinefelter hanno più GD, ma più perché sono autistici che perché sono klinefelter quindi boh mi sembra misleading mettere questo discorso qua come l'ha messo alessioMarrucci [cite:@fisher_hypersexuality_2015]
 # volendo questo articolo rivede un po' la cosa https://link.springer.com/article/10.1007/s10519-018-9889-z#Sec13
 
 
-**** Fattori Endocrini
+***** Fattori Endocrini
 L'incongurenza di genere si presenta frequentemente in soggetti che presentanto disturbi dello sviluppo sessuale(DSD), in queste condizioni spesso l'assegnazione del sesso alla nascita non è chiara come nel resto della poplazione e diventa un obiettivo fondamentale avere un'assegnazione del sesso che sia coerente con l'identità di genere dell'individuo[cite:@fisher_gender_2016]. Alcuni suggeriscono di procedere in maniera inversa, invece di presupporre che sia l'assegnazione del sesso a guidare l'identità di genere, lasciare che l'eventuale comparsa di una incongruenza di genere diventi determinante per l'assegnazione del sesso[cite:@babu_gender_2021].
 \\
 Una di queste condizioni è l'iperplasia surrenale congenita(CAH), in cui le ghiandole surrenali hanno una produzione eccessiva di androgeni, andando a causare in individui con corredo cromosomico femminile alcune caratteristiche mascolinizzanti, in questi casi solitamente viene comunque assegnato alla nascita un sesso femminile. In questi pazienti la percentuale di incongruenza di genere non è particolarmente alta, ma comunque molto più alta rispetto alla popolazione generale[cite:@de_jesus_gender_2019].
@@ -165,22 +173,22 @@ Una di queste condizioni è l'iperplasia surrenale congenita(CAH), in cui le ghi
 I meccanismi attraverso i quali gli ormoni sessuali possano intervenire nella determinazione dell'identità di genere non sono del tutto chiari, ma si ricollegano al tema citato prima della loro influenza nella differenziazione cerebrale e della possibile presenza negli individui TGD di polimorfismi in alcuni recettori estrogenici e androgenici a livello cerebrale[cite:@bakker_role_2022].
 
 
-**** Fattori Psicologici e Sociali
+***** Fattori Psicologici e Sociali
 
 La maggior parte degli studi prende in considerazione il probabile intervento di vari fattori psicologici nella genesi dell'identità di genere e quindi dell'incongruenza, diverse teorie psicologiche identificano elementi differenti che potrebbero agire in diverse fasi della vita dell'individuo.
 
-La teoria più primitiva è quella /psicodinamica/, che si rifa addirittura alla teoria Freudiana dell'identificazione, ipotizzando un intervento importante dell'esperienza infantile nella determinazione dell'identità di genere. Secondo la "teoria dell'identificazione" di Freud il bambino tende ad identificarsi con il genitore del sesso opposto in quello che è il complesso di Edipo. [cite:@benjamin_father_1991]
-Nonostante ancora non venga espresso chiaramente il concetto di incongruenza di genere, è chiaro come questi concetti sottointendano l'ipotesi di una certa variabilità e fluidità nell'identità di genere.
+La teoria più primitiva è quella /psicodinamica/, che si rifa alla teoria Freudiana dell'identificazione, ipotizzando un intervento importante dell'esperienza infantile nella determinazione dell'identità di genere. Secondo la "teoria dell'identificazione" di Freud il bambino tende ad identificarsi con il genitore del sesso opposto in quello che è il complesso di Edipo[cite:@benjamin_father_1991]. \\
+Nonostante ancora non venga espresso chiaramente il concetto di incongruenza di genere, è chiaro come questi concetti sottintendano l'ipotesi di una certa variabilità e fluidità nell'identità di genere.
 
 La successiva teoria /psicosociale/ prende invece in considerazione l'intervento di fattori ambientali e culturali nella determinazione dell'identità di genere.
 # fino qua ho preso praticamente la tesi di lorenzo auricchio, poi lui inizia a citare paper a caso quindi ho cercato di rivedere un po'
+L'apprendimento del comportamento e ruolo di genere avvengono tramite l'osservazione e l'imitazione nel contesto sociale, andando a replicare quelli che sono i comportamenti considerati adeguati al proprio sesso, in un procedimento graduale che si sviluppa negli anni[cite:@steensma_gender_2013].
 
-L'apprendimento del comportamento e ruolo di genere avvengono tramite l'osservazione e l'imitazione nel contesto sociale, andando a replicare quelli che sono i comportamenti considerati adeguati al proprio sesso, in un procedimento graduale che si sviluppa negli anni [cite:@steensma_gender_2013].
-Nella popolazione TGD verosimilmente lo sviluppo della propria identità di genere avviene in modo anologo, con simili fattori determinanti,[cite:@mehrtens_transgender_2023] tuttavia, uno studio sulla popolazione pediatrica ha individuato un possibile rallentamento nell'acquisizione di un'identità di genere stabile in bambini che riconoscono un'identità di genere non corrispondente al proprio sesso biologico[cite:@zucker_gender_1999].
-Un ruolo importante è anche attribuito alla presenza nell'ambiente familiare e sociale di una pressione sul bambino a comportarsi in maniera conforme al proprio sesso biologico. Questa insistenza si riflette negativamente sull'adattamento psicologico del bambino, motivo per cui si reputa al contrario ottimale un ambiente in cui il bambino possa sentirsi libero sia di confermare la propria appartenenza al sesso biologico, sia gli venga data la possibilità di esplorare identità di genere alternative. [cite:@egan_gender_2001]
+Nella popolazione TGD verosimilmente lo sviluppo della propria identità di genere avviene in modo anologo, con simili fattori determinanti,[cite:@mehrtens_transgender_2023] tuttavia, uno studio sulla popolazione pediatrica ha individuato un possibile rallentamento nell'acquisizione di un'identità di genere stabile in bambini che riconoscono un'identità di genere non corrispondente al proprio sesso biologico[cite:@zucker_gender_1999].\\
+Un ruolo importante è anche attribuito alla presenza nell'ambiente familiare e sociale di una pressione sul bambino a comportarsi in maniera conforme al proprio sesso biologico. Questa insistenza si riflette negativamente sull'adattamento psicologico del bambino, motivo per cui si reputa al contrario ottimale un ambiente in cui il bambino possa sentirsi libero sia di confermare la propria appartenenza al sesso biologico, sia gli venga data la possibilità di esplorare identità di genere alternative[cite:@egan_gender_2001].
 
 
-#+latex: % nella tesi di lorenzo auricchio c'è una parte sul trauma però io non ho trovato niente di articoli, nemmeno quelli citati da lui ne parlano (non dicono quello che c'è scritto...)
+# nella tesi di lorenzo auricchio c'è una parte sul trauma però io non ho trovato niente di articoli, nemmeno quelli citati da lui ne parlano (non dicono quello che c'è scritto...)
 
 
 *** Criteri Diagnostici - DSM-5-TR e ICD-11
@@ -191,7 +199,7 @@ Nel discutere i criteri diagnostici nella popolazione TGD è bene rimarcare la d
 
 L'*incongruenza di genere* è il termine utilizzato dalla International Classification of Diseases (ICD-11), questa è caratterizzata dalla presenza di una dissonanza tra l'esperienza di genere ed il sesso biologico assegnato alla nascita. L'incongruenza di genere abbraccia in maniera più ampia la popolazione TGD e non indica una condizione patologica o disturbo psichiatrico, tanto da essere trasferita nell’ICD-11 dalla categoria dei disordini mentali a quella relativa le condizioni di salute sessuale[cite:@noauthor_icd-11_nodate].
 
-La *disforia di genere* invece viene diagnosticata secondo i criteri del Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR), in questo caso quindi viene identificata una condizione patolgica di sofferenza, determinata dall'incongruenza tra il genere esperito ed il sesso biologico. [cite:@american_psychiatric_association_diagnostic_2022]
+La *disforia di genere* invece viene diagnosticata secondo i criteri del Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR), in questo caso quindi viene identificata una condizione patolgica di sofferenza, determinata dall'incongruenza tra il genere esperito ed il sesso biologico[cite:@american_psychiatric_association_diagnostic_2022].
 
 Data l'evoluzione di entrambe queste condizioni nella vita di un individuo, entrambe queste pubblicazioni utilizzano criteri diversi per i bambini e per adolescenti e adulti.
 
@@ -200,12 +208,12 @@ Data l'evoluzione di entrambe queste condizioni nella vita di un individuo, entr
 **** Criteri Diagnostici nei Bambini
 
 # AGGIUNGERE CITAZIONE → non capisco come citare sottosezioni dell'ICD o DSM quindi poi dopo devo sistemare citazioni a tutto questo
-# DSM sono riuscito a scaricarlo e citarlo
+# DSM sono riuscito a scaricarlo e
 
 La definizione dell'ICD-11 dell'incongruenza di genere nei bambini:
 # copiato da alessio marrucci
 #+BEGIN_QUOTE
-Marcata discrepanza tra il  genere sperimentato/espresso da un individuo e il sesso assegnato nei bambini prepuberali.  Questo include un forte desiderio di essere di un genere diverso rispetto al sesso assegnato; una  forte avversione da parte del bambino verso la sua anatomia sessuale o le caratteristiche sessuali  secondarie anticipate e/o un forte desiderio che le caratteristiche sessuali primarie e/o secondarie  anticipate che corrispondano al genere sperimentato; giochi, giocattoli, attività e compagni di  gioco fittizi o fantasiosi tipici del genere sperimentato piuttosto che del sesso assegnato. La discrepanza deve persistere per circa 2 anni.
+Marcata incongruenza tra il  genere sperimentato/espresso da un individuo e il sesso assegnato nei bambini prepuberali.  Questo include un forte desiderio di essere di un genere diverso rispetto al sesso assegnato; una  forte avversione da parte del bambino verso la sua anatomia sessuale o caratteristiche sessuali secondarie anticipate e/o un forte desiderio che le caratteristiche sessuali primarie e/o secondarie anticipate corrispondano al genere esperito; giochi di fantasia o fittizi, giocattoli, attività e compagni di gioco che sono tipici del genere sperimentato piuttosto che del sesso assegnato. La discrepanza deve persistere per circa 2 anni.
 #+END_QUOTE
 
 
@@ -230,7 +238,7 @@ B. La condizione è associata a sofferenza clinicamente significativa o a  compr
 La definizione dell'ICD-11 dell'incongruenza di genere in adulti e adolescenti:
 
 #+BEGIN_QUOTE
-Marcata e persistente  incongruenza tra il genere sperimentato da un individuo e il sesso assegnato, che spesso porta  al desiderio di 'transizione', al fine di vivere e essere accettati come persone del genere  sperimentato, attraverso trattamenti ormonali, interventi chirurgici o altri servizi sanitari per far sì  che il corpo dell'individuo si allineino, nella misura desiderata e possibile, con il genere  sperimentato
+Marcata e persistente incongruenza tra il genere sperimentato da un individuo e il sesso assegnato, che spesso porta al desiderio di 'transizione', al fine di vivere e essere accettati come persone del genere  sperimentato, attraverso trattamenti ormonali, interventi chirurgici o altri servizi sanitari per far sì che il corpo dell'individuo si allineino, nella misura desiderata e possibile, con il genere sperimentato
 #+END_QUOTE
 
 I criteri diagnostici nel DSM-5 per la disforia di genere in adulti e adolescenti:
@@ -243,121 +251,154 @@ A. Una marcata incongruenza tra il genere esperito/espresso da un individuo e  l
    6. Una forte convinzione di avere i sentimenti e le reazioni tipici del genere opposto  (o di un genere alternativo diverso dal genere assegnato).
 B. la condizione è associata a sofferenza clinicamente significativa o a  compromissione del funzionamento in ambito sociale, lavorativo o altre aree  importanti.
 
-Negli adulti si può aggiungere la specifica "post-transizione", facendo così riferimento ad un inviduo che è passato a vivere completamente nel genere esperito, che si è sottoposto, o sta per sottoporsi, ad un trattamento, ormonale o chirurgico, di affermazione di genere
+Negli adulti si può aggiungere la specifica "post-transizione", facendo così riferimento ad un individuo che è passato a vivere completamente nel genere esperito, che si è sottoposto, o sta per sottoporsi, ad un trattamento, ormonale o chirurgico, di affermazione di genere
 
 **** Diagnosi Differenziale
-Il DSM-5-TR indica cinque principali condizioni da tenere in considerazione quando si fa diagnosi di disforia di genere [cite:@american_psychiatric_association_diagnostic_2022]
+Il DSM-5-TR indica cinque principali condizioni da tenere in considerazione quando si fa diagnosi di disforia di genere[cite:@american_psychiatric_association_diagnostic_2022]
 
 # qua tesi alessiomarrucci cita un libro che però non so bene che roba sia e fa una differenziale diversa dal dsm
 # io ho riportato il DSM-TR che sono finalmente riuscito a scaricare → valuto eventuali aggiunte per le varie entry
 
 - *Nonconformità ai ruoli di genere*: \\
-  Individui i quali si comportano in modo non conforme a quelli che sono li stereotipi che caratterizzano il proprio ruolo di genere. In questo caso non è presente il forte desiderio di essere dell'altro genere e soprattutto non è presente l'alto livello di sofferenza che caratterizza la disforia
+  Individui i quali si comportano in modo non conforme a quelli che sono gli stereotipi che caratterizzano il proprio ruolo di genere. In questo caso non è presente il forte desiderio di essere dell'altro genere e soprattutto non è presente l'alto livello di sofferenza che caratterizza la disforia
 
 - *Disturbo da travestitismo*: \\
-  Disturbo parafiliaco tipicamente caratteristico di individui maschi adulti che provano eccitazione sessuale nell'indossare un vestiario tipicamente femminile, l'eccitazione è associata ad angoscia che però non comprende dubbi riguardo la propria identità di genere.
-  Non è raro questo disturbo sia diagnosticato e coesista insieme ad una disforia di genere, di cui talvolta può essere un precursore.
+  Disturbo parafilico tipicamente caratteristico di individui maschi adulti che provano eccitazione sessuale nell'indossare un vestiario tipicamente femminile, l'eccitazione è associata ad angoscia che però non comprende dubbi riguardo la propria identità di genere.
+  Non è raro che questo disturbo sia diagnosticato e coesista insieme ad una disforia di genere, di cui talvolta può essere un precursore.
 
 - *Disturbo da dismorfismo corporeo*: \\
-  Individui con questo disturbo percepiscono parti del loro corpo come anomale ed hanno il desiderio di alterarele o rimuoverle.
-  Questo disturbo può comprendere gli organi genitali o altre carattersitiche sessuali, motivo per cui potrebbe essere confuso con una disforia di genere, in questo caso tuttavia il disturbo è correlato alla parte del corpo in sé e non mette in discussione la propria identità di genere.
-   questa seconda frase non è propriamente detta nel dsm
+  Individui con questo disturbo percepiscono parti del loro corpo come anomale ed hanno il desiderio di alterarle o rimuoverle.
+  Questo disturbo può comprendere gli organi genitali o altre caratteristiche sessuali, motivo per cui potrebbe essere confuso con una disforia di genere, in questo caso tuttavia il disturbo è correlato alla parte del corpo in sé e non mette in discussione la propria identità di genere.
+# questa seconda frase non è propriamente detta nel dsm
 
 
 - *Disturbi dello spettro autistico*: \\
-  Negli indivudui con disturbo dello spettro autistico può essere difficile differenzia una disforia di genere da una preoccupazione autistica derivante da una visione rigida riguardo i ruoli di genere e/o difficoltà tipiche dello spettro autistico a comprendere le relazioni sociali.
+  Negli individui con disturbo dello spettro autistico può essere difficile differenzia una disforia di genere da una preoccupazione autistica derivante da una visione rigida riguardo i ruoli di genere e/o difficoltà tipiche dello spettro autistico a comprendere le relazioni sociali.
 
 
 
 - *Schizofrenia e altri disturbi psicotici*: \\
   Nella schizofrenia possono essere presenti deliri riguardo l'appartenere ad un altro genere. Deliri che includono il tema del genere possono presentarsi in fino al 20% degli individui con schizofrenia.
-  Uno studio ha dimostrato la presenza di disturbi neurobiologici dello sviluppo comuni che potrebbero essere determinanti in entrambe le condizioni [cite:@rajkumar_gender_2014]; tuttavia review più recenti in letteratura dimostrano come l'incidenza della schizofrenia non sia maggiore in individui transgender rispetto alla popolazione generale [cite:@dhejne_mental_2016]
+  Uno studio ha dimostrato la presenza di disturbi neurobiologici dello sviluppo comuni che potrebbero essere determinanti in entrambe le condizioni[cite:@rajkumar_gender_2014]; tuttavia review più recenti in letteratura dimostrano come l'incidenza della schizofrenia non sia maggiore in individui transgender rispetto alla popolazione generale[cite:@dhejne_mental_2016].
   # non sono sicuro che mi piaccia molto questa cosa perché il primo parla di disforia e il secondi di popolazione trans quindi teoricamente il secondo non nega il primo, però aggiunge contesto.
-  È molto importante distinguere situazioni in cui le due condizioni coesistono da quelle in cui i disturbi sono unicamente dovuti al quadro schizofrenico, in quanto questo ha un impatto importante sulla gestione del paziente e sull'approccio terapeutico, specialmente prendendo in considerazione trattamenti molto invasivi come la riassegnazione chirurgica del sesso. [cite:@stusinski_gender_2018]
+  È molto importante distinguere situazioni in cui le due condizioni coesistono da quelle in cui i disturbi sono unicamente dovuti al quadro schizofrenico, in quanto questo ha un impatto importante sulla gestione del paziente e sull'approccio terapeutico, specialmente prendendo in considerazione trattamenti molto invasivi come la riassegnazione chirurgica del sesso[cite:@stusinski_gender_2018].
   # maybe snellire un po'questa frase
-  Tipicamente le due condizioni si possono differenziare dato che il contenuto dei deliri è bizzaro e questi fluttuano in corrispondenza con remissioni ed ricomparsa degli episodi psicotici.
-  Un ulteriore fattore che può aiutare nella diagnosi è l'utilizzo di farmaci antipsicotici i quali, nel caso dei pazienti psicotici, portano ad una scomparsa del pensiero transessuale.[cite:@urban_transsexualism_2009]
-
+  Tipicamente le due condizioni si possono differenziare dato che il contenuto dei deliri è bizzarro e questi fluttuano in corrispondenza con remissioni e ricomparse degli episodi psicotici.
+  Un ulteriore fattore che può aiutare nella diagnosi è l'utilizzo di farmaci antipsicotici, i quali, nel caso dei pazienti psicotici, portano ad una scomparsa del pensiero transessuale che invece non avviene nei pazienti con un'effettiva disforia di genere[cite:@urban_transsexualism_2009].
 
 
 # *Altre presentazioni cliniche*: → volendo ci sono anche queste nel DSM però penso di evitare mi sembrauno un po'inutili
 
-
-Altre condizioni che possono presentare problemi di diagnosi differenziale non prese in considerazione nel DSM-5-TR comprendono:
+# Altre condizioni che possono presentare problemi di diagnosi differenziale non prese in considerazione nel DSM-5-TR comprendono:
 # qua se le voglio tenere devo spiegarle un po'meglio
 
 # alessiomarrucci
-- Sviluppo atipico dell'Identità di Genere
-- Disforia di Genere Transitoria Secondaria (abuso sessuale)
-
-# lorenzoauricchio
-- Omosessualità egodistonica e omofobia interiorizzata
-- Disturbi dell'alimentazione
-- Disturbo borderline di personalità
+# - Sviluppo atipico dell'Identità di Genere
+# - Disforia di Genere Transitoria Secondaria (abuso sessuale)
+#
+# # lorenzoauricchio
+# - Omosessualità egodistonica e omofobia interiorizzata
+# - Disturbi dell'alimentazione
+# - Disturbo borderline di personalità
 
 
 *** Salute mentale e comorbidità psichiatriche
+La popolazione TGD è soggetta ad un alta prevalenza di disturbi psichiatrici e psicopatologia, apparentemente con un livello più alto della popolazione cisgender[cite:@dhejne_mental_2016].
+Un'ipotesi è che questo sia dovuto in buona parte al contesto sociale, spesso discriminatorio, violento e stigmatizzante, fattori importanti che sono stati correlati alla presenza di dolore mentale e conseguente ideazione suicidaria[cite:@peterson_ambient_2021], a situazioni di uso di sostanze[cite:@nuttbrock_gender_2014], a sintomi di ansia[cite:@bouman_transgender_2017].
+
+Questi fattori interverrebbero secondo il modello di /minority stress/, per cui la popolazione TGD è sottoposta a stress come conseguenza di stigmatizzazione e discriminazioni; questo stress va poi a determinare disregolazioni emotive e problemi sociali che portano ad un aumentato rischio di psicopatologia[cite:@hatzenbuehler_how_2009; @meyer_prejudice_2003].
+
+La psicopatologia sembra migliorare come conseguenza degli interventi di affermazione di genere [cite:@aldridge_longterm_2021], ma anche grazie ad interventi che puntano a migliorare l'inclusione sociale e ridurre la transfobia[cite:@coleman_standards_2022; @bauer_intervenable_2015].
+
+***** Disturbi dell'umore
+Diversi studi dimostrano che la prevalenza di sintomatologia depressiva nella popolazione TGD è rilevante e maggiore rispetto alla popolazione di controllo cisgender[cite:@witcomb_levels_2018;@chao_prevalence_2023;@becerra-culqui_mental_2018], anche in Italia sono stati rilevati dati coerenti con la letteratura[cite:@fisher_sociodemographic_2013].
+
+Il rischio maggiore per gli individui TGD è probabilmente correlato al concetto di /minority stress/ descritto sopra, ad avvalorare questa teoria si nota come nella popolazione TGD non sia presente un rischio differente secondo il genere, mentre nella popolazione cisgender il disturbo è spesso più presente nella popolazione femminile; questo sembra sostenere l'ipotesi che sia l'esperienza di essere transgender in sé a costituire un fattore di rischio[cite:@witcomb_levels_2018].
+
+***** Disturbi d'ansia
+La prevalenza di disturbo d'ansia nella popolazione transgender risulta molto elevata e con un rischio quasi triplicato rispetto alla popolazione generale cisgender. \\
+Il rischio è maggiore negli individui AFAB, in maniera coerente con le differenza tra nella popolazione cisgender secondo il sesso asseganto alla nascita, il che fa presupporre che possano esserci differenze neurobiologiche negli individui AFAB che vengono mantenute indipendentemente dall'identità di genere[cite:@bouman_transgender_2017].
+
+Anche in questo caso la sintomatologia sembra essere strettamente legata allo stigma sociale a cui sono sottoposti i soggetti TGD, secondo il modello di /minority stress/[cite:@bockting_stigma_2013].
+
+Inoltre, anche per quanto riguarda la sintomatologia ansiosa, questa risulta migliorare in seguito al trattamento con terapia ormonale, al contrario la presenza di ostacoli per accedere al trattamento rappresenta un fattore che potrebbe peggiorarla[cite:@bouman_transgender_2017].
+
+***** Disturbi alimentari
+L'incongruenza di genere ed i disturbi alimentari sono accomunati dalla presenza di un forte disagio nei confronti del proprio corpo, individuato come fonte principale di sofferenza per entrambe le condizioni[cite:@bandini_gender_2013].\\
+La popolazione adolescente TGD risulta essere quindi ad altissimo rischio di sviluppo di disturbi alimentari, con un odds-ratio di avere diagnosi di questi disturbi nell'ultimo anno del 4,62 ed un rischio maggiore di fare uso di pillole dietetiche, vomito o lassativi[cite:@diemer_gender_2015].
+Secondo altri studi una percentuale molto alta di soggetti TGD riporta di aver tentato di manipolare il proprio peso con l'obiettivo di ottenere un corpo più simile a quello del genere scelto, nei pazienti AFAB ad esempio, alcuni individui provano a perdere molto peso con l'obiettivo di sopprimere il ciclo mestruale[cite:@avila_eating_2019].
+
+I trattamenti di affermazione di genere portano ad una maggiore soddisfazione col proprio corpo, avvicinando il corpo del soggetto ad uno più concorde con la propria identità di genere, contribuendo così a migliorare il benessere dell'individuo[cite:@jones_body_2016].
+
+***** Disturbi da uso di sostanze
+L'utilizzo di sostanze è più frequente nella popolazione TGD rispetto ai pari cisgender a partire da una giovane età. Tendenzialmente questa differenza ipotizza come fattore principale il ruolo del /minority stress/, con un aumento nel consumo di sostanze correlato all'esperienza di stressor sociali come la discriminazione[cite:@fahey_substance_2023].
+
+***** Suicidio
+La prevalenza lifetime di ideazione suicidaria nella popolazione TGD è molto alta, con una percentuale che varia secondo gli studi tra il 37% e l'83%;  risulta ancora più rilevante se paragonata a quella della popolazione generale, molto minore, che risulta intorno al 9,2%[cite:@rabasco_suicidal_2021].
+Nei giovani TGD circa un quarto riportano almeno un tentativo di suicidio e più del 40% riportano una storia di comportamenti autolesivi[cite:@peterson_suicidality_2017].
+Ancora una volta gran parte di questi comportamenti sembrano essere associati al modello di /minority stress/, con un effetto importante sia degli stressor esterni, ma ancora di più per quanto riguarda meccanismi di transfobia interiorizzata e aspettative di rifiuto[cite:@pellicane_associations_2022].
+
+
+# **** Autismo
+# **** Autolesività non suicidaria
+#
+# **** Dolore Mentale
+
 
 
 *** Valutazione e approccio ad un individuo con incongruenza di genere
-
 # domanda se posso citare gli SOC tipo qua per l'intero paragrafo oltre a i punti in cui li cito esplicitamente perché la struttura generale di diverse cose è presa da quelli
 
-La gestione di un individuo TGD non è compito semplice per il clinico, per questo motivo la /World Professional Association for Transgender Health/ (WPATH) stila un documento per stabilire quelle che sono le migliori pratiche cliniche da mettere in atto, questo è lo /Standards of Care of Transgender and Gender Diverse People/(SOC). [cite:@coleman_standards_2022]
-La WPATH è un'organizzazione non-profit interdisciplinare professionale ed educativa, il cui scopo è quello di promuovere un alto standard di cura per tutta la popolazione TGD. [cite:@wpath_mission_nodate].
-Gli SOC rappresentano un insieme di linee guida riconosciute a livello internazionale per la presa in carico di individui TGD, con l'obiettivo di portarli a raggiungere una situazione di salute a livello fisico e psicologico, l'ultima edizione pubblicata sono gli SOC-8 del 2022. \\
+La gestione di un individuo TGD non è compito semplice per il clinico, per questo motivo la /World Professional Association for Transgender Health/(WPATH) stila un documento per stabilire quelle che sono le migliori pratiche cliniche da mettere in atto, questi sono gli /Standards of Care of Transgender and Gender Diverse People/(SOC)[cite:@coleman_standards_2022].\\
+La WPATH è un'organizzazione non-profit interdisciplinare professionale ed educativa, il cui scopo è quello di promuovere un alto standard di cura per tutta la popolazione TGD[cite:@wpath_mission_nodate].
+Gli SOC rappresentano un insieme di linee guida riconosciute a livello internazionale per la presa in carico di individui TGD, con l'obiettivo di portarli a raggiungere una situazione di salute a livello fisico e psicologico, l'ultima edizione pubblicata sono gli SOC-8 del 2022.
 
-Queste raccomandazioni non sono pensate esclusivamente per i professionisti sanitari, difatti un intero capitolo è dedicato all'educazione per la popolazione generale, punto fondamentale per combattere contro la discriminazione ancora molto diffusa nei confronti degli individui TGD.
-Atti di discrimniatori, di intolleranza e violenza nei confronti della popolazione TGD rappresentanto un fenomeno frequente, che impatta in modo importante la salute e la sicurezza di questi individui, con una percentuale di violenza riportata che arriva fino all'80% in alcune indagini[cite:@worldbank_life_2018].
+Queste raccomandazioni non sono pensate esclusivamente per i professionisti sanitari, difatti un intero capitolo è dedicato all'educazione per la popolazione generale, punto fondamentale per combattere contro la discriminazione ancora molto diffusa nei confronti degli individui TGD.\\
+Atti di discriminatori, di intolleranza e violenza nei confronti della popolazione TGD rappresentano un fenomeno frequente, che impatta in modo importante la salute e la sicurezza di questi individui, con una percentuale di violenza riportata che arriva fino all'80% in alcune indagini[cite:@worldbank_life_2018].
 
-Anche per quanto riguarda il personale sanitario, le competenze risultano spesso insufficienti, specialmente nel personale non specializzato [cite:@aldridge_understanding_2022], con una buona percentuale di persone TGD che riportano esplicitamente di evitare per quanto possibile l'utilizzo dei servizi sanitari per paura di essere discriminati o subire maltrattamenti [cite:@lerner_more_2021]. Questo risulta estremamente problematico, andando ad limitare e rendere più difficile l'accesso a terapie importanti di affermazione di genere e rendendo più difficoltosa la gestione di una condizione già intrinsecamente complessa[cite:@giffort_relationship_2016].
+Anche per quanto riguarda il personale sanitario, le competenze risultano spesso insufficienti, specialmente nel personale non specializzato [cite:@aldridge_understanding_2022], con una buona percentuale di persone TGD che riportano esplicitamente di evitare per quanto possibile l'utilizzo dei servizi sanitari per paura di essere discriminati o subire maltrattamenti [cite:@lerner_more_2021]. Questo risulta estremamente problematico, andando a limitare e rendere più difficile l'accesso a terapie importanti di affermazione di genere e rendendo più difficoltosa la gestione di una condizione già intrinsecamente complessa[cite:@giffort_relationship_2016].
 
 
-Gli SOC individuano un diverso approccio all'individuo TGD secondo l'età, esistono infatti linee guida separate per adulti, adolescenti e bambini. \\
-
+Gli SOC individuano un diverso approccio all'individuo TGD secondo l'età, esistono infatti linee guida separate per adulti, adolescenti e bambini.
 # Volendo potrebbe meritare mettere capitolo separati
 
-**** Valutazione adulti: (non penso di dividere i paragrafi davvero era più per organizzarmi)
-\\
-Nell'adulto, il primo compito del professionista sanitario è di effettuare una corretta valutazione della presenza di incongruenza di genere e di identificare altre eventuali problematiche psichiatriche [cite:@coleman_standards_2022].
+***** Adulti
+Nell'adulto, il primo compito del professionista sanitario è di effettuare una corretta valutazione della presenza di incongruenza di genere e di identificare altre eventuali problematiche psichiatriche[cite:@coleman_standards_2022].
 Successivamente è importante informare ed educare l'adulto TGD per quanto riguarda quelli che sono i possibili percorsi di affermazione di genere, sia medici che chirurgici, dato che è stato dimostrato da vari studi come questi abbiano un impatto positivo importante sulla salute mentale nei soggetti TGD[cite:@aldridge_longterm_2021], migliorando la qualità della vita, diminuendo i sintomi di ansia e depressione[cite:@nguyen_gender-affirming_2018] e il rischio suicidario[cite:@green_association_2022].
 
-La decisione di intraprendere un percorso di affermazione di genere è un passo importante per l'individuo TGD ed una decisione che spesso viene presa in collaborazione con un profesionista sanitario [cite:@coleman_standards_2022], anche se in alcuni casi, solamente per le terapie ormonali, vengono utilizzati con successo dei modelli che prediligono la decisione dell'adulto TGD, tipicamente chiamati modelli a "consenso informato"[cite:@deutsch_use_2012][cite:@schulz_informed_2018].
-In ogni caso è fondamentale assicurasi che il soggetto sia in grado di comprendere quali sono rischi e benefici del trattamento per essere in grado di dare il suo consenso [cite:@coleman_standards_2022], escludendo malattie mentali che possono interferire, in particolar modo sintomi di decadimento cognitivo o psicotici[cite:@hostiuc_testing_2018].
-
+La decisione di intraprendere un percorso di affermazione di genere è un passo importante per l'individuo TGD ed una decisione che spesso viene presa in collaborazione con un professionista sanitario [cite:@coleman_standards_2022], anche se in alcuni casi, solamente per le terapie ormonali, vengono utilizzati con successo dei modelli che prediligono la decisione dell'adulto TGD, tipicamente chiamati modelli a "consenso informato"[cite:@deutsch_use_2012;@schulz_informed_2018].\\
+In ogni caso è fondamentale assicurarsi che il soggetto sia in grado di comprendere quali sono rischi e benefici del trattamento per essere in grado di dare il suo consenso[cite:@coleman_standards_2022], escludendo malattie mentali che possono interferire, in particolar modo sintomi di decadimento cognitivo o psicotici[cite:@hostiuc_testing_2018].
 # volendo ho trovato il paragrafo di iniziarla solo quando è grave e che c'è benefici anche del farlo in modo profilattico, però non mi sembra una info particolarmente interessante
 
 Un'altra parte importante del percorso di un individuo TGD è quella di transizione sociale, che può dare grande beneficio al soggetto, migliorandone la salute mentale e la qualità della vita[cite:@coleman_standards_2022].
-Tuttavia, esistono anche circostanze in cui l'individuo non desidera effettuare la transizione sociale per varie motivazioni, solitamente le motivazioni sono una mancanza di supporto familiare[cite:@bradford_experiences_2013] o la paura di essere discriminati e stigmatizzati [cite:@mcdowell_risk_2019].
+Tuttavia, esistono anche circostanze in cui l'individuo non desidera effettuare la transizione sociale per varie motivazioni, solitamente queste comprendono una mancanza di supporto familiare[cite:@bradford_experiences_2013] o la paura di essere discriminati e stigmatizzati[cite:@mcdowell_risk_2019].
 
-**** Valutazione adolescenti
+***** Adolescenti
 La valutazione di un individuo TGD adolescente differisce da quella dell'adulto per alcune caratteristiche intrinseche di questo periodo della vita che devono essere prese in considerazione.
 
-In primo luogo perché l'adolescenza può essere un periodo cruciale per lo sviluppo dell'identità di genere, specialmente per gli individui TGD; infatti si hanno importanti cambimenti nelle proprie relazioni sociali, cambiamenti fisici come conseguenza della pubertà e spesso le prime esperienze relazionali, fattori che possono essere determinanti nel confermare o confutare dei dubbi nella propria identità di genere[cite:@leibowitz_gender_2016].
+In primo luogo perché l'adolescenza può essere un periodo cruciale per lo sviluppo dell'identità di genere, specialmente per gli individui TGD; in questa fase della vita si hanno importanti cambiamenti nelle proprie relazioni sociali, cambiamenti fisici dovuti alla pubertà e spesso le prime esperienze relazionali, fattori che possono essere determinanti nel confermare o confutare dei dubbi sulla propria identità di genere[cite:@leibowitz_gender_2016].
 
-È importante nel soggetto adolescente anche assicurarsi che sia sufficientemente maturo emotivamente e cognitivamente per prendere decisioni importanti riguardo la propria identità di genere o soprattutto per eventuali trattamenti di affermazione di genere.
-# non propriamente citato dal SOC però concetto estrapolato da là se ci vuole una citazione
+È importante nel soggetto adolescente anche assicurarsi che sia sufficientemente maturo emotivamente e cognitivamente per prendere decisioni importanti riguardo la propria identità di genere o soprattutto per eventuali trattamenti di affermazione di genere.\\
 L'adolescenza rappresenta infatti un periodo importante di sviluppo neuro-cognitivo e socio emotivo, in cui vari fattori come le influenze sociali, una minore avversione al rischio ed una sensitività maggiore alle ricompense immediate possono intervenire nei processi decisionali[cite:@grootens-wiegers_medical_2017].
+# non propriamente citato dal SOC però concetto estrapolato da là se ci vuole una citazione
 
 Anche per questo motivo è tipicamente indicato il coinvolgimento di figure genitoriali o di /caregiver/, per affiancare l'adolescente TGD nei propri processi decisionali per quanto riguarda un trattamento di affermazione di genere e per poi accompagnarlo durante questo percorso[cite:@10.1542/peds.2018-2162].
-Il supporto familiare è stato individuato da vari studi come un fattore determinante per il benessere e la salute mentale negli adolescenti TGD[cite:@pariseau_relationship_2019][cite:@grossman_parental_2021].
+Il supporto familiare è stato individuato da vari studi come un fattore determinante per il benessere e la salute mentale negli adolescenti TGD[cite:@pariseau_relationship_2019;@grossman_parental_2021].
 
-L'inizio precoce, in età adolescenziale, di un trattamento ormonale di affermazione di genere, nonostante sia molto dibatutto a livello mediatico(troppo controversial?), è stato valutato positivamente da diversi studi, con percentuali di /regret/ (non sapevo veramente come tradurlo e rimpianto mi sembra orrendo) molto basse tra lo 0 e il 2%
-[cite:@de_vries_young_2014][cite:@smith_sex_2005][cite:@wiepjes_amsterdam_2018].
+L'inizio precoce, in età adolescenziale, di un trattamento ormonale di affermazione di genere, nonostante sia molto dibattuto a livello mediatico, è stato valutato positivamente da diversi studi, con percentuali di /regret/ molto basse tra lo 0 e il 2%[cite:@de_vries_young_2014;@smith_sex_2005;@wiepjes_amsterdam_2018].
+# non so se regret va bene e non so se sia troppo controversial questo discorso
+# also volendo discorso sulla preservazione della fertilità
 
-# volendo discorso sulla preservazione della fertilità
+Esistono anche alcune opzioni di affermazione di genere reversibili e non ormonali che possono diminuire la sofferenza mentale dell'adolescente TGD senza intervenire in maniera troppo invasiva.
+Queste comprendono pratiche come il /genital tucking/ (nascondere i propri genitali esterni maschili spesso utilizzando indumenti intimi specifici con lo scopo di rendere l'apparenza dell'inguine simile a quella femminile), il /genital packing/ (utilizzo di una protesi o imbottitura negli indumenti intimi per simulare la presenza di genitali maschili) e il /chest binding/ (utilizzo di indumenti molto stretti di vario tipo per dare un aspetto piatto al petto e nascondere il seno)[cite:@hodax_gender-affirming_2023;@transcare_binding_2016];
+quest'ultimo presenta comunque diversi possibili effetti negativi di tipo dermatologico e respiratorio, per cui è necessario porre attenzione alla frequenza con cui viene praticato, il metodo utilizzato e l'importanza della restrizione[cite:@peitzmeier_health_2017;@julian_impact_2021].
 
-Esistono anche alcune opzioni di affermazione di genere reversibili e non ormonali che possono diminuire la sofferenza mentale dell'adolescente TGD senza intervenire in maniera troppo invasive.
-Queste comprendono pratiche come il /genital tucking/(nascondere i propri genitali esterni maschili spesso utilizzando indumenti intimi specifici con lo scopo di rendere l'apparenza dell'inguine simile a quella femminile), il /genital packing/(utilizzo di una protesi o imbottirutra negli indumenti intimi per simulare la presenza di genitali maschili) e il /chest binding/(utilizzo di indumenti molto stretti di vario tipo per dare un aspetto piatto al petto e nascondere il seno) [cite:@hodax_gender-affirming_2023][cite:@transcare_binding_2016];
-quest'ultimo presenta comunque diversi possibili effetti negativi di tipo dermatologico e respiratorio, per cui è necessario porre attenzione alla frequenza con cui viene praticato, il metodo utilizzato e l'importanza della restrizione[cite:@peitzmeier_health_2017][cite:@julian_impact_2021].
+***** Bambini
 
-
-**** Bambini
-
-La valutazione di bambini in età prepuberale è diversa dato che in questo periodo l'identità di genere dell'individuo è ancora in fase di sviluppo, quindi non si può interpretare ogni manifestazione di diversità di genere come una vera e propria identità transgender, questa infatti nell'infanzia è da considerarsi parte normale dello sviluppo e dell'esplorazione della propria identità di genere[cite:@ehrensaft_prepubertal_2018].
+La valutazione di bambini in età prepuberale è diversa dato che in questo periodo l'identità di genere dell'individuo è ancora in fase di sviluppo, per cui non si può interpretare ogni manifestazione di diversità di genere come una vera e propria identità transgender, durante l'infanzia queste possono essere considerate parte normale dello sviluppo e dell'esplorazione della propria identità di genere[cite:@ehrensaft_prepubertal_2018].\\
 Tuttavia, sono presenti anche bambini TGD che riconoscono la propria identità di genere come diversa dal sesso assegnato in maniera più definita già in età molto preococe e solo pochi di questi desidrano riassumere un'identità /cisgender/, anche a distanza di diversi anni[cite:@olson_gender_2022].
 
-Considerando questo i trattamenti ormonali o chirurgici di affermazione di genere sono tipicamente sconsigliati nel bambino, in favore di un approccio che favorisca invece la creazione di un ambiente sicuro in cui il bambino si senta libero di esprimersi e sperimentare con la propria identità di genere, supportato dalla famiglia e se necessario da un supporto psicologico adeguato. [cite:@telfer_australian_2018]
+Considerando questo, i trattamenti ormonali o chirurgici di affermazione di genere sono tipicamente sconsigliati nel bambino, a favore di un approccio che favorisca invece la creazione di un ambiente sicuro, in cui il bambino si senta libero di esprimersi e sperimentare con la propria identità di genere, supportato dalla famiglia e se necessario da un supporto psicologico adeguato[cite:@telfer_australian_2018].
 
 
 *** Percorsi terapeutici di affermazione di genere
@@ -367,52 +408,64 @@ I percorsi di affermazione di genere sono terapie mediche e/o chirurgiche che l'
 La terapia medica ormonale comprende due approcci, la terapia di soppressione della pubertà con analoghi dell'ormone di rilascio delle gonadotropine(GnRHa), utilizzato negli individui prepuberi e la terapia ormonale di affermazione di genere(GAHT), utilizzata in adolescenti e adulti.
 
 ***** Analoghi del GnRH - Soppressione della pubertà
-Gli agonisti del GnRH agiscono a livello ipofisario andando a stimolare i normali recettori del GnRH che, in risposta ad una stimulazione continua, vengono inibiti nel rilascio di FSH e LH, determinando quindi un ipogonadismo ipogonadotropo[cite:@trevor_pharma_2015].
+Gli agonisti del GnRH agiscono a livello ipofisario andando a stimolare i normali recettori del GnRH che, in risposta ad una stimolazione continua, vengono inibiti nel rilascio di FSH e LH, determinando un ipogonadismo ipogonadotropo[cite:@trevor_pharma_2015].
 \\
-Lo scopo degli analoghi del GnRH è quello di interrompere lo sviluppo puberale dei caratteri sessuali secondari, questo viene fatto per dare all'individuo tempo ulteriore per sviluppare ed esplorare la propria identità di genere liberamente, prevenendo i cambiamenti della pubertà che sarebero fortemente a favore un'identità cisgender e mantenendo così aperte più opzioni[cite:@ashley_thinking_2019].
+Lo scopo degli analoghi del GnRH è quello di interrompere lo sviluppo puberale dei caratteri sessuali secondari, questo viene fatto per dare all'individuo tempo ulteriore per sviluppare ed esplorare la propria identità di genere liberamente, prevenendo i cambiamenti della pubertà che sarebero fortemente a favore un'identità cisgender e mantenendo così aperte più opzioni[cite:@ashley_thinking_2019].\\
 Questo trattamento ha anche un ruolo terapeutico importante, andando a diminuire fortemente il grosso stress psicologico che i cambiamenti del corpo durante la pubertà generano nei ragazzi TGD[cite:@de_vries_puberty_2011]; secondo uno studio recente avere accesso a questi trattamenti, per gli individui che lo desiderano, potrebbe diminuire anche il rischio di ideazione suicidaria [cite:@turban_pubertal_2020].
 \\
-Attualmente in Italia l'unico farmaco approvato per questo scopo è la Triptorelina, autorizzata dall'AIFA nel 2019 e somministrata per via intramuscolare ogni 28 giorni [cite:@aifa_gazzetta_2019].
-Per poter iniziare la terapia viene indicato di aspettare lo stadio 2 di Tanner, ovvero i primi cambiamenti fisici puberali, questo viene suggerito perché la reazione dell'individuo alla loro presentazione ha valore diagnostico per valutare la persistenza di una disforia o incongruenza di genere[cite:@hembree_endocrine_2017].
-Solitamente la terapia inizia quindi tra gli 11 e 15 anni e continua fino ai 16 anni, età alla quale solitamente questi individui iniziano una GAHT[cite:@calcaterra_adolescent_2024].
-Nonostante una percentuale molto alta di adolescenti TGD trattati con GnRHa poi decidano di intraprendere la GAHT(fino al 95-98%),  è stato dimostrato che non c'è associazione tra le due, confutando la preoccupazione che la terpia con GnRHa rappresenti una decisione anticipata di iniziare una terapia di affermazione di genere, prima che si sia completato lo sviluppo cognitivo e quindi sia prossibile esprimere il consenso[cite:@nos_association_2022].
+Attualmente in Italia l'unico farmaco approvato per questo scopo è la Triptorelina, autorizzata dall'AIFA nel 2019 e somministrata per via intramuscolare ogni 28 giorni[cite:@aifa_gazzetta_2019].\\
+Per poter iniziare la terapia viene indicato di aspettare lo stadio 2 di Tanner, ovvero i primi cambiamenti fisici puberali, questo viene suggerito perché la reazione dell'individuo alla loro presentazione ha valore diagnostico per valutare la persistenza di una disforia o incongruenza di genere[cite:@hembree_endocrine_2017].\\
+Solitamente la terapia inizia quindi tra gli 11 e 15 anni e continua fino ai 16 anni, età alla quale solitamente questi individui iniziano una GAHT[cite:@calcaterra_adolescent_2024].\\
+Nonostante una percentuale molto alta di adolescenti TGD trattati con GnRHa poi decidano di intraprendere la GAHT(fino al 95-98%),  è stato dimostrato che non c'è associazione tra le due, confutando la preoccupazione che la terapia con GnRHa rappresenti una decisione anticipata di iniziare una terapia di affermazione di genere, prima che si sia completato lo sviluppo cognitivo e quindi sia possibile esprimere il consenso[cite:@nos_association_2022].
 \\
-Gli effetti collaterali associati a questi farmaci comprendo soprattutto problematiche di mineralizzazione ossea anche se i dati riguardo l'utilizzo nella popolazione adolescente TGD sono scarsi.
+Gli effetti collaterali associati a questi farmaci comprendono soprattutto problematiche di mineralizzazione ossea, anche se i dati riguardo l'utilizzo nella popolazione adolescente TGD sono scarsi.
 Durante il trattamento viene indicato di monitorare quindi i parametri auxologici di crescita e la salute ossea, vengono misurati anche i valori ormonali, per valutare l'efficacia della terapia e la pressione arteriosa, data la presenza di qualche caso di ipertensione riportato in letteratura[cite:@hembree_endocrine_2017].
 
 
 
 ***** Terapia Ormonale di Affermazione di Genere - GAHT
-La terapia ormonale di affermazione di genere viene utilizzata in adulti e adolescenti a partire dai 16 anni e può essere femminilizzante o mascolinizzante.
+La terapia ormonale di affermazione di genere viene utilizzata in adulti e adolescenti a partire dai 16 anni e può essere femminilizzante o mascolinizzante, viene spesso indicata anche con il termine CHT(/Cross-sex Hormone Therapy/).
 
-Ha due scopi principali ovvero ridurre i livelli endogeni degli ormoni sessuali, diminuendo così i caratteri sessuali del sesso biologico e allo stesso tempo sostituire con ormoni esogeni, in modo da garantire una concentrazione sufficente di ormoni che corrispondano a quelli del genere scelto[cite:@hembree_endocrine_2017].
+Ha due scopi principali ovvero ridurre i livelli endogeni degli ormoni sessuali, diminuendo così i caratteri sessuali del sesso biologico e allo stesso tempo sostituire con ormoni esogeni, in modo da garantire una concentrazione sufficente di ormoni che corrispondano a quelli del genere scelto[cite:@hembree_endocrine_2017]. \\
 La terapia, come dimostrato da diversi studi, ha effetti positivi sul benessere mentale, migliorando i sintomi di disforia di genere come ansia e stress e diminuendo le comorbidità psichiatriche[cite:@costa_effect_2016].
 \\
-Dopo l'inizio della terapia devono essere monitorati nel tempo i cambiamenti corporei e psicologici ed eventuali effetti collaterali, devono essere effettuati anche dosaggi sierici degli ormoni sessuali, il target rimane quello di ottenere livelli corrispondenti all'identità di genere scelta dall'individuo. Queste valutazioni vengono fatte tipicamente ogni 3 mesi nel primo anno di terapia, ma le raccomandazioni sono di essere flessibili, dato che non esiste chiara evidenza per quanto riguarda questi intervalli e che dovrebbero piuttosto essere adattati al singolo individuo[cite:@coleman_standards_2022].
+Dopo l'inizio della terapia devono essere monitorati nel tempo i cambiamenti corporei e psicologici ed eventuali effetti collaterali, devono essere effettuati anche dosaggi sierici degli ormoni sessuali, il cui target rimane quello di ottenere livelli corrispondenti all'identità di genere scelta dall'individuo. Queste valutazioni vengono fatte tipicamente ogni 3 mesi nel primo anno di terapia, ma le raccomandazioni sono di essere flessibili, dato che non esiste chiara evidenza per quanto riguarda questi intervalli e che dovrebbero piuttosto essere adattati al singolo individuo[cite:@coleman_standards_2022].
 
 # devo anche mettere da qualche parte gli effetti collaterali, ho stretti nelle varie terapie o farci un paragrafo a parte un po'a filler
 
 
 - *Terapia Femminilizzante* \\
   La terapia femminilizzante ha lo scopo di portare allo sviluppo di caratteristiche sessuali femminili, che comprendono quindi la crescita del seno, una diminuzione della massa muscolare e redistribuzione del grasso corporeo ai fianchi.
-  Allo stesso tempo vengono soppresse le caratteristiche sessuali maschili con una diminuzione delle erezioni spontanee, diminuzione del volume testicolare e diminuzione della peluria, non si hanno tuttavia cambiamenti nel tono della voce che se desiderati necessitano un intervento chirurgico o un allenamento specifico [cite:@sudhakar_feminizing_2023]. \\
+  Allo stesso tempo vengono soppresse le caratteristiche sessuali maschili con una diminuzione delle erezioni spontanee, diminuzione del volume testicolare e diminuzione della peluria, non si hanno tuttavia cambiamenti nel tono della voce che se desiderati necessitano un intervento chirurgico o un allenamento specifico[cite:@sudhakar_feminizing_2023].
 
-  Gli schemi tearpaeutici ottimali tipicamente comprendono un estrogeno in combinazione con un bloccante degli androgeni, utilizato per per ridurre i livelli endogeni di testosterone .
-  La terpia estrogenica è solitamente con 17-β estradiolo, amministrato per via orale, transdermica o parenterale, altre forme di estrogeni come l'etinilestradiolo non sono più indicate, dato che portano ad un rischio più alto di complicanze tromboemboliche [cite:@asscheman_venous_2014][cite:@sudhakar_feminizing_2023].2
-  La terapia estrogenica in sé determina già una soppressione della produzione di androgeni, tuttavia una terapia antiandrogenica specifica viene spesso associata per diminuire ulteriormente i livelli di testosterone e sopprimere in maniera più efficace le caratteristiche sessuali maschili.
+  Gli schemi terapeutici ottimali tipicamente comprendono un estrogeno in combinazione con un bloccante degli androgeni, utilizzato per per ridurre i livelli endogeni di testosterone.
+
+  La terapia estrogenica è solitamente con 17-β estradiolo, amministrato per via orale, transdermica o parenterale, altre forme di estrogeni come l'etinilestradiolo non sono più indicate, dato che portano ad un rischio più alto di complicanze tromboemboliche[cite:@asscheman_venous_2014;@sudhakar_feminizing_2023].
+
+  La terapia estrogenica in sé determina già una soppressione della produzione di androgeni, tuttavia una terapia antiandrogenica specifica viene spesso associata per diminuire ulteriormente i livelli di testosterone e sopprimere in maniera più efficace le caratteristiche sessuali maschili.\\
   I farmaci utilizzati sono diversi e le preferenze variano nel mondo, spesso secondo quelli che sono i farmaci più facilmente accessibili e meno costosi, negli Stati Uniti viene utilizzato lo spironolattone, in Europa è più comune il ciproterone acetato (CPA) mentre nel Regno Unito sono più usati gli agonisti del GnRH, ancora non esiste evidenza che deponga nettamente a favore di uno o dell'altro[cite:@angus_systematic_2021].
 
+  Gli effetti collaterali principali della CHT femminilizzante sembrano essere moderati, ma si tratta di una campo che necessita ulteriore ricerca per definire meglio i rischi specialmente per ottimizzare la terapia durante la vita dell'individuo TGD[cite:@sudhakar_feminizing_2023].
 
+  Per quanto riguarda la terapia con estrogeni i rischi principali sembrano essere correlati a malattie cardiovascolari e tromboembolismo venoso.
+  Vari studi dimostrano una maggiore incidenza di episodi di infarto del miocardio e di malattie cardiovascolari nella popolazione TGD rispetto a quella cisgender[cite:@caceres_assessing_2020; @alzahrani_cardiovascular_2019], inoltre la terapia con estrogeni potrebbe causare un aumento nella concentrazione sierica di trigliceridi[cite:@maraka_transgender_2017].\\
+  L'aumento del rischio tromboembolico determinato dalla terapia con estrogeni è conosciuto anche nella popolazione cisgender, dato il loro utilizzo come contraccettivi orali o per la terapia ormonale sostituiva, nella popolazione TGD questo rischio sembra essere maggiore, nonostante il paragone sia difficile per la presenza diversi fattori di rischio[cite:@sudhakar_feminizing_2023]. La via di somministrazione scelta per il trattamento con estrogeni sembra essere un fattore importante per diminuire il rischio di eventi tromboembolici, con un rischio minore associato alla via transdermica[cite:@zucker_minimizing_2021].\\
+  # volendo proprio aggiungere c'è il discorso dei meningiomi con il CPA, però boh c'è pochissima evidenza in letteratura
 
 
 - *Terapia Mascolinizzante* \\
-  Gli obiettivi della terapia mascolinizzante comprendono lo sviluppo di caratteristiche sessuali tipicamente maschili come l'abbassamento del tono della voce, l'aumento della peluria specialmente sul volto e soppressione dei caratteri femminili, in particolare l'induzione dell'amenorrea[cite:@gooren_long-term_2008][cite:@hembree_endocrine_2017].
-  Il trattamento è basato sulla somministrazione di androgeni con l'obiettivo di ottenere una concentrazione ematica di testosterone che rientri nel normale range maschile (320-1000ng/dl)[cite:@meriggiola_endocrine_2015].
+  Gli obiettivi della terapia mascolinizzante comprendono lo sviluppo di caratteristiche sessuali tipicamente maschili come l'abbassamento del tono della voce, l'aumento della peluria specialmente sul volto e soppressione dei caratteri femminili, in particolare l'induzione dell'amenorrea[cite:@gooren_long-term_2008;@hembree_endocrine_2017].
+
+  Il trattamento è basato sulla somministrazione di androgeni con l'obiettivo di ottenere una concentrazione ematica di testosterone che rientri nel normale range maschile (320-1000ng/dl)[cite:@meriggiola_endocrine_2015].\\
   La somministrazione avviene tipicamente per via topica attraverso gel, creme o cerotti, oppure per iniezione intramuscolo, il dosaggio viene aggiustato sulla base del dosaggio ematico[cite:@shumer_advances_2016].
 
+  Anche per quanto riguarda la CHT con testosterone questa sembra essere sufficientemente sicura, con un numero limitato di effetti collaterali[cite:@meriggiola_endocrine_2015].
+  Questi comprendono l'aumento dell'ematocrito, con potenziale eritrocitosi, i cui effetti clinici in questo contesto sono ancora poco chiari[cite:@antun_longitudinal_2020] e un'alterazione del profilo lipidico con potenziale effetto sul rischio cardiovascolare ancora poco chiaro[cite:@gooren_long-term_2008].
 
 **** Terapia Chirurgica - GAS
-La terapia chirurgica di affermazione di genere comprende un insieme di procedure utilizzate per rendere il corpo di un individuo TGD più in sintonia con la propria identità di genere. Tra queste ci sono operazioni chiamate "top surgery" tipicamente la mastectomia, ma usato anche per indicare operazioni di aumento del seno, di "bottom surgery", ovvero operazioni ai genitali che comprendono vaginoplastica, falloplastica e metaidioplastica, alle quali si aggiungono anche possibili operazioni di gonadectomia, quindi orchiectomia e ovariectomia, negli ultimi anni stanno ricevendo molta attenzione anche operazioni di chirurgia facciale e delle corde vocali[cite:@coleman_standards_2022].
+La terapia chirurgica di affermazione di genere comprende un insieme di procedure utilizzate per rendere il corpo di un individuo TGD più in sintonia con la propria identità di genere. \\
+Tra queste sono presenti diversi tipi di operazioni, comprendono interventi di "top surgery", tipicamente la mastectomia, ma usato anche per indicare operazioni di aumento del seno, di "bottom surgery", ovvero operazioni ai genitali che comprendono vaginoplastica, falloplastica e metoidioplastica, alle quali si aggiungono anche possibili operazioni di gonadectomia, quindi orchiectomia e ovariectomia, negli ultimi anni stanno ricevendo molta attenzione anche operazioni di chirurgia facciale e delle corde vocali[cite:@coleman_standards_2022].
+
 La richiesta di interventi chirurgici di affermazione di genere è aumentata molto negli ultimi anni, la richiesta maggiore riguarda le operazioni di "top surgery", più comuni nella popolazione più giovane, mentre le operazioni di chirurgia genitale sono meno frequenti e più comuni sopra l'età di 40 anni[cite:@wright_national_2023].
 
 
@@ -420,21 +473,508 @@ La richiesta di interventi chirurgici di affermazione di genere è aumentata mol
 
 
 
-** Parte II - Bioimpedenziometria
-La bioimpedenziometria o BIA(abbreviazione di bioelectrical impedence analysis), è una metodica molto utilizzata per valutare la composizione corporea. I suoi vantaggi sono dati dalla possibilità di ottenere questi dati in maniera rapida, non invasiva e facilmente ripetibile[cite:@jackson_body_2013][cite:@ward_bioelectrical_2019].
+*** Percezione del proprio corpo e insoddisfazione corporea
+# intro su percezione corporea?
 
-*** Funzionamento
-La bioimpedenziometria si basa sull'amministrazione di una debole corrente elettrica alternata ad una o più radiofrequenze attraverso elettrodi superficiali, con l'obbiettivo di valutare la conduzione attraverso tessuti e fluidi corporei.
-Questa corrente si muove a velocità diversa a seconda della composizione del corpo, è ben condotta dall'acqua e da tessuti ricchi di elettroliti come il sangue e i muscoli, mentre è condotta peggio da tessuto adiposo, osseo e aria.
-Gli elettrodi registrano quindi la diminuzione del voltaggio mentre la corrente passa attraverso il corpo e vengono quindi registrati i dati di impedenza dal dispositivo[cite:@mulasi_bioimpedance_2015].
+L'insoddisfazione nei confronti del proprio corpo è una tema centrale nei problemi correlati all'incongruenza di genere, essendo frequentemente causa di sofferenza e insoddisfazione per gli individui TGD[cite:@jones_body_2016].
+Questo disagio è tipicamente maggiore per quelle che sono le caratteristiche fisiche tipiche del sesso biologico assegnato e che quindi si trovano in forte dissonanza con quelle desiderate del genere scelto, tuttavia, è interessante notare che spesso l'insoddisfazione si estende anche a caratteristiche corporee che possono essere considerate neutre[cite:@becker_body_2016].
+
+Questo disagio nei confronti del proprio corpo va spesso a ripercuotersi su quelli che sono i comportamenti alimentari del soggetto, frequentemente il cibo diventa un modo per cercare di ottenere una aspetto corporeo più simile a quello del genere desiderato. Negli AMAB mangiare meno può essere un tentativo di ottenere una figura più snella e tipicamente femminile, negli AFAB invece ci può essere il desiderio di diminuire la dimensione dei fianchi o del seno o di indurre amenorrea[cite:@algars_disordered_2012].\\
+Vari studi mettono in evidenza come la prevalenza di disturbi dell'alimentazione e di comportamenti alimentari problematici sia più frequente nella popolazione TGD rispetto a quella generale cisgender, andando a costituire una delle più importanti comorbidità psichiatriche in questi individui[cite:@rasmussen_eating_2023].
+
+Le problematiche di immagine corporea sono anche strettamente correlate allo standard di corporatura che viene promosso a livello sociale, che incoraggia una corporatura muscolare e atletica per gli uomini mentre favorisce un corpo estremamente magro per le donne. Questi hanno effetti importanti sulla popolazione cisgender e si pensa che possano intervenire sulla popolazione TGD, che internalizzano questi ideali di immagine corporea in maniera analoga agli individui cisgender[cite:@witcomb_body_2015].
+
+Diversi studi si concentrano anche sull'impatto della terapia ormonale nella diminuzione del disagio corporeo, l'ipotesi è che avvicinando di più il corpo del soggetto a quello desiderato il disagio corporeo vada a diminuire[cite:@fisher_cross-sex_2014].
+Viene suggerita anche l'importanza di avere un approccio che prenda anche in considerazione l'aspetto psicologico e sociale dell'immagine corporea, cercando di lavorare sui processi negativi che riguardano il corpo, ad esempio reinquadrando ció che non può essere cambiato[cite:@jones_body_2016].
+
+
+** Bioimpedenziometria
+La bioimpedenziometria o BIA (abbreviazione di /bioelectrical impedence analysis/), è una metodica molto utilizzata per valutare la composizione corporea. I suoi vantaggi sono dati dalla possibilità di ottenere questi dati in maniera rapida, non invasiva e facilmente ripetibile[cite:@jackson_body_2013;@ward_bioelectrical_2019].
+
+*** Funzionamento fisiologico
+La bioimpedenziometria si basa sull'amministrazione di una debole corrente elettrica alternata ad una o più radiofrequenze attraverso elettrodi superficiali, con l'obiettivo di valutare la conduzione attraverso tessuti e fluidi corporei.\\
+Questa corrente si muove a velocità diversa a seconda della composizione del corpo, è ben condotta dall'acqua e da tessuti ricchi di elettroliti come il sangue e i muscoli, mentre è condotta peggio da tessuto adiposo, tessuto osseo e aria.\\
+Gli elettrodi registrano quindi la diminuzione del voltaggio mentre la corrente passa attraverso il corpo e sulla base di questo il dispositivo registra e calcola i valori di impedenza[cite:@mulasi_bioimpedance_2015].
+
+A livello fisico questo principio si basa sulla formula matematica:
+
+\begin{equation}
+Volume = \rho\frac{L^2}{R}
+\end{equation}
+
+in cui
+- *ρ* è la specifica resistenza del materiale, in questo caso quindi dei vari tessuti corporei, il cui valore viene ottenuto da studi di calibrazione che utilizzano il volume di TBW misurato con altre metodiche.
+- *L* è la lunghezza del conduttore, ovvero il corpo, che in questo caso viene approssimato ad un cilindro omogeneo.
+- *R* è la resistenza misurata nel corpo secondo la legge di Ohm ovvero \begin{equation} R = \frac{E}{I} \end{equation} in cui E è il voltaggio e I è la corrente
+
+Con questa formula quindi è possibile ottenere una stima del volume del conduttore, ovvero l'acqua corporea, misurando la resistenza del corpo e conoscendone la lunghezza[cite:@ward_bioimpedance_2023].
+
+Nei tessuti corporei la situazione è più complessa, infatti la capacità del tessuto di opporsi al passaggio di una corrente viene definita /impedenza/ (Z), questa è una grandezza vettoriale determinata dalla somma di due componenti che sono la /resistenza/ (R) e la /reattanza/ (Xc), secondo la formula:
+\begin{equation}
+Z^2 = R^2 + Xc^2
+\end{equation}
+
+La resistenza rappresenta come spiegato prima la misura dell'opposizione al flusso di corrente mentre passa attraverso il corpo.
+La reattanza invece rappresenta concettualmente il rallentamento delle cariche elettriche che passano attraverso le membrane cellulari e le interfacce tissutali, è il reciproco della capacità e deriva dal fatto che le membrane cellulari abbiano caratteristiche simili ad un condensatore[cite:@mulasi_bioimpedance_2015;@lukaski_biological_1996;@kyle_bioelectrical_2004].
+
+L'angolo che si forma nella somma di queste due componenti, ponendo la resistenza sulle ascisse e la reattanza sulle ordinate è chiamato /angolo di fase/, questo si forma per differenza di fase tra la corrente e il voltaggio che si crea come conseguenza del comportamento delle membrane cellulari come conduttori, che accumulando l'energia elettrica causano un rallentamento del flusso di corrente. L'angolo di fase viene quantificato come la trasformazione angolare del rapporto tra resistenza e reattanza e viene espresso in gradi: PhA = arctan(Xc/R)(180°/π)[cite:@lukaski_evolution_2013;@akamatsu_phase_2022].
+# inserire immaginina maybe a lato quando capisco come fare
+[[./img/phaseAngle.png]]
+
+Si pensa che l'angolo di fase possa essere usato come misura indiretta della distribuzione dell'acqua tra compartimenti extracellulare e intracellulare e anche della BCM, per cui un angolo di fase maggiore potrebbe suggerire migliore funzionalità e integrità cellulare[cite:@di_vincenzo_bioelectrical_2021].
+
+*** Compartimenti Corporei
+I compartimenti stimati utilizzando la bioimpedenziometria comprendono
+
+- \textbf{Fat Free Mass}(FFM) e \textbf{Fat Mass}(FM)\\
+  Secondo il modello a due compartimenti il corpo viene diviso in FM e FFM.
+  La FFM tipicamente comprende il contenuto minerale osseo(~7%), l'acqua extracellulare(~29%) e intracellulare(~44%) e le proteine viscerali(~20%).
+  Viene stimata basandosi sulla misurazione del volume di fluidi corporei utilizzando i valori di resistenza misurati[cite:@marra_assessment_2019].\\
+  La FM invece è difficile da misurare direttamente e nella bioimpedenziometria è solitamente calcolata per differenza, sottraendo la FFM al peso totale[cite:@ellis_selected_2001].
+
+- \textbf{Acqua Corporea Totale}(TBW), \textbf{Extracellulare}(ECW) e \textbf{Intracellulare}(ICW)\\
+  La TBW(/total body water/) è la stima dell'acqua totale nell'organismo, l'accuratezza dipende molto dallo stato di idratazione del soggetto, motivo per cui in situazioni di ipo o iper idratazione spesso la BIA non dà risultati affidabili[cite:@kyle_bioelectrical_2004].\\
+  L'acqua intra ed extracellulare possono essere stimate basandosi sulla loro differente composizione a livello di ioni ed elettroliti, utilizzando diverse frequenze elettriche e valutando il loro rapporto con la TBW[cite:@moonen_bioelectric_2021].
+
+- \textbf{Body Cell Mass}(BCM)\\
+  La BCM è composta dalla FFM senza la componente ossea e di acqua extracellulare, viene considerata la parte metabolicamente attiva della massa corporea e solitamente viene considerata quella più importante da monitorare per valutare un intervento nutrizionale[cite:@cimmino_bioelectrical_2023].
+
 
 * Obiettivi
+Gli obiettivi dello studio sono di valutare la presenza di correlazioni tra composizione corporea e psicopatologia nella popolazione TGD, andando a valutare la presenza di similitudini e differenze tra soggetti AMAB e AFAB ed il potenziale impatto della terapia ormonale.\\
+Lo studio si basa sulla teoria che l'immagine corporea e la visione del proprio corpo siano fattori importanti nel determinare la sofferenza mentale che caratterizza la condizione di disforia di genere[cite:@bandini_gender_2013], di conseguenza l'ipotesi che i miglioramenti in queste due aree possano essere in qualche modo correlati.
+
+
+
+Questo è stato valutato sia in maniera trasversale, andando ad analizzare i dati nutrizionali e psicometrici nel campione e valutando le differenze tra AMAB e AFAB e tra quelli che fanno e non fanno CHT, ma anche in maniera longitudinale, andando a valutare negli stessi soggetti le differenza tra prima e dopo l'inizio della terapia ormonale.
+
+Caratteristica innovativa dello studio è l'utilizzo della bioimpedenziometria, questo è stato fatto con lo scopo di indagare la possibile presenza di un parametro nutrizionale specifico che possa correlare con i cambiamenti psicopatologici.
+
 
 * Materiali e Metodi
+** Popolazione in esame
+Lo studio è stato svolto in una popolazione di 31 individui valutati presso l'ambulatorio di incongruenza di genere dell'AOU Careggi.
+Tra questi 16 individui erano AFAB, di cui 8 in trattamento con GAHT e 8 non in trattamento e 15 erano AMAB, di cui 9 in trattamento con GAHT e 6 non in trattamento.
+
+I criteri di inclusione comprendevano:
+- Età maggiore di 16 anni;
+- Diagnosi di disforia di genere secondo i criteri del DSM-5-TR accertata da almeno due esperti;
+- Firma del consenso informato.
+
+I criteri di esclusione invece erano:
+- Diagnosi di disabilità intellettiva;
+- Incapacità nel fornire consenso informato;
+- Analfabetismo, grave dislessia, barriera linguistica;
+- Diagnosi di disturbi neuropsichiatrici.
+
+
+** Procedure e strumenti utilizzati
+I pazienti sono stati valutati inizialmente in visita psichiatrica, durante la quale sono stati anche somministrati i test psicometrici.\\
+Successivamente, per color che rispondevano ad i criteri di inclusione, è stata effettuata una valutazione dietetica, durante la quale sono stati raccolti i dati nutrizionali ed è stata effettuata la valutazione bioimpedenziometrica.
+
+*** Scale psicometriche
+***** Identity and Eating Disorders Assessment - IDEA [cite:@stanghellini_identity_2012]
+Il questionario IDEA è uno strumento di valutazione clinica multidimensionale ideato per investigare le anormalità nel vissuto del corpo e dell'identità personale.
+È composto da 23 item che indagano 4 aree principali rappresentate dalle seguenti sottoscale:
+1. Sottoscala *GEO* che contiene 9 item che fanno riferimento alla percezione di se stesso attraverso lo sguardo altrui (/gaze of the other/) e definire se stessi secondo la valutazione dell'altro (/evaluation of the other/)
+2. Sottoscala *OM* che contiene 5 item che valutano il misurare se stesso secondo misure oggettive (/objective measures/)
+3. Sottoscala *EB* con 5 item che considerano il sentirsi estraneo al proprio corpo (/extraneous from one's own body/)
+4. Sottoscala *S* con 4 item che valutano il percepire se stessi attraverso il digiuno (/starvation/)
+
+Per ogni item il paziente darà un punteggio tra 0, "per niente d'accordo" e 4, "molto d'accordo".
+Lo score totale IDEA è dato dalla media della somma di tutti gli item, un punteggio più alto indica una maggiore anormalità nella percezione del proprio corpo e difficoltà nella definizione della propria identità.
+
+
+***** Multidimensional Assessment of Interoceptive Awareness - MAIA[cite:@mehling_multidimensional_2012;@mehling_multidimensional_2018;@cali_investigating_2015]
+Il \textit{Multidimensional Assessment of Interoceptive Awareness}(MAIA) è un questionario autovalutativo che misura più dimensioni della propria interocezione, composto da 32 item.
+Il punteggio per ogni item è valutato secondo quanto spesso ogni frase si applica alla vita quotidiana dell'individuo e va da 0 ("mai") a 5 ("sempre").
+
+Gli item sono divisi in 8 sottoscale:
+1. Sottoscala *noticing* che valuta l'autoconsapevolezza delle proprie sensazioni corporee, che siano positive, negative o neutre.
+2. Sottoscala *not distracting* che valuta la tendenza a non ignorare o cercare distrazione dalle sensazioni di dolore o disagio.
+3. Sottoscala *not worrying* che valuta la tendenza a non avere sensazioni emotive di preoccupazione o sofferenza come risposta a sensazioni di dolore o disagio.
+4. Sottoscala *attention regulation* che valuta la capacità di mantenere e controllare l'attenzione alle sensazioni corporee.
+5. Sottoscala *emotional awareness* che valuta la capacità di riconoscere i collegamenti tra sensazioni corporee e stati emotivi.
+6. Sottoscala *self-regulation* che valuta la capacità di regolare il disagio psicologico attraverso l'attenzione alle sensazioni corporee.
+7. Sottoscala *body listening* che valuta la capacità di ascoltare attivamente il proprio corpo per ottenere informazioni.
+8. Sottoscala *trusting* che valuta l'avere esperienza del proprio corpo come sicuro e affidabile.
+
+Queste otto sottoscale valutano la consapevolezza corporea secondo un framework multidimensionale che comprende 5 macrocategorie:
+1. Consapevolazza delle sensazioni corpore, indagato dalla sottoscala /noticing/.
+2. Reazioni emotive e risposta attenzionale alle sensazioni, comprende le sottoscale /not distracting/ e /not worrying/
+3. Capacità di regolare l'attenzione e capacità di rimanere concentrati in presenza di numerosi stimoli sensoriali che competono per l'attenzione, indagato dalla sottoscala /attention regulation/
+4. Consapevolezza dell'integrazione mente-corpo e accesso a livelli più sviluppati di consapevolezza corporea, valutato dalle sotto scale /emotional awareness/, /self-regulation/ e /body listening/.
+5. Fiducia nelle sensazioni corporee, indagato dalla scala /trusting/.
+
+
+***** Brief Symptom Inventory - BSI[cite:@derogatis_brief_1983]
+Il \textit{Brief Symptom Inventory}(BSI) è una scala breve autoriporatata per la valutazione dei sintomi psicologici, è stato sviluppato a partire dalla SCL-90-R(\textit{Symptom Checklist-90-Revised}) con l'obiettivo di ottenerne una versione alternativa più breve ma comunque valida.
+
+La scala comprende 53 item selezionati per meglio riflettere le 9 principali dimensioni sintomatologiche indagate dalla SCL-90-R in forma breve, queste comprendono:
+1. \textbf{Somatizzazione}(SOM): riflette il disagio psicologico derivante dalla percezione di una disfunzione corporea.
+2. \textbf{Ossessione-Compulsione}(O-C): pensieri e azioni percepiti come irresistibili e incessanti, ma riconosciuti come non voluti o ego-distonici.
+3. \textbf{Sensitività interpersonale}(I-S): sensazioni di inadeguatezza e inferiorità.
+4. \textbf{Depressione}(DEP): segni e sintomi delle sindromi depressive, comprendono umore basso, perdita di interesse nelle attività quotidiane, basse energie e altro.
+5. \textbf{Ansia}(ANX): sintomi associati a manifestazioni di forte ansia come irrequietezza, tensione, etc...
+6. \textbf{Ostilità}(HOS): pensieri, sentimenti e azioni ostili.
+7. \textbf{Ansia fobica}(PHOB): paura fobica nei confronti di uno stimolo preciso.
+8. \textbf{Ideazione paranoide}(PAR): comportamento e modalità di pensiero paranoide con ostilità e sospetto.
+9. \textbf{Psicoticismo}(PSY): sintomi psicotici con vario spettro di gravità.
+
+Sono presenti inoltre 4 item che non correlati a nessuna delle principali classi di sintomi.
+Per ogni item si ha una valutazione di disagio che va da 0 ("nessuno") a 4 ("estremo").
+
+L'insieme dei valori nelle varie sottoscale va a definire un unico valore di misura generale di disagio chiamato \textit{Global Severity Index}(GSI)[cite:@endermann_brief_2005].
+
+
+***** Childhood Truma Questionnaire - CTQ [cite:@noauthor_initial_1994; @innamorati_factorial_2016; @bernstein_development_2003]
+Il CTQ è un questionario autosomministrato che valuta in maniera retrospettiva la presenza di abuso e neglect durante l'infanzia.\\
+Inizialmente formulato con 70 item è attualmente più spesso utilizzato nella sua forma abbreviata(CTQ-SF) da 28 item.
+
+Per ogni item il punteggio si basa su quanto spesso il soggetto ha avuto una determinata esperienza duranta la propria infanzia, in un range che va da 0 ("mai vero") a 5 ("sempre vero").
+
+Tipicamente nel CTQ vengono individuate 5 sottoscale cliniche corrispondenti ai diversi tipi di abuso che possono presentarsi, ovvero abuso fisico, emotivo o sessuale e negelct fisico o emotivo; inoltre ci sono 3 item inclusi in una scala di minimizzazione/negazione, sviluppata per riconoscere la sottosegnalazione del maltrattamento.
+
+***** Difficulties in Emotion Regulation Scale - DERS[cite:@lawlor_selfreported_2021;@gratz_multidimensional_2004;@gouveia_difficulties_2022;]
+La DERS è una scala autoriporata sviluppata per valutare la disregolazione emotiva, è articolata in 36 item che vengono classificati all'interno di 6 sottoscale che analizzano diversi domini di regolazione emotiva:
+1. Mancata accettazione delle emozioni negative (*nonacceptance*);
+2. Difficoltà a impegnarsi in comportamenti /goal-directed/ quando a disagio (*goals*);
+3. Difficoltà a controllare comportamenti impulsivi quando a disagio (*impulse*);
+4. Accesso accesso limitato a strategie di regolazione emotiva percepite come efficacci (*strategies*);
+5. Mancanza di consapevolezza emotiva (*awareness*);
+6. Mancanza di chiarezza emotiva (*clarity*);
+
+Per ogni item viene indicato quanto spesso il soggetto sente che la frase si applica a se stesso, in un range da 0 ("quai mai") a 5 ("quasi sempre").
+
+*** BIA e dati nutrizionali
+qua mi servono altri dettagli sullo strumento presumo
+
+Per la valutazione della composizione corporea è stata usata la bioimpedenziometria?
+
+Durante la valutazione dietetica è stato calcolato il recall dei macronutrienti assunti nelle precedenti 24 ore, basandosi sulla dieta riportata dal paziente.
+
+*** Statistica
+
 
 * Risultati
 
+Nelle valutazioni il campione è stato suddiviso sulla base del sesso assegnato alla nascita e all'interno di questi due gruppi è stato ulteriormente suddiviso sulla base dell'aver iniziato o meno una terapia ormonale di affermazione di genere.
+
+Inizialmente sono stati valutati parametri sociodemografici come l'età e la scolarità e valori nutrizionali basilari del peso e BMI .
+
+# TABELLA1 - descrittiva base
+\begin{table}[H]
+\centering
+    \caption{Valutazioni sociodemografiche e valori di peso e BMI}
+    \vspace*{0.2em}
+{\renewcommand{\arraystretch}{2}%
+\resizebox{\columnwidth}{!}{%
+    \begin{tabular}{|c|c|c|c|c|c|c|c|c||c|c|}\hline
+    \multirow{3}{*}{} & \multicolumn{4}{c|}{\textbf{AFAB}}& \multicolumn{4}{c||}{\textbf{AMAB}}& \multirow{3}{*}{\textbf{SAAB}} & \multirow{3}{*}{\textbf{CHT}}\\ \cline{2-9}
+                      &  \multicolumn{2}{c|}{CHT NO}&  \multicolumn{2}{c|}{CHT SÌ}&  \multicolumn{2}{c|}{CHT NO}&  \multicolumn{2}{c||}{CHT SÌ }& &\\ \cline{2-9}
+                      &  Media &StD &  Media&StD&  Media&StD&  Media&StD& &\\ \hline
+         \textbf{Età}          &  26.375&12.409&  24.625&6.046&  28.333&12.533&  30.333&12.757&  & \\ \cline{1-9}
+         \textbf{Peso}         &  65.888&17.429&  77.250&19.762&  79.983&21.936&  69.833&24.513&  & \\ \hline
+         \textbf{BMI}          &  24.251&6.066&  28.197&6.949&  25.917&6.289&  24.498&8.568&  0.908& 0.332\\ \hline
+         \textbf{Scolarità}    &  13.500&2.510&  11.833&2.041&  13.000&0&  11.167&2.137&  & \\ \hline
+    \end{tabular}%
+}}
+    \label{tab:my_label}
+    \footnotesize \textit{AFAB(Assigned Female at Birth), AMAB(Assigned Male at Birth), CHT(Cross-Sex Hormone Therapy), SAAB(Sex Assigned at Birth), StD(deviazione standard)}
+\end{table}
+# TABELLA1
+
+Da questa prima valutazione di possono già notare delle differenze di peso e BMI tra le popolazioni con e senza terapia ormonale.\\
+Nei pazienti AFAB si osserva un peso e BMI minori nella popolazione senza terapia ormonale che invece sono maggiori nella popolazione sottoposta a CHT.\\
+Nei pazienti AMAB si osserva invece il contrario, il BMI risulta più elevato nei soggetti che non fanno terapia ormonale mentre più basso in quelli con CHT.\\
+È stata fatta una valutazione delle covariate ANCOVA per mettere in correlazione il BMI con il SAAB e con la CHT di cui si riporta l'F value nelle colonne di destra, questo però non è risultato rilevante.
+
+
+# TABELLA 2 - descrittiva nutrizionale
+\begin{table}[H]
+\centering
+    \caption{Valutazione dei parametri nutrizionali}
+    \vspace*{0.2em}
+{\renewcommand{\arraystretch}{2}%
+\resizebox{\columnwidth}{!}{%
+    \begin{tabular}{|c|c|c|c|c|c|c|c|c||c|c|} \hline
+     \multirow{3}{*}{}    &  \multicolumn{4}{c|}{\textbf{AFAB}}&  \multicolumn{4}{c||}{\textbf{AMAB}}& \multirow{3}{*}{\textbf{SAAB}} & \multirow{3}{*}{\textbf{CHT}}\\ \cline{2-9}
+ &  \multicolumn{2}{c|}{CHT NO}&  \multicolumn{2}{c|}{CHT SÌ}&  \multicolumn{2}{c|}{CHT NO}&  \multicolumn{2}{c||}{CHT SÌ}& &\\ \cline{2-9}
+ &  Media&StD&  Media&StD&  Media&StD&  Media&StD& &\\\hline
+         \textbf{Recall24 kcal}	&  1284.538&575.924&  1586.880&480.263&  1470.508&693.466&  1548.305&606.386&  0.091& 0.552\\ \hline
+         \textbf{Recall24 Proteine}	&  45.482&25.924&  69.914&23.310&  63.448&32.134&  49.097&18.588&  & \\ \hline
+         \textbf{Recall24 Lipidi}	&  49.222&21.147&  43.976&12.124&  60.150&30.964&  59.255&29.929&  1.303& 0.082\\ \hline
+         \textbf{Recall24 Carb}	&  167.403&108.229&  221.750&79.119&  179.610&86.045&  209.989&76.142&  0.017& 1.357\\ \hline
+         \textbf{Proteine/g/kg} &  0.604&0.334&  0.605&0.446&  0.772&0.323&  0.733&0.361&  & \\ \cline{1-9}
+ \textbf{Kcal/Kg}& 17.438&8.775& 13.987&10.677& 18.012&8.109& 22.866&10.843& &\\ \hline
+    \end{tabular}%
+    }}
+    \label{tab:my_label}
+    \footnotesize \textit{Recall si riferisce a ciò che il soggetto riporta di aver mangiato nel giorno precedente, per cui vengono calcolate le calorie totali e la quantità dei vari macronutrienti proteine, lipidi e carboidrati(carb); proteine/g/kg fa riferimento al numero di grammi di proteine per Kg di peso corporeo; Kcal/Kg fa riferimento al numero di Kcal per Kg di peso corporeo}
+\end{table}
+# tabella 2
+
+Andando a valutare le caratteristiche nutrizionali nel campione si può osservare che in entrambe le popolazioni AMAB e AFAB si ha un introito calorico nelle 24 ore maggiori nei pazienti che fanno terapia ormonale. Tuttavia, questa differenza risulta proporzionale al peso solamente nei pazienti AMAB che fanno CHT, mentre nei pazienti AFAB con CHT le kcal per kg di peso sono inferiori rispetto ai pazienti AFAB che non fanno terapia ormonale.\\
+A livello di macronutrienti, i pazienti AFAB con terapia ormonale riportano un numero minore di lipidi e maggiore di proteine e carboidrati rispetto ai pazienti che non fanno CHT, andando a valutare tuttavia i grammi di proteine per kg questa differenza appare molto sottile.\\
+Nei pazienti AMAB invece il consumo di proteine e lipidi è minore nei pazienti che fanno CHT, mentre è maggiore il numero di carboidrati, in questo caso la differenza nei grammi di proteine per kg è leggeremente maggiore. \\
+Per i valori nutrizionali è stata svolta un analisi delle covariate ANCOVA sempre considerando SAAB e CHT per il recall nelle 24 ore, lipidi e carboidrati, ma anche in questo caso i risultati non sono statisticamente significativi.
+
+
+# TABELLA 3 - descrittivba bia
+\begin{table}[H]
+    \centering
+    \caption{Valutazioni bioimpedenziometriche}
+    \vspace*{0.2em}
+{\renewcommand{\arraystretch}{2}%
+\resizebox{\columnwidth}{!}{%
+    \begin{tabular}{|c|c|c|c|c|c|c|c|c||c|c|}\hline
+    \multirow{3}{*}{} & \multicolumn{4}{c|}{\textbf{AFAB}}& \multicolumn{4}{c||}{\textbf{AMAB}}& \multirow{3}{*}{\textbf{SAAB}} & \multirow{3}{*}{\textbf{CHT}}\\\cline{2-9}
+         &  \multicolumn{2}{c|}{CHT NO}&  \multicolumn{2}{c|}{CHT SÌ}&  \multicolumn{2}{c|}{CHT NO}&  \multicolumn{2}{c||}{CHT SÌ}&  & \\ \cline{2-9}
+ & Media& StD& Media& StD& Media& StD& Media& StD& &\\\hline
+         \textbf{PhA}
+&  5.475&0.386&  6.425&0.479&  6.340&0.669&  5.467&0.539&  0.347&  0.217\\ \hline
+         \textbf{FFM}
+&  44.080&6.301&  54.775&10.426&  62.683&10.160&  48.417&12.297&  2.066&  0.467\\ \hline
+         \textbf{FFM\%}
+&  72.106&14.626&  68.974&7.325&  80.273&9.454&  83.452&10.063&  1.203&  0.226\\ \hline
+         \textbf{FM}
+&  19.460 &13.258&  26.000&11.429&  17.200&12.671&  11.517&9.153&  2.139&  0.005\\ \hline
+        \textbf{ FM\%}
+&  27.894&14.626 &  30.754&7.089&  19.697&9.434&  16.548&10.063&  2.776&  7.521×10-6\\ \hline
+         \textbf{BCM}
+&  24.500&5.775 &  30.600 &6.142&  37.150	 &8.612&  24.950 &7.640&  1.479&  1.391\\ \hline
+ \textbf{BCM\%}
+& 55.508&10.495& 55.842&2.321& 59.188&9.857& 50.921&3.041& 0.839&1.069\\\hline
+ \textbf{TBW}
+& 32.740&4.814& 40.150&7.737& 45.183&7.942& 35.517&9.036& &\\\cline{1-9}
+ \textbf{TBW\%}
+& 53.789&12.788& 50.522&5.105& 57.635&5.162& 61.224&7.410& &\\\cline{1-9}
+\textbf{ECW\%}& 44.459&8.821& 43.776&2.058& 41.140&8.032& 48.308&2.897& &\\\hline
+    \end{tabular}%
+    }}
+    \label{tab:my_label}
+    \footnotesize \textit{PhA(angolo di fase), FFM(fat free mass), FM(fat mass), BCM(body cell mass), TBW(total body water), ECW(extracellular water) percentuale su TBW}
+\end{table}
+# TABELLA 3 - descrittivba bia
+
+Dalle misurazioni bioimpedenziometriche si possono valutare le differenze di composizione corporea tra le varie popolazioni nel campione.\\
+Nei pazienti AFAB con CHT si nota una maggiore FFM e FM rispetto agli AFAB senza CHT, coerente con le differenze di peso e BMI prima evidenziate, a livello percentuale invece gli AFAB con CHT risultano avere proporzionalmente meno FFM e più FM. \\
+Nei pazienti AMAB con CHT invece si nota come questi abbiano una minore FFM e FM rispetto ai pazienti senza tearpia, con una maggiore FFM in percentuale. In questo caso i pazienti AMAB con CHT hanno anche una BCM minore rispetto a quelli senza CHT sia a livello totoale che percentuale. \\
+Per quanto riguarda la TBW questa è maggiore negli AFAB con CHT rispetto a quelli senza, tuttavia il valore percentuale è minore. Mentre negli AMAB, la TBW è minore in quelli che fanno CHT, ma con un valore percentuale maggiore.
+
+
+# TABELLA 4 - psicopatologia
+\begin{table}[H]
+    \centering
+    \caption{Valutazioni delle scale di psicopatologia}
+    \vspace*{0.2em}
+{\renewcommand{\arraystretch}{2}%
+\resizebox{\columnwidth}{!}{%
+    \begin{tabular}{|c|c|c|c|c|c|c|c|c||c|c|}\hline
+    \multirow{3}{*}{}  & \multicolumn{4}{c|}{\textbf{AFAB}}& \multicolumn{4}{c||}{\textbf{AMAB}}& \multirow{3}{*}{\textbf{SAAB}} & \multirow{3}{*}{\textbf{CHT}}\\\cline{2-9}
+ & \multicolumn{2}{c|}{CHT NO}& \multicolumn{2}{c|}{CHT SÌ}& \multicolumn{2}{c|}{CHT NO}& \multicolumn{2}{c||}{CHT SÌ}& &\\\cline{2-9}
+         &  Media&StD&  Media&StD&  Media&StD&  Media&StD&  & \\ \hline
+        \textbf{DERS} &  104.167 &39.092&  92.500 &22.472&  81.500 &24.187&  96.200 &9.418&  0.386& 6.188×10-4\\ \hline
+        \textbf{CTQ}  &  47.600 &10.164&  66.500 &13.964&  45.750 &7.089&  38.600 &9.711&  8.913**& 1.597\\ \hline
+        \textbf{IDEA\_sgalt} &  2.911 &1.649&  2.500 &0.556&  2.278 &1.259&  2.756 &0.726&  0.070& 0.009\\ \hline
+        \textbf{IDEA\_misob} &  2.880 &1.446&  2.400 &1.058&  2.550 &0.772&  1.680 &0.729&  1.274& 1.258\\ \hline
+        \textbf{IDEA\_corpes} &  2.760 &0.740&  2.300 &1.137&  1.850 &0.443&  1.840 &0.261&  4.221& 1.378\\ \hline
+        \textbf{IDEA\_ined} &  2.700 &1.280&  1.938 &0.554&  2.500 &0.890&  1.300 &0.411&  1.425& 4.537*\\ \hline
+        \textbf{IDEA\_TOT} &  2.813 &0.484&  2.284 &0.437&  2.294 &0.195&  1.894 &0.448&  4.870*& 4.902*\\ \hline
+        \textbf{BSI\_GSI} &  1.733 &1.078&  1.575 &0.915&  1.212 &0.798&  1.409 &0.660&  0.583& 0.005\\ \hline
+        \textbf{MAIA\_not} & 2.958 &1.134& 3.563 &1.087& 2.938 &1.161& 4.050 &0.622& 0.202&3.070\\\hline
+        \textbf{MAIA\_notdis} & 2.778 &1.425& 2.417 &1.032& 2.167 &0.839& 2.800 &1.216& 0.024&0.032\\\hline
+        \textbf{MAIA\_notwor }& 2.222 &1.277& 3.000 &1.305& 3.167 &1.262& 1.867 &0.506& 0.003&0.725\\\hline
+        \textbf{MAIA\_attreg} & 2.000 &1.212& 2.714 &0.728& 2.571 &1.161& 3.029 &0.634& 0.921&1.375\\\hline
+        \textbf{MAIA\_emoaw} & 2.033 &1.376& 2.500 &1.013& 2.350 &1.088& 4.040 &0.434& 3.009&5.837*\\\hline
+        \textbf{MAIA\_selfreg} & 1.000 &0.851& 1.813 &0.515& 1.563 &0.774& 2.300 &1.006& 1.532&4.249\\\hline
+        \textbf{MAIA\_boli} & 1.333 &0.943& 1.750 &0.739& 2.667 &1.563& 3.200 &1.169& 7.451*&0.547\\\hline
+        \textbf{MAIA\_tru} & 1.278 &1.467& 0.917 &0.500& 1.333 &0.471& 1.600 &0.830& 0.352&0.071\\\hline
+    \end{tabular}%
+    }}
+    \label{tab:my_label}
+    \footnotesize \textit{Vengono riporatati i punteggi ottenuti per le varie scale e sottoscale prima descritte; per quanto riguarda le sottoscale dell'IDEA vengono utilizzati i nomi italiani corrispondenti sgalt(sguardo altrui, gaze of others), misob(misure obiettive, objective measures), corpes(corpo estraneo, extraneous from one's own body ), ined(inedia, starvation)}
+\end{table}
+
+# TABELLA 4 - psicopatologia
+
+Nella valutazione delle scale di psicopatologia è stata svolta per ogni scala un'analisi delle covariate ANCOVA rispetto a SAAB e CHT che ha dato risultati statisticamente significativi per alcune di queste.\\
+Nel caso della CTQ questa appare correlata in maniera rilevante con il sesso assegnato alla nascita, paragonando i valori tra AFAB e AMAB si vede infatti che i primi hanno valori più alti sia nel campione senza CHT che in quello con, che appare la popolazione con valori più alti tra tutte.\\
+Si trovano correlazioni rilevanti anche per la scala IDEA, sia per il punteggio totale sia per la sottoscala INED(inedia o /starvation/), quest'ultima in particolare risulta correlata in maniera rilevante con la terapia ormonale, si può osservare infatti un punteggio minore nei pazienti sia AMAB che AFAB che fanno CHT rispetto a quelli che non la fanno.\\
+Altre correlazioni significative ci sono per due sottoscale della scala MAIA, in particolare la sottoscala EMOAW(/emotional awareness/) appare correlata con la CHT mentre la sottoscala BOLI(/body listening/) è correlata al SAAB.
+
+
+** Correlazioni AFAB
+
+Successivamente sono state svolte tabelle di correlazione per valutare l'impatto dei valori nutrizionali sia sulla composizione corporea che sula psicometria.
+
+
+# TABELLA 5 - Corelazioni BIA AFAB
+\begin{table}[H]
+    \centering
+    \caption{Correlazioni tra valori nutrizionali e BIA nei pazienti AFAB}
+    \vspace*{0.2em}
+{\renewcommand{\arraystretch}{2}%
+\resizebox{\columnwidth}{!}{%
+    \begin{tabular}{|c|c|c|c|c|c|} \hline
+         &  \textbf{BMI}&  \textbf{Recall24 Kcal}&  \textbf{Recall24 Proteine}&  \textbf{Recall24 Lipidi}&  \textbf{Recall24 Carb}\\ \hline
+         \textbf{PhA}
+&  0.215&  0.126&  0.214&  0.564*&  0.045\\ \hline
+         \textbf{FFM\%}
+&  0.9***&  0.613*&  0.525*&  0.047&  0.675**\\ \hline
+         \textbf{ FM\%}
+&  0.951***&  0.78***&  0.707**&  0.114&  0.819***\\ \hline
+ \textbf{BCM\%}
+& 0.67**& 0.345& 0.138& 0.016& 0.437\\\hline
+    \end{tabular}%
+    }}
+    \label{tab:my_label}
+\end{table}
+
+# TABELLA 5 - Corelazioni BIA AFAB
+
+In questa valutazione si possono osservare i valori di macronutrienti che sono più correlati a cambiamenti in determinati compartimenti corporei.\\
+L'angolo di fase appare particolarmente correlato con il consumo lipidico, la FFM% invece risulta correlata con le calorie totali, con le proteine, ma soprattutto con i carboidrati.\\
+La FM% è correlata soprattutto con carboidrati e calorie, mentre in maniera leggermente meno rilevante correla anche con le proteine.
+
+
+# TABELLA 6 - Correlazioni psico AFAB
+\begin{table}[H]
+    \centering
+    \caption{Correlazioni tra valori nutrizionali e psicometrici nei pazienti AFAB}
+    \vspace*{0.2em}
+{\renewcommand{\arraystretch}{2}%
+\resizebox{\columnwidth}{!}{%
+    \begin{tabular}{|c|c|c|c|c|c|} \hline
+         &  \textbf{BMI}&  \textbf{Recall24 Kcal}&  \textbf{Recall24 Proteine}&  \textbf{Recall24 Lipidi}&  \textbf{Recall24 Carb}\\ \hline
+         \textbf{BSI\_GSI} & -0.031& -0.22& -0.371& -0.21& 0.006\\\hline
+         \textbf{DERS} &  -0.002&  0.052&  -0.156&  0.253&  0.236\\ \hline
+         \textbf{CTQ}  &  0.67***&  0.639**&  0.414&  -0.07&  0.639**\\ \hline
+         \textbf{IDEA\_sgalt} &  0.68***&  0.882***&  0.699***&  0.084&  0.862***\\ \hline
+         \textbf{IDEA\_misob} &  -0.684***&  -0.782***&  -0.611**&  0.158&  -0.777***\\ \hline
+         \textbf{IDEA\_corpes}&  -0.39&  -0.692**&  -0.552*&  -0.005&  -0.564*\\ \hline
+         \textbf{IDEA\_ined}  &  -0.412&  -0.368&  -0.212&  0.127&  -0.34\\ \hline
+         \textbf{IDEA\_TOT}   &  -0.38&  -0.447&  -0.28&  0.131&  -0.351\\\hline
+        \textbf{MAIA\_not} & 0.303& 0.276& 0.297& -0.048& 0.15\\\hline
+        \textbf{MAIA\_notdis} & -0.052& 0.122& 0.029& 0.252& 0.019\\\hline
+        \textbf{MAIA\_notwor} & 0.058& -0.03& 0.018& -0.287& -0.035\\\hline
+        \textbf{MAIA\_attreg} & 0.641***& 0.724***& 0.666***& -0.03& 0.582**\\\hline
+        \textbf{MAIA\_emoaw} & 0.342& 0.48*& 0.504*& -0.011& 0.34\\\hline
+        \textbf{MAIA\_selfreg} & 0.554**& 0.523*& 0.556**& -0.213& 0.416\\\hline
+        \textbf{MAIA\_boli} & 0.253& 0.272& 0.35& -0.072& 0.157\\\hline
+        \textbf{MAIA\_tru} & 0.254& 0.409& 0.494*& 0.204& 0.185\\\hline
+    \end{tabular}%
+    }}
+    \label{tab:my_label}
+\end{table}
+# tabella 6
+
+Passando alle valutazioni psicometriche si può notare come alcune scale e sottoscale correlino in modo significativo con i parametri nutrizionali, non soltanto per quanto riguarda BMI e calorie totali, ma anche con alcuni macronutrienti specifici. \\
+Il CTQ è correlato con il BMI e il Recall calorico, ma anche con il consumo di carboidrati. \\
+Per quanto riguarda l'IDEA si trovano correlazioni rilevanti per le sottoscale dello /sguardo altrui/ e delle /misure obiettive/, entrambe correlano in maniera significativa con BMI e recall calorico totale, delle proteine e dei carboidrati, nella prima si ha una correlazione diretta, mentre nella seconda la correlazione è inversa. \\
+La sottoscala /corpo estraneo/ invece non ha correlazione col BMI, ma si hanno sempre correlazioni inverse significative con recall delle calorie, proteine e carboidrati. \\
+Anche per quanto riguarda il questionario MAIA abbiamo alcune scale che correlano in maniera significativa: la sottoscala di /attention regulation/ correla con BMI, calorie nelle 24h, proteine e carboidrati; la sottoscala di /self regulation/ correla con BMI, calorie nelle 24h e proteine; si hanno poi correlazioni minori ma comunque significative per la scala di /emotional awareness/ con recall 24h calorico e proteico e per la scala /trusting/ solamente con il recall proteico.
+
+
+** Correlazioni AMAB
+Passando a valutare le correlazioni nei pazienti AMAB si possono notare importanti differenze rispetto agli AFAB, sia per quanto riguarda i valori bioimpedenziometrici che quelli psicometrici.
+
+# TABELLA 7 - correlazioni BIA AMAB
+\begin{table}[H]
+    \centering
+    \caption{Correlazioni tra valori nutrizionali e BIA nei pazienti AMAB}
+    \vspace*{0.2em}
+{\renewcommand{\arraystretch}{2}%
+\resizebox{\columnwidth}{!}{%
+    \begin{tabular}{|c|c|c|c|c|c|} \hline
+         &  \textbf{BMI}&  \textbf{Recall24 Kcal}&  \textbf{Recall24 Proteine}&  \textbf{Recall24 Lipidi}&  \textbf{Recall24 Carb}\\ \hline
+    \textbf{PhA}   &  0.69***&  0.188&  0.233&  0.091&  0.063\\ \hline
+    \textbf{FFM\%} &  0.758***&  0.272&  0.13&  0.073&  0.231\\ \hline
+    \textbf{ FM\%} &  0.797***&  -0.273&  -0.214&  -0.359&  -0.188\\ \hline
+    \textbf{BCM\%} & 0.732***& 0.242& 0.124& 0.088& 0.179\\\hline
+    \end{tabular}%
+    }}
+    \label{tab:my_label}
+\end{table}
+# TABELLA 7 - correlazioni BIA AMAB
+
+In questo caso i valori della bioimpedenziometria non sono correlati né al recall calorico totale né ad alcun specifico macronutriente, mentre rimane una correlazione importante e significativa con il BMI per tutti i valori della BIA.
+
+
+# TABELLA 8 - correlazioni psico AMAB
+\begin{table}[H]
+    \centering
+    \caption{Correlazioni tra valori nutrizionali e psicometrici nei pazienti AMAB}
+    \vspace*{0.2em}
+{\renewcommand{\arraystretch}{2}%
+\resizebox{\columnwidth}{!}{%
+    \begin{tabular}{|c|c|c|c|c|c|} \hline
+         &  \textbf{BMI}&  \textbf{Recall24 Kcal}&  \textbf{Recall24 Proteine}&  \textbf{Recall24 Lipidi}&  \textbf{Recall24 Carb}\\ \hline
+         \textbf{BSI\_GSI} & -0.232& 0.431*& -0.495*& 0.473*& 0.594**\\\hline
+         \textbf{DERS} &  -0.525*&  0.25&  -0.778***&  0.199&  0.516*\\ \hline
+         \textbf{CTQ}  &  0.178&  -0.549*&  0.529*&  -0.268&  -0.576**\\ \hline
+         \textbf{IDEA\_sgalt} &  0.128&  0.202&  -0.462*&  -0.002&  0.149\\ \hline
+         \textbf{IDEA\_misob} &  0.865***&  -0.044&  0.783***&  -0.052&  -0.475*\\ \hline
+         \textbf{IDEA\_corpes}&  0.114&  0.023&  -0.221&  0.088&  0.053\\ \hline
+         \textbf{IDEA\_ined} &  0.866***&  -0.131&  0.818***&  -0.078&  -0.529\\ \hline
+         \textbf{IDEA\_TOT} &  0.895***&  -0.1&  0.62**&  -0.124&  -0.517*\\\hline
+        \textbf{MAIA\_not} & -0.693***& -0.02& -0.726***& 0.021& 0.314\\\hline
+        \textbf{MAIA\_notdis} & -0.297& -0.248& -0.562**& -0.15& 0.07\\\hline
+        \textbf{MAIA\_notwor} & 0.47*& -0.56*& 0.679***& -0.318& -0.659**\\\hline
+        \textbf{MAIA\_attreg} & 0.344& 0.295& 0.216& 0.046& 0.005\\\hline
+        \textbf{MAIA\_emoaw} & -0.654***& 0.307& -0.749***& 0.19&  0.536*\\\hline
+        \textbf{MAIA\_selfreg} & -0.099& 0.576**& 0.012& 0.352& 0.402\\\hline
+        \textbf{MAIA\_boli} & -0.085& 0.181& 0.124& 0.018& 0.091\\\hline
+        \textbf{MAIA\_tru} & 0.252& 0.577**& 0.202& 0.305& 0.234\\\hline
+    \end{tabular}%
+    }}
+    \label{tab:my_label}
+\end{table}
+# TABELLA 8 - correlazioni psico AMAB
+
+Per quanto riguada i valori psicometrici si può notare che in questo caso i parametri che risultano essere più significativi sono il BMI, in maniera analoga agli AFAB e il recall delle proteine.
+
+Per quanto riguarda la scala BSI questa non correla con il BMI ma risulta invece correlata in maniera significativa con il recall calorico, proteico, lipidico e dei carboidrati, è interessante notare che questa è l'unica scala che correla con il recall dei lipidi sia considerando AMAB che AFAB. \\
+A differenza dei soggetti AFAB in questo caso abbiamo anche correlazioni significative per la scala DERS, in particolar modo risulta correlata negativamente in maniera significativa con il recall proteico. \\
+Il CTQ in questo caso presenta delle associazioni significative, ma meno rilevanti rispetto ai pazienti AFAB ed in questo caso non si ha correlazione con il BMI, ma con recall calorico, proteico e carboidrati. \\
+Anche per quanto riguarda le sottoscale dell'IDEA si possono notare similitudini e differenze con i pazienti AFAB, in questo caso ad esempio ci sono poche correlazioni significative con le sottoscale dello sguardo altrui e del corpo estrano, che erano invece correlate negli individui AFAB. Al contrario si trovano correlazioni significative con la scala dell'inedia e con il punteggio totale, che non sono presenti nei soggetti AFAB. \\
+Per quanto riguarda la sottoscala delle misure obiettive si ha un'inversione della correlazione, nei pazienti AFAB infatti si avevano correlazioni negative con BMI e proteine, mentre abbiamo una correlazione positiva per i soggetti AMAB con questi stessi parametri. \\
+Anche per quanto riguarda la scala MAIA si notano differenze nelle sottoscale coinvolte, ad esempio la scala di /attention regulation/, molto significativa nei soggetti AFAB non ha correlazione in quelli AMAB. Si hanno invece correlazioni rilevanti per quanto riguarda le sotttoscale /noticing/, /not distracting/ e /not worrying/, in particolar modo sembrano essere significativamente correlate con il recall delle proteine, in maniera negativa per le prime due e positiva per l'ultima. \\
+Per quanto riguarda la sottoscala di /emotional awareness/ si trovano correlazioni significative con il BMI e di nuovo con il recall proteico e con minore significatività con quello dei carboidrati. \\
+Le sottoscale /self regulation/ e /trusting/ risultano invece correlate con il recall calorico totale.
+
+
+** Longitudinale
+Sono state effettuate anche delle valutazioni longitudinali nei pazienti AMAB e AFAB prima e dopo l'inizio della CHT, per valutare l'impatto che questa può avere sulle abitudini alimentari e la composizione corporea. \\
+L'unica correlazione rilevante è stata trovata con il BMI, come si può osservare nel grafico in entrambe le popolazioni AMAB e AFAB questo scende con l'inizio della CHT.
+[[./data/bmi_marginal.jpg]]
+
+
+
 * Discussione
+I risultati dello studio mettono in evidenza la presenza di correlazioni tra le abitudini alimentari ed il BMI e la psicopatologia negli individui TGD, con caratteristiche differenti nelle due popolazioni AMAB e AFAB.
+
+Nei soggetti AFAB la terapia con testosterone ha tra i suoi effetti un'aumento della massa corporea[cite:@schonauer_hormone_2021], il che spiega il maggiore peso e BMI nei pazienti AFAB con CHT rispetto a quelli che non la fanno.
+
+Al contrario nei sogetti AMAB l'effetto atteso della CHT è una diminuzione della massa magra con aumento di massa grassa e BMI[cite:@ford_characterising_2022], nel nostro campione i risultati non sono coerenti con queste aspettative infatti si osserva al contrario un minore BMI negli individui con CHT e valori minori sia di FM che di FFM, che a livello percentuale favorisono una maggiore FFM%.
+# non torna un tubo
+
+Prendendo in considerazione la piccola dimensione del campione e le caratteristiche psicopatologiche è plausibile che alcune di queste inconsistenze siano dovute a delle problematiche del comportamento alimentare, che agiscono come fattore esterno ma determinante nella differenza di peso e composizione corporea.
+
+Difatti valutando le correlazioni tra BMI e nutrizione e le varie scale psicometriche, queste risultano particolarmente rilevanti soprattutto per i soggetti AMAB, questo può far pensare che questi individui partano con livelli importanti di disagio corporeo e comportamento alimentare molto alterato. La diminuzione del BMI quindi potrebbe essere spiegata da un miglioramento nella propria visione corporea come conseguenza della CHT, che porta ad un miglioramento nel comportamento alimentare, che ha come conseguenza finale un migliore valore di BMI nei soggetti che fanno CHT.
+Questo andamento viene anche seguito nella valutazione longitudinale in cui nei soggetti AMAB si parte da un valore di BMI leggermente elevato e in seguito alla terapia ormonale si rientra nei valori ideali di peso salutare.
+
+Valutando più nel dettaglio le sottoscale maggiormente correlate al corpo nei pazienti AMAB queste sembrano indicare una presentazione caratteristica dei disturbi dell'alimentazione a carattere restrittivo come l'anoressia nervosa, con un forte disagio corporeo come dimostrato dalla correlazione con le sottoscale IDEA /misure obiettive/ e /inedia/.
+
+Negli individui AFAB invece i valori psicopatologici sembrano indicare una presentazione più legata ad esperienze traumatiche, con punteggi più alti nel CTQ e che correlavano in maniera significativa con i valori nutrizionali e di BMI.
+Dai valori del questionario IDEA sembra difatti esserci anche una visione di corpo come entità esterna e una ridotat interocezione, con punteggi bassi anche nelle sottoscale MAIA di /self regulation/, /trusting/ e /attention regulation/.
+
+
+** Limitazioni dello studio e prospettive future
+Lo studio risulta limitato principalmente dalla piccola dimensione del campione, si ipotizza che con una popolazione più ampia potrebbe essere possibile identificare uno specifico fattore nutrizionale correlato al miglioramento psicopatologico, mentre nello studio è risultato significativo solamente il BMI.
+
+Inoltre la valutazione longitudinale è stata fatta per un intervallo di tempo molto breve, mentre per studi successivi sarebbe opportuno valutare gli effetti della CHT nel lungo termine, andando valutare come cambiano sia la composizione corpora che le abitudini alimentari in questi soggetti dopo gli effetti dati dall'inizio della terapia.
+
 
 * Conclusioni
 
